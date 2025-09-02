@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6775fca6af1d594924c71315",
+	"createdTime":1735785642278,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aammk3a/amusuw",
+	"httpMethod":"POST",
+	"id":"6775fcaaaf1d594924c71317",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-filter-modified by-117357778668690",
+	"modifiedTime":1735785642278,
+	"name":"Endpoint-Filter-modified by-117357778668690",
+	"ownerUserId":34,
+	"path":"amusuw",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
