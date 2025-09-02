@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678202b5b5038500aa611111",
+	"createdTime":1736573625316,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"pjblhjytikjcadg/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"678202b9b5038500aa611116",
+	"lastModifiedBy":34,
+	"lcName":"destination_dnd_ivebz",
+	"modifiedTime":1736573625917,
+	"name":"DESTINATION_DND_IVebz",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["678202b6b5038500aa611112"],
+	"resourceIds":["678202b4f40bb46e7486684c"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
