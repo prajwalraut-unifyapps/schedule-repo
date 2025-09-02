@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677390e262016c65595f93da",
+	"createdTime":1736606256495,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6782822fb1872e2090e887e7/{a}",
+	"httpMethod":"ANY",
+	"id":"678282300feff5197a14a3c0",
+	"lastModifiedBy":-1,
+	"lcName":"destination_dnd_webhook17366062549951736606254995 automation web-hook",
+	"modifiedTime":1736616347503,
+	"name":"DESTINATION_DND_webhook17366062549951736606254995 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6782822fb1872e2090e887e7/{a}",
+	"resourceIds":["6782822fb1872e2090e887e7"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
