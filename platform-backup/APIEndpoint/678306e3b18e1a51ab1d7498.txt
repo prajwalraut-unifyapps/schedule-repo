@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678306e0b18e1a51ab1d7494",
+	"createdTime":1736640227636,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"jbjaijadekhqxws/automation",
+	"httpMethod":"POST",
+	"id":"678306e3b18e1a51ab1d7498",
+	"lastModifiedBy":34,
+	"lcName":"destination_dnd_jnzuj",
+	"modifiedTime":1736640228168,
+	"name":"DESTINATION_DND_JnZUJ",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["678306e1b18e1a51ab1d7495"],
+	"resourceIds":["678306dc44ce135db1da68f5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
