@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679c20619349875158646524",
+	"createdTime":1738285154801,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"wCSdJsHFONzizVm/automation",
+	"httpMethod":"POST",
+	"id":"679c20629349875158646527",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqahyydi",
+	"modifiedTime":1738387934820,
+	"name":"changeSetSECURITYQAHYYdi",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["null"],
+	"resourceIds":["null"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
