@@ -1,0 +1,33 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1713375696506,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"backendautomation/test",
+	"grants":{
+		"configs":[
+			{
+				"permissions":["A"],
+				"principalType":"GLOBAL"
+			}
+		]
+	},
+	"httpMethod":"GET",
+	"id":"662009d070bee5501e04ff99",
+	"lastModifiedBy":34,
+	"lcName":"queryparamtest",
+	"modifiedTime":1713375698384,
+	"name":"queryParamTest",
+	"ownerUserId":34,
+	"path":"test",
+	"resourceIds":["662009460014154c994e6981"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
