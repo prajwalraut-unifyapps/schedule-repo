@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67728bcb00884c289a28819d",
+	"createdTime":1735587276397,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6772f5c2589a16284a270e7d",
+	"httpMethod":"ANY",
+	"id":"6772f5ccf224be7c930782ea",
+	"lastModifiedBy":-1,
+	"lcName":"standard_entities_with_add_user_teams_117355848095750 automation web-hook",
+	"modifiedTime":1735587276397,
+	"name":"Standard_Entities_With_Add_User_Teams_117355848095750 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6772f5c2589a16284a270e7d",
+	"resourceIds":["6772f5c2589a16284a270e7d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
