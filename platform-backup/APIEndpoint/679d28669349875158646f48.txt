@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"679d28629349875158646f46",
+	"createdTime":1738352742800,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"au3dig7/arshtpo",
+	"httpMethod":"POST",
+	"id":"679d28669349875158646f48",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-filter-modified by-117383522785350",
+	"modifiedTime":1738352748103,
+	"name":"Endpoint-Filter-modified by-117383522785350",
+	"ownerUserId":34,
+	"path":"arshtpo",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
