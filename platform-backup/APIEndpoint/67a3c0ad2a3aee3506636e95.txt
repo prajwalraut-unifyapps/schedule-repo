@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a3c0a92a3aee3506636e94",
+	"createdTime":1738784941667,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"antp99i/ajort9d?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67a3c0ad2a3aee3506636e95",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117387843083440",
+	"modifiedTime":1738784947639,
+	"name":"Is-Resource Id-117387843083440",
+	"ownerUserId":34,
+	"path":"ajort9d",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
