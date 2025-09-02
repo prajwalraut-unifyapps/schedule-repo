@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a346848cd11b4cdfc3db52",
+	"createdTime":1738753672387,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"pskweoailsmsrpx/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67a346888cd11b4cdfc3db57",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalezlay",
+	"modifiedTime":1738754248033,
+	"name":"changeSetLocalezlAY",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["67a346858cd11b4cdfc3db53"],
+	"resourceIds":["67a3468201ba667bc5c9af06"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
