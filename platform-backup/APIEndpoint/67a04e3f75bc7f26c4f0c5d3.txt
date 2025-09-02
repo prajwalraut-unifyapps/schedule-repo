@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a04e3d75bc7f26c4f0c5d1",
+	"createdTime":1738559039030,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"WUmEnNeXXJ/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"67a04e3f75bc7f26c4f0c5d3",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocaldzkdv",
+	"modifiedTime":1738559039489,
+	"name":"changeSetLocalDZkdV",
+	"ownerUserId":34,
+	"path":"automation/endpoint1",
+	"policyIds":["67a04e3e75bc7f26c4f0c5d2"],
+	"resourceIds":["67a04e3bae8b1b75650537f1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
