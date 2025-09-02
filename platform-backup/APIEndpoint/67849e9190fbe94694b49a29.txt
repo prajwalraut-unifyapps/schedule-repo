@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677390e262016c65595f93da",
+	"createdTime":1736744593714,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67849e87770f3f62001f997a",
+	"httpMethod":"ANY",
+	"id":"67849e9190fbe94694b49a29",
+	"lastModifiedBy":-1,
+	"lcName":"eventstream_logsvisible_afterdisabling117367390834190 automation web-hook",
+	"modifiedTime":1736744647743,
+	"name":"eventStream_logsVisible_afterDisabling117367390834190 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67849e87770f3f62001f997a",
+	"resourceIds":["67849e87770f3f62001f997a"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":3
+}
