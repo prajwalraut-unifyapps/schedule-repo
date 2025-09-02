@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a3bfcb2a3aee3506636e48",
+	"createdTime":1738784720556,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"atleyui/a8rirn8",
+	"httpMethod":"POST",
+	"id":"67a3bfd02a3aee3506636e49",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_accessprofile_beendpointfore-update- - 11738784308344",
+	"modifiedTime":1738784738998,
+	"name":"update- accessprofile endpoint_accessProfile_beEndpointfore-update- - 11738784308344",
+	"ownerUserId":34,
+	"path":"a8rirn8",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
