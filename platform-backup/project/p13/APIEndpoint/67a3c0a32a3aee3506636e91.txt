@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a3c0a02a3aee3506636e8f",
+	"createdTime":1738784931237,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a2x18cq/endpointexternalapi---Callable---PATCH-11738784308344",
+	"httpMethod":"PATCH",
+	"id":"67a3c0a32a3aee3506636e91",
+	"lastModifiedBy":34,
+	"lcName":"endpointexternalapi - callable - patch 11738784308344",
+	"modifiedTime":1738784934759,
+	"name":"endpointexternalapi - Callable - PATCH 11738784308344",
+	"ownerUserId":34,
+	"path":"endpointexternalapi---Callable---PATCH-11738784308344",
+	"projectId":13,
+	"resourceIds":[null],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
