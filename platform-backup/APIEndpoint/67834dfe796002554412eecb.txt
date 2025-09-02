@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67834def796002554412ee81",
+	"createdTime":1736658430157,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"mvuhgtgfrt/wcwhseMPus/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67834dfe796002554412eecb",
+	"lastModifiedBy":34,
+	"lcName":"gnuwaylqgcztjrbwdoyg",
+	"modifiedTime":1736658431067,
+	"name":"GnuwayLqGcZtJrBwdOYg",
+	"ownerUserId":34,
+	"path":"wcwhseMPus/{age}",
+	"resourceIds":["66791ea8f870230e0b805b52"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
