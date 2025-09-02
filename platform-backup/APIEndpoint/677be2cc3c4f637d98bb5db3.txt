@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677be2c83c4f637d98bb5dac",
+	"createdTime":1736172236417,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"sdycduihlumeqay/automation",
+	"httpMethod":"POST",
+	"id":"677be2cc3c4f637d98bb5db3",
+	"lastModifiedBy":34,
+	"lcName":"changesetylkhy",
+	"modifiedTime":1736172236795,
+	"name":"ChangeSetylkHY",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["677be2cb3c4f637d98bb5daf"],
+	"resourceIds":["677be2c9508d7b705ee9bba3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
