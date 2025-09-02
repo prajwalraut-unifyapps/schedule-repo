@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a08204d332c101ec035cab",
+	"createdTime":1738572299017,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avd9u07/ambenk8",
+	"httpMethod":"POST",
+	"id":"67a0820bd332c101ec035cae",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deactivateaccessprofile - 11738571435908",
+	"modifiedTime":1738572333124,
+	"name":"endpoint_deactivateAccessProfile - 11738571435908",
+	"ownerUserId":34,
+	"path":"ambenk8",
+	"resourceIds":["67a081eb00a99a7ad1c358b7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
