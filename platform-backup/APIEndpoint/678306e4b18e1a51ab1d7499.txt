@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678306e0b18e1a51ab1d7494",
+	"createdTime":1736640228980,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"jbjaijadekhqxws/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"678306e4b18e1a51ab1d7499",
+	"lastModifiedBy":34,
+	"lcName":"destination_dnd_ybftn",
+	"modifiedTime":1736640229547,
+	"name":"DESTINATION_DND_YbFTN",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["678306e1b18e1a51ab1d7495"],
+	"resourceIds":["678306de44ce135db1da68ff"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
