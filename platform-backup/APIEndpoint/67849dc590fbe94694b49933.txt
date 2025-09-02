@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67849dbe90fbe94694b4991b",
+	"createdTime":1736744389140,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"nzhrmpomhx/dNeLAPrfpu",
+	"httpMethod":"POST",
+	"id":"67849dc590fbe94694b49933",
+	"lastModifiedBy":34,
+	"lcName":"njgkvznctudyvtbuegnq",
+	"modifiedTime":1736744390368,
+	"name":"nJGKVzNctUDYVTBUEGnQ",
+	"ownerUserId":34,
+	"path":"dNeLAPrfpu",
+	"resourceIds":["66ab973da1c8b020e8374d91"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
