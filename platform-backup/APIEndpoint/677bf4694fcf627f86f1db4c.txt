@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677bf4614fcf627f86f1db47",
+	"createdTime":1736176745494,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"etkemqhzzrfbssr/automation",
+	"httpMethod":"POST",
+	"id":"677bf4694fcf627f86f1db4c",
+	"lastModifiedBy":34,
+	"lcName":"changesetfthrg",
+	"modifiedTime":1736176746023,
+	"name":"ChangeSetfThrg",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["677bf4664fcf627f86f1db49"],
+	"resourceIds":["677bf462f79a7367b4051ef9"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
