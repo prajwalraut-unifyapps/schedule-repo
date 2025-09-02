@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67735919f224be7c93078530",
+	"createdTime":1735612700525,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aam6pxr/ayl294g?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6773591cf224be7c93078531",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11735605080237",
+	"modifiedTime":1735612700525,
+	"name":"endpointwebhook - Callable - GET 11735605080237",
+	"ownerUserId":34,
+	"path":"ayl294g",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":0
+}
