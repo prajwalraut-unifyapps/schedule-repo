@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1719493841652,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"backendautomation/custom/{id}",
+	"httpMethod":"GET",
+	"id":"667d64d1bc4d0157803c1c28",
+	"lastModifiedBy":34,
+	"lcName":"get_api_custom_http_end_point",
+	"modifiedTime":1720026149268,
+	"name":"GET_API_CUSTOM_HTTP_END_POINT",
+	"ownerUserId":34,
+	"path":"custom/{id}",
+	"resourceIds":["667d60673798a51d7ac1356b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
