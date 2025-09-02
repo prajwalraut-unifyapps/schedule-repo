@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677ca86f13a6b363fefec121",
+	"createdTime":1736222833232,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"rpovkyzkkkppjds/automation",
+	"httpMethod":"POST",
+	"id":"677ca87113a6b363fefec125",
+	"lastModifiedBy":34,
+	"lcName":"changesetxldjk",
+	"modifiedTime":1736222833458,
+	"name":"ChangeSetXldJK",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["677ca87013a6b363fefec122"],
+	"resourceIds":["677ca86ee757796effb83679"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
