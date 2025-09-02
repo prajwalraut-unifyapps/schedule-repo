@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1720170964258,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"backendautomation/ratelimitnextwindow/{id}",
+	"httpMethod":"GET",
+	"id":"6687b9d4d97a485105d04cf4",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_endpoint_rate_limit_next_window",
+	"modifiedTime":1720170965930,
+	"name":"CUSTOM_HTTP_ENDPOINT_RATE_LIMIT_NEXT_WINDOW",
+	"ownerUserId":34,
+	"path":"ratelimitnextwindow/{id}",
+	"resourceIds":["6681423219ea935106bb59a9"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
