@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a346248cd11b4cdfc3db4a",
+	"createdTime":1738753575819,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"cbkbliswrwecqxl/automation",
+	"httpMethod":"POST",
+	"id":"67a346278cd11b4cdfc3db4e",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalsczwt",
+	"modifiedTime":1738753629979,
+	"name":"changeSetLocalsczWt",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["67a346258cd11b4cdfc3db4b"],
+	"resourceIds":["67a3462201ba667bc5c9ae7d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
