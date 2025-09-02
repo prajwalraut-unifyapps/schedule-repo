@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a2ed72edbd3463212b3ca1",
+	"createdTime":1738730871604,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"af3e8pn/alptesd",
+	"httpMethod":"POST",
+	"id":"67a2ed77edbd3463212b3ca3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-before_created_time-117387305766980",
+	"modifiedTime":1738730876343,
+	"name":"Endpoint-before_created_time-117387305766980",
+	"ownerUserId":34,
+	"path":"alptesd",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
