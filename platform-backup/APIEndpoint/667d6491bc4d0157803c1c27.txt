@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"661fafb1387ba159af40e211",
+	"createdTime":1719493777274,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"backendautomation/custom/{name}",
+	"httpMethod":"POST",
+	"id":"667d6491bc4d0157803c1c27",
+	"lastModifiedBy":34,
+	"lcName":"post_create_custom_http_end_point",
+	"modifiedTime":1720026077899,
+	"name":"POST_CREATE_CUSTOM_HTTP_END_POINT",
+	"ownerUserId":34,
+	"path":"custom/{name}",
+	"resourceIds":["667d57783798a51d7ac13412"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
