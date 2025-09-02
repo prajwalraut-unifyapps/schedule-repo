@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"679d28f49349875158646f7d",
+	"createdTime":1738352889334,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"anstd08/axge0oa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"679d28f99349875158646f7e",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117383522785350",
+	"modifiedTime":1738352894972,
+	"name":"Is-Resource Id-117383522785350",
+	"ownerUserId":34,
+	"path":"axge0oa",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
