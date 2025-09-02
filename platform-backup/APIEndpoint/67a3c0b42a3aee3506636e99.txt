@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a3c0af2a3aee3506636e97",
+	"createdTime":1738784948303,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"agp8bqt/aiqeeq?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67a3c0b42a3aee3506636e99",
+	"lastModifiedBy":34,
+	"lcName":"webhookfilter-117387843083440",
+	"modifiedTime":1738784962436,
+	"name":"webhookfilter-117387843083440",
+	"ownerUserId":34,
+	"path":"aiqeeq",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
