@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a3c0ae2a3aee3506636e96",
+	"createdTime":1738784946446,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"akokfob/a3b0i8b?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67a3c0b22a3aee3506636e98",
+	"lastModifiedBy":34,
+	"lcName":"is not-resource id-117387843083440",
+	"modifiedTime":1738784952114,
+	"name":"Is not-Resource Id-117387843083440",
+	"ownerUserId":34,
+	"path":"a3b0i8b",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
