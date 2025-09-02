@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a346248cd11b4cdfc3db4a",
+	"createdTime":1738753577118,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"cbkbliswrwecqxl/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67a346298cd11b4cdfc3db4f",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalcciwu",
+	"modifiedTime":1738753629979,
+	"name":"changeSetLocalCciWU",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["67a346258cd11b4cdfc3db4b"],
+	"resourceIds":["67a3462301ba667bc5c9ae85"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
