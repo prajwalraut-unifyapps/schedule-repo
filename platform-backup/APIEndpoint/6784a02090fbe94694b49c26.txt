@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6784a01f90fbe94694b49c24",
+	"createdTime":1736744992031,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ajrmqaahlr/FNjeBaCNFT/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6784a02090fbe94694b49c26",
+	"lastModifiedBy":34,
+	"lcName":"ezhvzaodybhleljujqev",
+	"modifiedTime":1736744992792,
+	"name":"EZHVZAoDybHLelJUJqeV",
+	"ownerUserId":34,
+	"path":"FNjeBaCNFT/{name}/{age}",
+	"resourceIds":["667a65d67fc8ed141d97165d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
