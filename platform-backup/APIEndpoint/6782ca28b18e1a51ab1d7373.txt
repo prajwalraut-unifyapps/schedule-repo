@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6782ca25b18e1a51ab1d7372",
+	"createdTime":1736624680821,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agfujb5/amlbamp",
+	"httpMethod":"POST",
+	"id":"6782ca28b18e1a51ab1d7373",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_accessprofile_post - json web token  - 11736624303867",
+	"modifiedTime":1736624680821,
+	"name":"endpoint_accessProfile_post - JSON Web Token  - 11736624303867",
+	"ownerUserId":34,
+	"path":"amlbamp",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":0
+}
