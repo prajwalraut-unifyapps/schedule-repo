@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679e2c292177be17bab87d72",
+	"createdTime":1738419242384,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"SbVuvSNnhCxmehe/automation",
+	"httpMethod":"POST",
+	"id":"679e2c2a2177be17bab87d73",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocaluntkp",
+	"modifiedTime":1738419378971,
+	"name":"changeSetLocaluntKP",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["null"],
+	"resourceIds":["null"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
