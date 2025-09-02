@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678202b5b5038500aa611111",
+	"createdTime":1736573624292,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"pjblhjytikjcadg/automation",
+	"httpMethod":"POST",
+	"id":"678202b8b5038500aa611115",
+	"lastModifiedBy":34,
+	"lcName":"destination_dnd_siuhk",
+	"modifiedTime":1736573624846,
+	"name":"DESTINATION_DND_Siuhk",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["678202b6b5038500aa611112"],
+	"resourceIds":["678202b2f40bb46e74866846"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
