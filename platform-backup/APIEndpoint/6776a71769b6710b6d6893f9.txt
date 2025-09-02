@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6776a71769b6710b6d6893f5",
+	"createdTime":1735829271872,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ayjaglampf/jLcLTdlhiY/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6776a71769b6710b6d6893f9",
+	"lastModifiedBy":34,
+	"lcName":"igarajrypscvyoshcvsp",
+	"modifiedTime":1735829272679,
+	"name":"IGarajRyPScvYOshcVSP",
+	"ownerUserId":34,
+	"path":"jLcLTdlhiY/{name}/{age}",
+	"resourceIds":["667a65d67fc8ed141d97165d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
