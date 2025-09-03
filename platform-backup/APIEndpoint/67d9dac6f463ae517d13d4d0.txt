@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1742330566157,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67d9dab90a9441335174d200",
+	"httpMethod":"ANY",
+	"id":"67d9dac6f463ae517d13d4d0",
+	"lastModifiedBy":-1,
+	"lcName":"converthtmlplaintextstring_117423267215360 automation web-hook",
+	"modifiedTime":1742490246900,
+	"name":"ConvertHTMLPlainTextstring_117423267215360 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67d9dab90a9441335174d200",
+	"resourceIds":["67d9dab90a9441335174d200"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
