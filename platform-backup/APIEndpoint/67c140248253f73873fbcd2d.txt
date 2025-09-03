@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1740718116985,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67c140240650e6184fef2d0d/{name}/{age}",
+	"httpMethod":"ANY",
+	"id":"67c140248253f73873fbcd2d",
+	"lastModifiedBy":-1,
+	"lcName":"fifthworkflow1740718116163 automation web-hook",
+	"modifiedTime":1740718128560,
+	"name":"FifthWorkflow1740718116163 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67c140240650e6184fef2d0d/{name}/{age}",
+	"resourceIds":["67c140240650e6184fef2d0d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
