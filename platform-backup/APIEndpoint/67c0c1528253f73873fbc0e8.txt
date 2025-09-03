@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67c0c14e8253f73873fbc0e7",
+	"createdTime":1740685650584,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"au3q4od/anl123o?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67c0c1528253f73873fbc0e8",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117406850769040",
+	"modifiedTime":1740685655680,
+	"name":"Is-Resource Id-117406850769040",
+	"ownerUserId":34,
+	"path":"anl123o",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
