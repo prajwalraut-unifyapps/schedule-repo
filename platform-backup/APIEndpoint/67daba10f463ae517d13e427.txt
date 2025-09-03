@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67daba10f463ae517d13e426",
+	"createdTime":1742387728913,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"crboEmxuVsYJcEA/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"67daba10f463ae517d13e427",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalithmc",
+	"modifiedTime":1742429022337,
+	"name":"changeSetLocalithMC",
+	"ownerUserId":34,
+	"path":"automation/endpoint1",
+	"resourceIds":["67daba0ccd168828f7246f60"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
