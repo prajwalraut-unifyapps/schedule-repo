@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67db23bef463ae517d13e601",
+	"createdTime":1742414787426,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ag3pnvh/aplioea",
+	"httpMethod":"POST",
+	"id":"67db23c3f463ae517d13e602",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_excludeioruns - 117424130720340",
+	"modifiedTime":1742414872922,
+	"name":"endpoint_excludeIORuns - 117424130720340",
+	"ownerUserId":34,
+	"path":"aplioea",
+	"resourceIds":["67db2397aa019b7b04c85b58"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
