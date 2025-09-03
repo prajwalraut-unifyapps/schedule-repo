@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67c6087d981c536db6561780",
+	"createdTime":1741031553904,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aq3pkd/asguhes",
+	"httpMethod":"GET",
+	"id":"67c60881981c536db6561781",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117410306759750",
+	"modifiedTime":1741031559194,
+	"name":"endpoint_endpointcreationLog- 117410306759750",
+	"ownerUserId":34,
+	"path":"asguhes",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
