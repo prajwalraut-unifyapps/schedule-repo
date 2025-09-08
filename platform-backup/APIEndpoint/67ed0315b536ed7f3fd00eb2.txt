@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ed0313b536ed7f3fd00eb1",
+	"createdTime":1743586069160,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"JybGbfkaCDxOUpX/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"67ed0315b536ed7f3fd00eb2",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocaludkuf",
+	"modifiedTime":1743586455406,
+	"name":"changeSetLocalUDkuF",
+	"ownerUserId":34,
+	"path":"automation/endpoint1",
+	"resourceIds":["67ed031156161865e5117244"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
