@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6805a7ec2b2d6248fa66006f",
+	"createdTime":1745201139757,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aoljabm/aidwaw?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6805a7f32b2d6248fa660070",
+	"lastModifiedBy":97129,
+	"lcName":"rbac-ui-ulcreateendpointulcplvrlall117451993160030",
+	"modifiedTime":1745201273440,
+	"name":"rbac-ui-ULCreateEndpointULcPLvRLAll117451993160030",
+	"ownerUserId":97129,
+	"path":"aidwaw",
+	"resourceIds":["6805a777b71f4b43b64579ac"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
