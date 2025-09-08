@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68076f44d73540713f90d565",
+	"createdTime":1745317704915,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ad8sta2l/avcfox5",
+	"httpMethod":"GET",
+	"id":"68076f48d73540713f90d567",
+	"lastModifiedBy":34,
+	"lcName":"diabledsortapi-11745317694758",
+	"modifiedTime":1745317708777,
+	"name":"diabledsortapi-11745317694758",
+	"ownerUserId":34,
+	"path":"avcfox5",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
