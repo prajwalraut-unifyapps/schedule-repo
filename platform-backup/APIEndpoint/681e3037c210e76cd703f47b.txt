@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681e3032c210e76cd703f47a",
+	"createdTime":1746808887771,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"abixf8r/ammsuwa",
+	"httpMethod":"POST",
+	"id":"681e3037c210e76cd703f47b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_formdata_117468019910580",
+	"modifiedTime":1746808966936,
+	"name":"endpoint_formData_117468019910580",
+	"ownerUserId":34,
+	"path":"ammsuwa",
+	"resourceIds":["681e30247b90c22087a2c336"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
