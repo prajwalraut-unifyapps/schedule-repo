@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681c0e7f73227f24d7487e81",
+	"createdTime":1746669188811,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aoxfa66/anoetna?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"681c0e8473227f24d7487e82",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-pleditendpointrlviewulnplerlv117466681104200",
+	"modifiedTime":1747407993683,
+	"name":"rbac-ui-PLEditEndPointRLViewULnPLeRLv117466681104200",
+	"ownerUserId":34,
+	"path":"anoetna",
+	"projectId":13,
+	"resourceIds":["681c0e7ad3ec4c617d62f9d5"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
