@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68146604103d29729b1aac9f",
+	"createdTime":1746167340265,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"DNT-SHARE-RECORDS-GROUP/DNT-SHARE-RECORDS-API",
+	"httpMethod":"PUT",
+	"id":"6814662c103d29729b1aaca0",
+	"lastModifiedBy":34,
+	"lcName":"dnt_share_records_api",
+	"modifiedTime":1746167343990,
+	"name":"DNT_SHARE_RECORDS_API",
+	"ownerUserId":34,
+	"path":"DNT-SHARE-RECORDS-API",
+	"projectId":49,
+	"resourceIds":["68146596db6a8913e13e258e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
