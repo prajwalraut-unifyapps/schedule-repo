@@ -1,0 +1,28 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6813d133e8480212c199c44d",
+	"createdTime":1746129207071,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aztfgqc/a4fapdk",
+	"httpMethod":"POST",
+	"id":"6813d137e8480212c199c44e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-and_multipleconditions-117461282937300",
+	"modifiedTime":1746129212173,
+	"name":"endpoint-AND_multipleConditions-117461282937300",
+	"ownerUserId":34,
+	"path":"a4fapdk",
+	"projectId":13,
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
