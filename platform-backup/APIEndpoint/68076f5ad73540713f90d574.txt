@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68076f56d73540713f90d570",
+	"createdTime":1745317722905,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajm5vxe/avelux",
+	"httpMethod":"DELETE",
+	"id":"68076f5ad73540713f90d574",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11745317684774",
+	"modifiedTime":1745317726392,
+	"name":"endpoint - Callable - DELETE 11745317684774",
+	"ownerUserId":34,
+	"path":"avelux",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
