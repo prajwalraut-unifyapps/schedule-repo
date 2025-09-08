@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67cea6a06a415232d1118249",
+	"createdTime":1741596325893,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a6xlser/amoblte?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67cea6a56a415232d111824a",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-uleditendpointuleplnrld117415952586860",
+	"modifiedTime":1744130250644,
+	"name":"rbac-ui-ULEditEndPointULePLnRLd117415952586860",
+	"ownerUserId":34,
+	"path":"amoblte",
+	"resourceIds":["67cea68ea1b3c17a52014280"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
