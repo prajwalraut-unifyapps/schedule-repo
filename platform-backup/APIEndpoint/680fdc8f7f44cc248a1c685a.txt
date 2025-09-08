@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680fdc867f44cc248a1c6856",
+	"createdTime":1745869967382,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a1cujv/ambwsbt",
+	"httpMethod":"POST",
+	"id":"680fdc8f7f44cc248a1c685a",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11745869083442",
+	"modifiedTime":1747408223334,
+	"name":"AllowedIp_endpoint_ - 11745869083442",
+	"ownerUserId":34,
+	"path":"ambwsbt",
+	"resourceIds":["680fdc7742e30027ad575000"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
