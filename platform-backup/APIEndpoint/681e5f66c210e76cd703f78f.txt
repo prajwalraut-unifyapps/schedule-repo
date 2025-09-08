@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681e5f55c210e76cd703f78b",
+	"createdTime":1746820966370,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"afkjups/anxylrq",
+	"httpMethod":"POST",
+	"id":"681e5f66c210e76cd703f78f",
+	"lastModifiedBy":34,
+	"lcName":"soap_exportendpoint2- 117468194913050",
+	"modifiedTime":1747407867220,
+	"name":"soap_exportEndpoint2- 117468194913050",
+	"ownerUserId":34,
+	"path":"anxylrq",
+	"resourceIds":["681e5f4ba3503f65142ff431"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
