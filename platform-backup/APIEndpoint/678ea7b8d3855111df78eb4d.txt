@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678ea7b3d3855111df78eb4a",
+	"createdTime":1737402296053,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ai2d56/agw2owx/{path_bool}/{path_number}/{path_string}",
+	"httpMethod":"POST",
+	"id":"678ea7b8d3855111df78eb4d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_basic(testing_path_headers_query_params)_117374018850990",
+	"modifiedTime":1744131267708,
+	"name":"Endpoint_E2E_Workflow_Callable_Basic(Testing_Path_Headers_Query_params)_117374018850990",
+	"ownerUserId":34,
+	"path":"agw2owx/{path_bool}/{path_number}/{path_string}",
+	"resourceIds":["678ea714b2e22811b676112d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
