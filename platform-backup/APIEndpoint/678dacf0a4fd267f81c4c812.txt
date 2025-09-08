@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"678daceda4fd267f81c4c80f",
+	"createdTime":1737338096036,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"anfxr2c/asik10s?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"678dacf0a4fd267f81c4c812",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rlviewendpointulcplerlv117373368369280",
+	"modifiedTime":1744131279467,
+	"name":"rbac-ui-RLViewEndpointULcPLeRLv117373368369280",
+	"ownerUserId":34,
+	"path":"asik10s",
+	"resourceIds":["678dacdc15129f707a420552"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
