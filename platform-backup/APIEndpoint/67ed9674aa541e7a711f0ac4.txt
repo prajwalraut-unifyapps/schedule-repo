@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ed966caa541e7a711f0ac3",
+	"createdTime":1743623796432,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afex2r/atoo28e",
+	"httpMethod":"POST",
+	"id":"67ed9674aa541e7a711f0ac4",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restrictednoauth - 11743622668989",
+	"modifiedTime":1743623820716,
+	"name":"endpoint_restrictedNoAuth - 11743622668989",
+	"ownerUserId":34,
+	"path":"atoo28e",
+	"resourceIds":["67ed9659ac9e4a0100e7fa5f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
