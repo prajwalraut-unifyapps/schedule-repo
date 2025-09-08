@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681012b97f44cc248a1c6a4a",
+	"createdTime":1745883834443,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"mtcrazyixrxqbah/automation",
+	"httpMethod":"POST",
+	"id":"681012ba7f44cc248a1c6a50",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqaesgnu",
+	"modifiedTime":1745969655576,
+	"name":"changeSetSECURITYQAesGNU",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["681012b97f44cc248a1c6a4b"],
+	"resourceIds":["681012b542e30027ad576708"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
