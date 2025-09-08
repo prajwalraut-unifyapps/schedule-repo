@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e51fb4cfd7674d68432012",
+	"createdTime":1743069113456,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aduinhn/ayrwm4s",
+	"httpMethod":"POST",
+	"id":"67e51fb9cfd7674d68432015",
+	"lastModifiedBy":34,
+	"lcName":"policy_end_point_117430686868880",
+	"modifiedTime":1743069141783,
+	"name":"Policy_End_point_117430686868880",
+	"ownerUserId":34,
+	"path":"ayrwm4s",
+	"resourceIds":["67e51f9aacf0100eb68bb8a0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
