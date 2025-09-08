@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6810622a7f44cc248a1c7306",
+	"createdTime":1745924079772,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"au4xgle/vybhj",
+	"httpMethod":"GET",
+	"id":"6810afef7f44cc248a1c7a36",
+	"lastModifiedBy":34,
+	"lcName":"vybhj",
+	"modifiedTime":1747408212920,
+	"name":"vybhj",
+	"ownerUserId":34,
+	"path":"vybhj",
+	"resourceIds":["66ab983c3d73300e639622f0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
