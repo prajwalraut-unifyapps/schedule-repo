@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dd1bc162bce673549e6a86",
+	"createdTime":1742543813939,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apttu66/a7ijaap",
+	"httpMethod":"POST",
+	"id":"67dd1bc562bce673549e6a87",
+	"lastModifiedBy":34,
+	"lcName":"end_point_117425437905270",
+	"modifiedTime":1744129978147,
+	"name":"End_point_117425437905270",
+	"ownerUserId":34,
+	"path":"a7ijaap",
+	"resourceIds":["67dd1bb1c97621366e112104"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
