@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f3f5af8479fe616d729430",
+	"createdTime":1744041394970,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azsanhc/aezcnsf",
+	"httpMethod":"POST",
+	"id":"67f3f5b28479fe616d729431",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11744040395561",
+	"modifiedTime":1744041405520,
+	"name":"updatedEndpointLogs- 11744040395561",
+	"ownerUserId":34,
+	"path":"aezcnsf",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
