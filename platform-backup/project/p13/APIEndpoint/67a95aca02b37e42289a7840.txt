@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a95ac402b37e42289a783f",
+	"createdTime":1739152074205,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ausviom/ae62sa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67a95aca02b37e42289a7840",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plviewendpointulcplvrlall117391512457350",
+	"modifiedTime":1744130836914,
+	"name":"rbac-ui-PLViewEndpointULcPLvRLAll117391512457350",
+	"ownerUserId":34,
+	"path":"ae62sa",
+	"projectId":13,
+	"resourceIds":["67a95abbeb0ea5575143cc42"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
