@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ee391bd986592f5617e0c8",
+	"createdTime":1743665440074,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ao4vop/amucz8s?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67ee3920d986592f5617e0cc",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117436653846470",
+	"modifiedTime":1743665444710,
+	"name":"endpoint - Webhook -  117436653846470",
+	"ownerUserId":34,
+	"path":"amucz8s",
+	"resourceIds":["67ee391081058473ef8def14"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
