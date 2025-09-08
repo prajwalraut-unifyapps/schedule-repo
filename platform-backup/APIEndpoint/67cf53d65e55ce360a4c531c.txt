@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cf53d15e55ce360a4c531a",
+	"createdTime":1741640662661,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aqckxpy/azzomt",
+	"httpMethod":"POST",
+	"id":"67cf53d65e55ce360a4c531c",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint__soapapi - 117416354819740",
+	"modifiedTime":1744130225573,
+	"name":"callable_endpoint__SOAPApi - 117416354819740",
+	"ownerUserId":34,
+	"path":"azzomt",
+	"resourceIds":["67cf53c043c16d1798caa4ed"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
