@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e34901f8c0046c75b9207f",
+	"createdTime":1742949003598,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"tyttfqtlmx/TaFReiviEo",
+	"httpMethod":"GET",
+	"id":"67e34a8bf8c0046c75b921ba",
+	"lastModifiedBy":34,
+	"lcName":"spcshgaaplrbmbirrrpk",
+	"modifiedTime":1742949004255,
+	"name":"SPCSHGAAPlRbmbIRRrpk",
+	"ownerUserId":34,
+	"path":"TaFReiviEo",
+	"resourceIds":["67e34a8a34184e0ae6b3b17b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
