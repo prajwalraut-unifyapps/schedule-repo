@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681bba9e73227f24d7487ba1",
+	"createdTime":1746647715682,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"akmcg93/a6c91zp?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"681bbaa373227f24d7487ba2",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11746646712175",
+	"modifiedTime":1746647719215,
+	"name":"endpointwebhook - Callable - GET 11746646712175",
+	"ownerUserId":34,
+	"path":"a6c91zp",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
