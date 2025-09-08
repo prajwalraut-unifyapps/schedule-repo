@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a6f9203a2e496456925dfa",
+	"createdTime":1738996006239,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aefrlxr/amattfs",
+	"httpMethod":"POST",
+	"id":"67a6f9263a2e496456925dfb",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_excludeioruns - 117389952653740",
+	"modifiedTime":1744130896817,
+	"name":"callable_endpoint_accessProfile_excludeIORuns - 117389952653740",
+	"ownerUserId":34,
+	"path":"amattfs",
+	"resourceIds":["67a6f8fcf113941a104642ee"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
