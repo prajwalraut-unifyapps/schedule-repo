@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e13472eedcbe347c88f8c0",
+	"createdTime":1742812281656,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"as7vvd/a98mgnr?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e13479eedcbe347c88f8c1",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_webhookexecutetoken - 21742811916894",
+	"modifiedTime":1742812336639,
+	"name":"endpoint_webhookExecuteToken - 21742811916894",
+	"ownerUserId":34,
+	"path":"a98mgnr",
+	"resourceIds":["67e13456dd900e1f707d7e2a"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
