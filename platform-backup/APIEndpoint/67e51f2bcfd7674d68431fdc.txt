@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e51f23cfd7674d68431fda",
+	"createdTime":1743068971961,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aanvofb/ainxec",
+	"httpMethod":"POST",
+	"id":"67e51f2bcfd7674d68431fdc",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174306869864801",
+	"modifiedTime":1744129717851,
+	"name":"Sort_1174306869864801",
+	"ownerUserId":34,
+	"path":"ainxec",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
