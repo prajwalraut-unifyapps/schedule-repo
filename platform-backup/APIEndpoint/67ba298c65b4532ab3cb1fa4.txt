@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ba298765b4532ab3cb1fa2",
+	"createdTime":1740253580286,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aia6wem/af8osi",
+	"httpMethod":"POST",
+	"id":"67ba298c65b4532ab3cb1fa4",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174025306346901",
+	"modifiedTime":1744130582411,
+	"name":"Sort_1174025306346901",
+	"ownerUserId":34,
+	"path":"af8osi",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
