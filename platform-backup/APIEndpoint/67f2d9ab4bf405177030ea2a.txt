@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f2d9a54bf405177030ea26",
+	"createdTime":1743968683432,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a6slze/asm581q",
+	"httpMethod":"POST",
+	"id":"67f2d9ab4bf405177030ea2a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deletenoauth - 11743968346370",
+	"modifiedTime":1744129360315,
+	"name":"endpoint_deleteNoAuth - 11743968346370",
+	"ownerUserId":34,
+	"path":"asm581q",
+	"resourceIds":["67f2d99024dcb0355a75c406"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
