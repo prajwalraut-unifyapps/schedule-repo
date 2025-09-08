@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1746248651568,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6815a3cb65dfad750b87a570",
+	"httpMethod":"ANY",
+	"id":"6815a3cbfc9246695c36ec98",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationdefesmpahgsk automation web-hook",
+	"modifiedTime":1746248781415,
+	"name":"Backend_AutomationDEfESMPaHgsk Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6815a3cb65dfad750b87a570",
+	"resourceIds":["6815a3cb65dfad750b87a570"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
