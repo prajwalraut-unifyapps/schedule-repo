@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677b3afb07bd9267e247c1bb",
+	"createdTime":1736129279109,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awp6ui/ae4lab",
+	"httpMethod":"POST",
+	"id":"677b3aff07bd9267e247c1bd",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_traversedpath - 11736123554135",
+	"modifiedTime":1744131618518,
+	"name":"callable_endpoint_accessProfile_traversedPath - 11736123554135",
+	"ownerUserId":34,
+	"path":"ae4lab",
+	"resourceIds":["677b3adf6d41c74847707ebc"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
