@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f5fbf5fd2c56383eed52ca",
+	"createdTime":1744174069610,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"amhdclrsql/ShHOdfixUL?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67f5fbf5fd2c56383eed52cb",
+	"lastModifiedBy":34,
+	"lcName":"yetnolavorgpodwujivb",
+	"modifiedTime":1744174663856,
+	"name":"yeTNOlaVOrGpODWUjIVB",
+	"ownerUserId":34,
+	"path":"ShHOdfixUL",
+	"resourceIds":["666c161ad3399e49c82e7e82"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
