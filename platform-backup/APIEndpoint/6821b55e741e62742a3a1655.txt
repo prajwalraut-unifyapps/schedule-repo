@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1747039582562,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6821b5545deb1667095cd19d",
+	"httpMethod":"ANY",
+	"id":"6821b55e741e62742a3a1655",
+	"lastModifiedBy":-1,
+	"lcName":"converthtmlplaintextnestedlisttodownmark_117470384387650 automation web-hook",
+	"modifiedTime":1747298934928,
+	"name":"ConvertHTMLPlainTextnestedlisttodownmark_117470384387650 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6821b5545deb1667095cd19d",
+	"resourceIds":["6821b5545deb1667095cd19d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
