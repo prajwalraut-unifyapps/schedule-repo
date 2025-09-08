@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681cb69242771e1f3a3b64fd",
+	"createdTime":1746712215535,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agresqu/a80tvua",
+	"httpMethod":"POST",
+	"id":"681cb69742771e1f3a3b64fe",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_before-update- - 11746705393967",
+	"modifiedTime":1746712233793,
+	"name":"update- accessprofile endpoint_before-update- - 11746705393967",
+	"ownerUserId":34,
+	"path":"a80tvua",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
