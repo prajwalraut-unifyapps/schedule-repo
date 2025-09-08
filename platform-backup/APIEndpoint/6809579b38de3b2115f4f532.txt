@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6809579538de3b2115f4f52e",
+	"createdTime":1745442715512,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"as50z2/atnxlas",
+	"httpMethod":"POST",
+	"id":"6809579b38de3b2115f4f532",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_soap_endpoint_no datapill_117454371082390",
+	"modifiedTime":1745669790353,
+	"name":"custom_http_soap_endpoint_no datapill_117454371082390",
+	"ownerUserId":34,
+	"path":"atnxlas",
+	"resourceIds":["68095785bb5bb72a7dfb68de"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
