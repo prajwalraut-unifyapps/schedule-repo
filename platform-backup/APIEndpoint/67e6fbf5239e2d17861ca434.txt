@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e6fbef239e2d17861ca431",
+	"createdTime":1743191029424,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ay6r33/avvohol",
+	"httpMethod":"POST",
+	"id":"67e6fbf5239e2d17861ca434",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- basic auth  - 11743190685327",
+	"modifiedTime":1743191050426,
+	"name":"endpoint_- Basic Auth  - 11743190685327",
+	"ownerUserId":34,
+	"path":"avvohol",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
