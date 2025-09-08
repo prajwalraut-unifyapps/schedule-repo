@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1744781703049,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67ff4186bd48e828979a3363",
+	"httpMethod":"ANY",
+	"id":"67ff41873cac941ac8d713f7",
+	"lastModifiedBy":-1,
+	"lcName":"changesetsecurityqac0ybd3ootsv9 automation web-hook",
+	"modifiedTime":1744782325745,
+	"name":"changeSetSECURITYQAc0ybd3oOTsV9 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67ff4186bd48e828979a3363",
+	"resourceIds":["67ff4186bd48e828979a3363"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
