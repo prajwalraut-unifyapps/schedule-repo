@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681bb91073227f24d7487af2",
+	"createdTime":1746647319327,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a7d1ra/aunsk4",
+	"httpMethod":"POST",
+	"id":"681bb91773227f24d7487af3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-singlenoauth - 11746646712175",
+	"modifiedTime":1746647342789,
+	"name":"endpoint_insideProject-singleNoAuth - 11746646712175",
+	"ownerUserId":34,
+	"path":"aunsk4",
+	"projectId":13,
+	"resourceIds":["681bb8fd40d55c0d47ba2b65"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
