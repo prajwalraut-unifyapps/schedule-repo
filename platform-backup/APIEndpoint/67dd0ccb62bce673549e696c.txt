@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dd0cc962bce673549e696b",
+	"createdTime":1742540026159,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"IRiEursTPGKJmZp/automation",
+	"httpMethod":"POST",
+	"id":"67dd0ccb62bce673549e696c",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalyxobm",
+	"modifiedTime":1742540751966,
+	"name":"changeSetLocalyxobm",
+	"ownerUserId":34,
+	"path":"automation",
+	"resourceIds":["67dd0cc78445037d9b06d5b0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
