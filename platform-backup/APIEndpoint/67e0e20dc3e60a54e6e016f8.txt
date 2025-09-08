@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e0e1edc3e60a54e6e016ba",
+	"createdTime":1742791181472,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"hnfkxkovij/DCdfTeaOCZ",
+	"httpMethod":"POST",
+	"id":"67e0e20dc3e60a54e6e016f8",
+	"lastModifiedBy":34,
+	"lcName":"zsfsatgpicditmstcorj",
+	"modifiedTime":1742791181786,
+	"name":"zsfsatGpicDITMsTCOrj",
+	"ownerUserId":34,
+	"path":"DCdfTeaOCZ",
+	"resourceIds":["67e0e2092dc47122d919c701"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
