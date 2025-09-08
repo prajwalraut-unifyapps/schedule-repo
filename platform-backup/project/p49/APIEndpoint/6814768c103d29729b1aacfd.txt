@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68147657103d29729b1aacf9",
+	"createdTime":1746171532070,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"DNT-IMPORT-RECORDS-GROUP/DNT-IMPORT-RECORDS-API",
+	"httpMethod":"PUT",
+	"id":"6814768c103d29729b1aacfd",
+	"lastModifiedBy":34,
+	"lcName":"dnt_import_records_api",
+	"modifiedTime":1746171534979,
+	"name":"DNT_IMPORT_RECORDS_API",
+	"ownerUserId":34,
+	"path":"DNT-IMPORT-RECORDS-API",
+	"projectId":49,
+	"resourceIds":["681475146528e56767911a1a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
