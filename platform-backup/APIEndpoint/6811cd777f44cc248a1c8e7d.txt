@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1745997175165,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6811cd5f1b86e5616dd6bae8",
+	"httpMethod":"ANY",
+	"id":"6811cd777f44cc248a1c8e7d",
+	"lastModifiedBy":-1,
+	"lcName":"changesetsecurityqabeu4fishimfp automation web-hook",
+	"modifiedTime":1745997200811,
+	"name":"changeSetSECURITYQAbeu4FiSHImFp Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6811cd5f1b86e5616dd6bae8",
+	"resourceIds":["6811cd5f1b86e5616dd6bae8"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
