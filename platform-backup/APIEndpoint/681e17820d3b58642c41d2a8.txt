@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681e17790d3b58642c41d2a3",
+	"createdTime":1746802562059,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"alxs58v/aohnpgy?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"681e17820d3b58642c41d2a8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117467957021330",
+	"modifiedTime":1746802569144,
+	"name":"endpoint - Webhook -  117467957021330",
+	"ownerUserId":34,
+	"path":"aohnpgy",
+	"resourceIds":["681e1769ae5d170e5e28d265"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
