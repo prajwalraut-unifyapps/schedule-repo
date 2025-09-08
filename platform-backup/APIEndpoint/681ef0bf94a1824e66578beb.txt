@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681ef0b994a1824e66578be9",
+	"createdTime":1746858175695,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a22uurpya/ai7x27s",
+	"httpMethod":"PATCH",
+	"id":"681ef0bf94a1824e66578beb",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_patch_117468528464400",
+	"modifiedTime":1747407840496,
+	"name":"Endpoint_customHTTP_PATCH_117468528464400",
+	"ownerUserId":34,
+	"path":"ai7x27s",
+	"resourceIds":["681ef0adda0e8d5db6e4f1c4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
