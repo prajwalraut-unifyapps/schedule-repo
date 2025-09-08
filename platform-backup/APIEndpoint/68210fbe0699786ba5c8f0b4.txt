@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68210fb80699786ba5c8f0b3",
+	"createdTime":1746997182765,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"asx88syc/agikuqo",
+	"httpMethod":"POST",
+	"id":"68210fbe0699786ba5c8f0b4",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envbaseurl_117469923027770",
+	"modifiedTime":1747407769837,
+	"name":"endpoint_envBaseUrl_117469923027770",
+	"ownerUserId":34,
+	"path":"agikuqo",
+	"resourceIds":["68210fa90266f15322604ec2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
