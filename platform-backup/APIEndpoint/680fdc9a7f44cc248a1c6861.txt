@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680fdc967f44cc248a1c685d",
+	"createdTime":1745869978769,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aseone/akivdk3?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PATCH",
+	"id":"680fdc9a7f44cc248a1c6861",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - patch 11745869083442",
+	"modifiedTime":1745869981557,
+	"name":"endpointwebhook - Callable - PATCH 11745869083442",
+	"ownerUserId":34,
+	"path":"akivdk3",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
