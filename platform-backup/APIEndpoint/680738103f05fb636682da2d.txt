@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6807380c3f05fb636682da2a",
+	"createdTime":1745303568480,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a122ncjc/am20sra",
+	"httpMethod":"GET",
+	"id":"680738103f05fb636682da2d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117453035597270",
+	"modifiedTime":1745303573755,
+	"name":"endpoint_endpointcreationLog- 117453035597270",
+	"ownerUserId":34,
+	"path":"am20sra",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
