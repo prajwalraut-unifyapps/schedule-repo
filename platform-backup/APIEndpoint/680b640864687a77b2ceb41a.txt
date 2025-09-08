@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680b63ff64687a77b2ceb419",
+	"createdTime":1745576968335,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a384tvh/arpwap",
+	"httpMethod":"POST",
+	"id":"680b640864687a77b2ceb41a",
+	"lastModifiedBy":34,
+	"lcName":"createendpointforcomplexschema - 117455743827290",
+	"modifiedTime":1745669725480,
+	"name":"createEndpointForComplexSchema - 117455743827290",
+	"ownerUserId":34,
+	"path":"arpwap",
+	"resourceIds":["680b63eb25da79166ed86e29"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
