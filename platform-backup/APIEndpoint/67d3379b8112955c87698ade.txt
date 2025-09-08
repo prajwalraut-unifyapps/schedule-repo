@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d337958112955c87698ada",
+	"createdTime":1741895579386,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"apjzbxn/ayublua",
+	"httpMethod":"POST",
+	"id":"67d3379b8112955c87698ade",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soapexecutetoken - 11741894672866",
+	"modifiedTime":1744130166504,
+	"name":"endpoint_soapExecuteToken - 11741894672866",
+	"ownerUserId":34,
+	"path":"ayublua",
+	"resourceIds":["67d3377a639d3a5575015845"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
