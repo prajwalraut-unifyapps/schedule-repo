@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6793edf5d468603113be339d",
+	"createdTime":1737747961443,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a5spts/akemtfo",
+	"httpMethod":"POST",
+	"id":"6793edf9d468603113be33a2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_decimal_basic_117377475725740",
+	"modifiedTime":1744131169006,
+	"name":"Endpoint_E2E_Workflow_Callable_Decimal_Basic_117377475725740",
+	"ownerUserId":34,
+	"path":"akemtfo",
+	"resourceIds":["6793ed96ec9af42398c6e891"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
