@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681f2b8362ca205e5084917b",
+	"createdTime":1746873230944,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ad7etr/ate1x1",
+	"httpMethod":"POST",
+	"id":"681f2b8e62ca205e5084917f",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11746872803986",
+	"modifiedTime":1746873292735,
+	"name":"AllowedIp_endpoint_ - 11746872803986",
+	"ownerUserId":34,
+	"path":"ate1x1",
+	"resourceIds":["681f2b6e439a152ef5e54ad4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
