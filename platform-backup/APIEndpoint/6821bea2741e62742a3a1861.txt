@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6821be98741e62742a3a185e",
+	"createdTime":1747041954152,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aomsom/aldd64f",
+	"httpMethod":"GET",
+	"id":"6821bea2741e62742a3a1861",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_get_117470384387650",
+	"modifiedTime":1747407738540,
+	"name":"Endpoint_customHTTP_GET_117470384387650",
+	"ownerUserId":34,
+	"path":"aldd64f",
+	"resourceIds":["6821be898fd47f20ea195628"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
