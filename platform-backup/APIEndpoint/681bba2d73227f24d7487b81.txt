@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681bba2873227f24d7487b7f",
+	"createdTime":1746647597837,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ac3nptp/atmwpc",
+	"httpMethod":"POST",
+	"id":"681bba2d73227f24d7487b81",
+	"lastModifiedBy":34,
+	"lcName":"fallback_endpoint_post - 11746646712175",
+	"modifiedTime":1746647619960,
+	"name":"fallback_endpoint_post - 11746646712175",
+	"ownerUserId":34,
+	"path":"atmwpc",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}
