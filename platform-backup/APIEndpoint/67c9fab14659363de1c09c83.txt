@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c9faab4659363de1c09c80",
+	"createdTime":1741290161660,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abq676a/ahjmcra",
+	"httpMethod":"POST",
+	"id":"67c9fab14659363de1c09c83",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11741289882165",
+	"modifiedTime":1745263277149,
+	"name":"endpoint_rateLimitCheck - 11741289882165",
+	"ownerUserId":34,
+	"path":"ahjmcra",
+	"resourceIds":["67c9fa9836afd70de44a2680"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
