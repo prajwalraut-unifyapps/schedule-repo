@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dcef7062bce673549e67d7",
+	"createdTime":1742532465331,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"wctvdfbagr/WIoPikCMBS?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67dcef7162bce673549e67de",
+	"lastModifiedBy":34,
+	"lcName":"eamlyoufbslayqdfkpco",
+	"modifiedTime":1742532465605,
+	"name":"EAMlYOUFBslAYqDFkPco",
+	"ownerUserId":34,
+	"path":"WIoPikCMBS",
+	"resourceIds":["667a65107fc8ed141d971654"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
