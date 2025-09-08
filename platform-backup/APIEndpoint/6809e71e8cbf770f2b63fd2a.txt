@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6809e71a8cbf770f2b63fd26",
+	"createdTime":1745479454453,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a2m9lqb/apu6prs",
+	"httpMethod":"PUT",
+	"id":"6809e71e8cbf770f2b63fd2a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11745479434022",
+	"modifiedTime":1745479457236,
+	"name":"endpoint - Callable - PUT 11745479434022",
+	"ownerUserId":34,
+	"path":"apu6prs",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
