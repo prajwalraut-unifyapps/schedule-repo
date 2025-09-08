@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6821ba2c741e62742a3a1757",
+	"createdTime":1747040820347,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a0dzds/ax20bon",
+	"httpMethod":"POST",
+	"id":"6821ba34741e62742a3a175b",
+	"lastModifiedBy":34,
+	"lcName":"createendpointwithcallableheaders - 117470384387650",
+	"modifiedTime":1747407739267,
+	"name":"createEndpointWithCallableHeaders - 117470384387650",
+	"ownerUserId":34,
+	"path":"ax20bon",
+	"resourceIds":["6821ba1b691ee23bf1f3c286"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
