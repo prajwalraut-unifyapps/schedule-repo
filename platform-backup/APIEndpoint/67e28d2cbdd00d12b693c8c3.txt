@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e28d28bdd00d12b693c8c2",
+	"createdTime":1742900524562,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arvelgc/a12a3d",
+	"httpMethod":"POST",
+	"id":"67e28d2cbdd00d12b693c8c3",
+	"lastModifiedBy":34,
+	"lcName":"api_end_point1_117429004996190",
+	"modifiedTime":1744129839888,
+	"name":"API_End_point1_117429004996190",
+	"ownerUserId":34,
+	"path":"a12a3d",
+	"resourceIds":["67e28d1668e137202db7037f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
