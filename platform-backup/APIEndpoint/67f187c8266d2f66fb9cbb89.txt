@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f187c2266d2f66fb9cbb85",
+	"createdTime":1743882184760,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asdc1dtf/azadpe",
+	"httpMethod":"POST",
+	"id":"67f187c8266d2f66fb9cbb89",
+	"lastModifiedBy":34,
+	"lcName":"endpoint2_noauth - 11743881895497",
+	"modifiedTime":1744129386564,
+	"name":"endpoint2_noAuth - 11743881895497",
+	"ownerUserId":34,
+	"path":"azadpe",
+	"resourceIds":["67f1879e28d0e829878704d3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
