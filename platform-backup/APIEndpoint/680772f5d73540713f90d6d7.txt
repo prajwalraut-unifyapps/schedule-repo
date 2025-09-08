@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680772efd73540713f90d6d3",
+	"createdTime":1745318645674,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azknp6/aixrst",
+	"httpMethod":"POST",
+	"id":"680772f5d73540713f90d6d7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envheaders_117453176937120",
+	"modifiedTime":1745318734122,
+	"name":"endpoint_envHeaders_117453176937120",
+	"ownerUserId":34,
+	"path":"aixrst",
+	"resourceIds":["680772e16284ae132aed8eeb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
