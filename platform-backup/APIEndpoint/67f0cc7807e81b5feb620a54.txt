@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f0cc6907e81b5feb620a52",
+	"createdTime":1743834232392,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apzjtgb/anjubo",
+	"httpMethod":"POST",
+	"id":"67f0cc7807e81b5feb620a54",
+	"lastModifiedBy":34,
+	"lcName":"api_deletedendpoint117438341766940",
+	"modifiedTime":1744129401422,
+	"name":"API_deletedEndpoint117438341766940",
+	"ownerUserId":34,
+	"path":"anjubo",
+	"resourceIds":["67f0cc4424e93b2d04371d00"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
