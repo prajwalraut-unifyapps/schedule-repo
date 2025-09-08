@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67fad5e11434153541fdcb22",
+	"createdTime":1744492007304,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"agneylb/atpusye",
+	"httpMethod":"POST",
+	"id":"67fad5e71434153541fdcb24",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_soap_endpoint_no datapill_117444867047410",
+	"modifiedTime":1745263194054,
+	"name":"custom_http_soap_endpoint_no datapill_117444867047410",
+	"ownerUserId":34,
+	"path":"atpusye",
+	"resourceIds":["67fad5cda5bcb5491773ab62"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
