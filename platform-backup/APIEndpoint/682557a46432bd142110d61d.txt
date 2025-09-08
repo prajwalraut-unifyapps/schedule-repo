@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6825579e6432bd142110d619",
+	"createdTime":1747277732873,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqxb77f/ahc0isn",
+	"httpMethod":"POST",
+	"id":"682557a46432bd142110d61d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11747277699292",
+	"modifiedTime":1747407648159,
+	"name":"endpoint_rateLimitCheck - 11747277699292",
+	"ownerUserId":34,
+	"path":"ahc0isn",
+	"resourceIds":["6825578866bdcc30999585b5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
