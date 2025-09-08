@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e245383e9f0738a6ac359d",
+	"createdTime":1742882130860,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"wawa/wawa",
+	"httpMethod":"POST",
+	"id":"67e245523e9f0738a6ac359e",
+	"lastModifiedBy":34,
+	"lcName":"wawa",
+	"modifiedTime":1742882133900,
+	"name":"wawa",
+	"ownerUserId":34,
+	"path":"wawa",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
