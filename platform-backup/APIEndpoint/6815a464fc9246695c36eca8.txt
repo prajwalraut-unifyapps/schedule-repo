@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6815a12ffc9246695c36eb1a",
+	"createdTime":1746248804384,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"wjfiuzdegt/BOtenWAOMn/{name}",
+	"httpMethod":"GET",
+	"id":"6815a464fc9246695c36eca8",
+	"lastModifiedBy":34,
+	"lcName":"xvmpylcxfmtfkgaqfcci",
+	"modifiedTime":1746248812817,
+	"name":"xVMPYlcxfMTFkGaQfcci",
+	"ownerUserId":34,
+	"path":"BOtenWAOMn/{name}",
+	"resourceIds":["6815a462814b5f15b4cd1dff"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
