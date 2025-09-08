@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681070567f44cc248a1c7506",
+	"createdTime":1745907803518,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amdbrkn/a28r8nf",
+	"httpMethod":"POST",
+	"id":"6810705b7f44cc248a1c7508",
+	"lastModifiedBy":34,
+	"lcName":"policy_mappingendpoint117459077733160",
+	"modifiedTime":1747408207842,
+	"name":"policy_MappingEndPoint117459077733160",
+	"ownerUserId":34,
+	"path":"a28r8nf",
+	"resourceIds":["681070428fbb1850f4a2017a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
