@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cb61ce5cb0a1764c9673d7",
+	"createdTime":1741382101754,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"al2epz/abxcnc",
+	"httpMethod":"POST",
+	"id":"67cb61d55cb0a1764c9673d9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_array_basic_117413762849160",
+	"modifiedTime":1744130273166,
+	"name":"Endpoint_E2E_Workflow_Callable_Array_Basic_117413762849160",
+	"ownerUserId":34,
+	"path":"abxcnc",
+	"resourceIds":["67cb6183b08183145d145f63"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
