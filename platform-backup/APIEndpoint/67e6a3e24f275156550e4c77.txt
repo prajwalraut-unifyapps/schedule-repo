@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e6a3dc4f275156550e4c71",
+	"createdTime":1743168482439,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asw5m5e/aml5js5",
+	"httpMethod":"POST",
+	"id":"67e6a3e24f275156550e4c77",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-after_modified_time-117431681815010",
+	"modifiedTime":1743168491385,
+	"name":"Endpoint-after_modified_time-117431681815010",
+	"ownerUserId":34,
+	"path":"aml5js5",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
