@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6807f3ee608af954b09398f3",
+	"createdTime":1745351669494,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a14rjir/asuvyfs",
+	"httpMethod":"POST",
+	"id":"6807f3f5608af954b09398f7",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11745350728295",
+	"modifiedTime":1745351715307,
+	"name":"AllowedIp_endpoint_ - 11745350728295",
+	"ownerUserId":34,
+	"path":"asuvyfs",
+	"resourceIds":["6807f3df91b9e7458c244b6c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
