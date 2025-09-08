@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e68b12285f241b8a863184",
+	"createdTime":1743162134907,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awi6ts4/test",
+	"httpMethod":"POST",
+	"id":"67e68b16285f241b8a863189",
+	"lastModifiedBy":34,
+	"lcName":"test",
+	"modifiedTime":1743162142397,
+	"name":"test",
+	"ownerUserId":34,
+	"path":"test",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
