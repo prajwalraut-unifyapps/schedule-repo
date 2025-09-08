@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681a79a79dbdec65e9f2b911",
+	"createdTime":1746565550440,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awh8hr/aai2em",
+	"httpMethod":"POST",
+	"id":"681a79ae9dbdec65e9f2b912",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_basic_117465603088570",
+	"modifiedTime":1747408018089,
+	"name":"Endpoint_E2E_Workflow_Callable_Basic_117465603088570",
+	"ownerUserId":34,
+	"path":"aai2em",
+	"resourceIds":["681a7978b3e6ec0ee37a7b87"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
