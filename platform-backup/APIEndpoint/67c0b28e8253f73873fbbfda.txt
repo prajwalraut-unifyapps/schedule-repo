@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c0b2898253f73873fbbfd9",
+	"createdTime":1740681870527,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"atl7qwb/adoufve",
+	"httpMethod":"POST",
+	"id":"67c0b28e8253f73873fbbfda",
+	"lastModifiedBy":34,
+	"lcName":"createendpointforcomplexschema - 117406818451690",
+	"modifiedTime":1744130509411,
+	"name":"createEndpointForComplexSchema - 117406818451690",
+	"ownerUserId":34,
+	"path":"adoufve",
+	"resourceIds":["67c0b2790650e6184fee9d7c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
