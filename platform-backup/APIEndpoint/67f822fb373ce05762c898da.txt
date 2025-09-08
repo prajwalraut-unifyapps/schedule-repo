@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f822f7373ce05762c898d7",
+	"createdTime":1744315131803,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agoelwo/agwt2ea",
+	"httpMethod":"GET",
+	"id":"67f822fb373ce05762c898da",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointdeletionlog- 117443138861880",
+	"modifiedTime":1744315133929,
+	"name":"endpoint_endpointdeletionLog- 117443138861880",
+	"ownerUserId":34,
+	"path":"agwt2ea",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
