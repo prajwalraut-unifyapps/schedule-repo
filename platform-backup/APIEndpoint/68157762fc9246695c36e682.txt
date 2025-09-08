@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6815775bfc9246695c36e681",
+	"createdTime":1746237282153,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aibgmz/amoijbr?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68157762fc9246695c36e682",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rleditendpointulvpldrle117462360741130",
+	"modifiedTime":1747408114495,
+	"name":"rbac-ui-RLEditEndPointULvPLdRLe117462360741130",
+	"ownerUserId":34,
+	"path":"amoijbr",
+	"resourceIds":["6815774e6b38ab61a022811e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
