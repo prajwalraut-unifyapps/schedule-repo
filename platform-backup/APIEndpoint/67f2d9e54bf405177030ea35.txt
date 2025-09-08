@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f2d9df4bf405177030ea33",
+	"createdTime":1743968741104,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amcnkcxf/adcrpi",
+	"httpMethod":"POST",
+	"id":"67f2d9e54bf405177030ea35",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apigroup_clientmod_11743968346370",
+	"modifiedTime":1744129357478,
+	"name":"endpoint_ApiGroup_ClientMod_11743968346370",
+	"ownerUserId":34,
+	"path":"adcrpi",
+	"resourceIds":["67f2d9ca780d874a2dc418dd"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
