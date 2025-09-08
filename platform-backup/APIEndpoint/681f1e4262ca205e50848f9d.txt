@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681f1e3462ca205e50848f9a",
+	"createdTime":1746869826725,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apicheckrunsgroup/apicheckrunsapi",
+	"httpMethod":"GET",
+	"id":"681f1e4262ca205e50848f9d",
+	"lastModifiedBy":34,
+	"lcName":"apicheckrunsapi",
+	"modifiedTime":1746869828290,
+	"name":"apicheckrunsapi",
+	"ownerUserId":34,
+	"path":"apicheckrunsapi",
+	"resourceIds":["681f1e01e6526e20f7a4b57d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
