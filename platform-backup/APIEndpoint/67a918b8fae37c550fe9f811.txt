@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a918b1fae37c550fe9f810",
+	"createdTime":1739135160324,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acfoj3/adkgile",
+	"httpMethod":"POST",
+	"id":"67a918b8fae37c550fe9f811",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_loop_and_branch_basic_117391298558460",
+	"modifiedTime":1744130838976,
+	"name":"Endpoint_E2E_Workflow_Callable_Loop_And_Branch_Basic_117391298558460",
+	"ownerUserId":34,
+	"path":"adkgile",
+	"resourceIds":["67a91863135fc205e2f8f848"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
