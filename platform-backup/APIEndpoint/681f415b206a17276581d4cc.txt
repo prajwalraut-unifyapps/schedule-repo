@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681f4151206a17276581d4cb",
+	"createdTime":1746878811155,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ah94cv/amle5zi",
+	"httpMethod":"POST",
+	"id":"681f415b206a17276581d4cc",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_validateactionaloptions - 11746877002252",
+	"modifiedTime":1746878817246,
+	"name":"endpoint_validateActionalOptions - 11746877002252",
+	"ownerUserId":34,
+	"path":"amle5zi",
+	"resourceIds":["681f413e393b5d5de3bec272"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
