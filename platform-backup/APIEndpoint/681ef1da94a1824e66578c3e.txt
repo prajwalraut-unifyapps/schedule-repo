@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681ef1d494a1824e66578c3a",
+	"createdTime":1746858458888,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ayndoqc/anhtp3",
+	"httpMethod":"POST",
+	"id":"681ef1da94a1824e66578c3e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_xmlcontenttype_117468528464400",
+	"modifiedTime":1747407838121,
+	"name":"endpoint_xmlContentType_117468528464400",
+	"ownerUserId":34,
+	"path":"anhtp3",
+	"resourceIds":["681ef1c5da0e8d5db6e4f45c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
