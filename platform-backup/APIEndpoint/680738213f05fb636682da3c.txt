@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6807381a3f05fb636682da31",
+	"createdTime":1745303585143,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"atiomg/at81nh?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"680738213f05fb636682da3c",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11745303573788",
+	"modifiedTime":1745303590839,
+	"name":"endpointwebhook - Callable - PUT 11745303573788",
+	"ownerUserId":34,
+	"path":"at81nh",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
