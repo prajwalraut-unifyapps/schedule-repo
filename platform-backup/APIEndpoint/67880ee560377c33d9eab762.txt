@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67880ee260377c33d9eab760",
+	"createdTime":1736969957766,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a1luleo/avsa51i",
+	"httpMethod":"POST",
+	"id":"67880ee560377c33d9eab762",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpointcustom- 117369698888110",
+	"modifiedTime":1744131355779,
+	"name":"Export_APIEndpointCustom- 117369698888110",
+	"ownerUserId":34,
+	"path":"avsa51i",
+	"resourceIds":["67880ed12d1a4f663e5ee041"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
