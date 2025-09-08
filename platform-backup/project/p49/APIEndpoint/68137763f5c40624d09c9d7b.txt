@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6813772cf5c40624d09c9d7a",
+	"createdTime":1746106211657,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"DNT-CREATE-OR-UPDATE-RECORDS-IN-BULK/DNT-CREATE-OR-UPDATE-RECORDS-IN-BULK",
+	"httpMethod":"PUT",
+	"id":"68137763f5c40624d09c9d7b",
+	"lastModifiedBy":34,
+	"lcName":"dnt_create_or_update_records_in_bulk",
+	"modifiedTime":1746106219064,
+	"name":"DNT_CREATE_OR_UPDATE_RECORDS_IN_BULK",
+	"ownerUserId":34,
+	"path":"DNT-CREATE-OR-UPDATE-RECORDS-IN-BULK",
+	"projectId":49,
+	"resourceIds":["681376717375e438b5a8b2db"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":3
+}
