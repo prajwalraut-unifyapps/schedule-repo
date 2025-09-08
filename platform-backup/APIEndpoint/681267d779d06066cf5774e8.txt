@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681267c979d06066cf5774e6",
+	"createdTime":1746036695802,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apkbqjp/ajr03fj",
+	"httpMethod":"POST",
+	"id":"681267d779d06066cf5774e8",
+	"lastModifiedBy":34,
+	"lcName":"fallback_endpoint_post - 11746035729220",
+	"modifiedTime":1746036711758,
+	"name":"fallback_endpoint_post - 11746035729220",
+	"ownerUserId":34,
+	"path":"ajr03fj",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}
