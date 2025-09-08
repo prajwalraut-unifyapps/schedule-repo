@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6772ee17f224be7c93078289",
+	"createdTime":1735585306111,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ad2ww5i/ah1sdb",
+	"httpMethod":"POST",
+	"id":"6772ee1af224be7c9307828b",
+	"lastModifiedBy":34,
+	"lcName":"sort_1173558482581201",
+	"modifiedTime":1744131810183,
+	"name":"Sort_1173558482581201",
+	"ownerUserId":34,
+	"path":"ah1sdb",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
