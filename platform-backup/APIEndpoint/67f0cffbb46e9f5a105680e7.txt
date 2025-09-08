@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f0cff5b46e9f5a105680e4",
+	"createdTime":1743835131791,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abml8rg/anx32s",
+	"httpMethod":"POST",
+	"id":"67f0cffbb46e9f5a105680e7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restexecutetoken - 11743833828032",
+	"modifiedTime":1744129394905,
+	"name":"endpoint_restExecuteToken - 11743833828032",
+	"ownerUserId":34,
+	"path":"anx32s",
+	"resourceIds":["67f0cfd99db9e03803db610c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
