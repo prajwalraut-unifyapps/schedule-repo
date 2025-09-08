@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1741897580241,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67d33f58b99a814d6daf0a50",
+	"httpMethod":"ANY",
+	"id":"67d33f6c8112955c87698b1e",
+	"lastModifiedBy":-1,
+	"lcName":"csvwriterbyunifyapps_dynamicheaderswithencodingutf16_117418946970940 automation web-hook",
+	"modifiedTime":1742492481434,
+	"name":"CSVWriterByUnifyApps_DynamicHeaderswithEncodingUTF16_117418946970940 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67d33f58b99a814d6daf0a50",
+	"resourceIds":["67d33f58b99a814d6daf0a50"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
