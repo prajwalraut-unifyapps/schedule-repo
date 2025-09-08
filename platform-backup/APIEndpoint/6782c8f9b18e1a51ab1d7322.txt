@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6782c8f5b18e1a51ab1d7320",
+	"createdTime":1736624377606,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a30vwva/axtrx4",
+	"httpMethod":"POST",
+	"id":"6782c8f9b18e1a51ab1d7322",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpointcustom- 117366242916400",
+	"modifiedTime":1744131439754,
+	"name":"Export_APIEndpointCustom- 117366242916400",
+	"ownerUserId":34,
+	"path":"axtrx4",
+	"resourceIds":["6782c8e5139dff3f1edd0f24"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
