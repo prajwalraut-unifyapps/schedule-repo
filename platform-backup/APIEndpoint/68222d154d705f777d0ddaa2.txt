@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68222d0e4d705f777d0dda9f",
+	"createdTime":1747070229149,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a80bv9m/apjsm5",
+	"httpMethod":"POST",
+	"id":"68222d154d705f777d0ddaa2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_clientcredential-117470702096050",
+	"modifiedTime":1747070281259,
+	"name":"endpoint_OAuth2.0_clientCredential-117470702096050",
+	"ownerUserId":34,
+	"path":"apjsm5",
+	"resourceIds":["68222d061ff26d0b006ec00d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
