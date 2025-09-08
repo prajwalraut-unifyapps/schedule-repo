@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a989da33e7275306c28583",
+	"createdTime":1739164128527,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ag6ke3v/a1prfum",
+	"httpMethod":"POST",
+	"id":"67a989e033e7275306c28584",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_verifyruns - 11739163977152",
+	"modifiedTime":1744130833600,
+	"name":"endpoint_verifyRuns - 11739163977152",
+	"ownerUserId":34,
+	"path":"a1prfum",
+	"resourceIds":["67a989c2f071f70c12e8b000"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
