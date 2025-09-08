@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ed091ab536ed7f3fd00ee2",
+	"createdTime":1743587617582,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3genj/ambhim3",
+	"httpMethod":"POST",
+	"id":"67ed0921b536ed7f3fd00ee4",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restexecutetoken - 11743587582599",
+	"modifiedTime":1744129518291,
+	"name":"endpoint_restExecuteToken - 11743587582599",
+	"ownerUserId":34,
+	"path":"ambhim3",
+	"resourceIds":["67ed0905369dc95e1a781a8e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
