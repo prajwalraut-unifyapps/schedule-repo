@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e644733beec10e8fd21468",
+	"createdTime":1743144058358,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aeuk9ic/apb5fx",
+	"httpMethod":"POST",
+	"id":"67e6447a3beec10e8fd21469",
+	"lastModifiedBy":34,
+	"lcName":"api_end_point_117431440199230",
+	"modifiedTime":1744129673970,
+	"name":"API_End_point_117431440199230",
+	"ownerUserId":34,
+	"path":"apb5fx",
+	"resourceIds":["67e64457c04e8b34931ceab5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
