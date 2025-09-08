@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cb55c42771e1f3a3b6487",
+	"createdTime":1746711906116,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agnqtl7/agfodys",
+	"httpMethod":"POST",
+	"id":"681cb56242771e1f3a3b6488",
+	"lastModifiedBy":34,
+	"lcName":"endpoint2_insideproject-noauth - 11746705393967",
+	"modifiedTime":1746711946932,
+	"name":"endpoint2_insideProject-noAuth - 11746705393967",
+	"ownerUserId":34,
+	"path":"agfodys",
+	"projectId":13,
+	"resourceIds":["681cb5409f38e47cff5061ed"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
