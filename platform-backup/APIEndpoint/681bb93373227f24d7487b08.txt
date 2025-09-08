@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681bb92c73227f24d7487b02",
+	"createdTime":1746647347274,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"artuan/aejxg8t",
+	"httpMethod":"POST",
+	"id":"681bb93373227f24d7487b08",
+	"lastModifiedBy":34,
+	"lcName":"noauth_accessprofileendpoint117466467121750",
+	"modifiedTime":1746647364095,
+	"name":"noAuth_AccessProfileEndpoint117466467121750",
+	"ownerUserId":34,
+	"path":"aejxg8t",
+	"resourceIds":["681bb9170e2aab3b543b0f2a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
