@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67da6290f463ae517d13e14c",
+	"createdTime":1742365335389,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a1ce8k/ak86zen",
+	"httpMethod":"POST",
+	"id":"67da6297f463ae517d13e14d",
+	"lastModifiedBy":34,
+	"lcName":"end_point_117423652991060",
+	"modifiedTime":1744130027502,
+	"name":"End_point_117423652991060",
+	"ownerUserId":34,
+	"path":"ak86zen",
+	"resourceIds":["67da627619f17e42c3bdf426"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
