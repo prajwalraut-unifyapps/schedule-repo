@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e150465f38e16ca1ee388f",
+	"createdTime":1742819402094,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aos218/ap2y03w?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"DELETE",
+	"id":"67e1504a5f38e16ca1ee3892",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - delete 11742819325743",
+	"modifiedTime":1742819406208,
+	"name":"endpointwebhook - Callable - DELETE 11742819325743",
+	"ownerUserId":34,
+	"path":"ap2y03w",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
