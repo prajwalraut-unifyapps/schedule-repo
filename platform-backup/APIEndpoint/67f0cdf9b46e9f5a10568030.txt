@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f0cdf4b46e9f5a10568029",
+	"createdTime":1743834617271,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3e2bii/apsi4hd",
+	"httpMethod":"POST",
+	"id":"67f0cdf9b46e9f5a10568030",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11743834592595",
+	"modifiedTime":1744129397217,
+	"name":"endpoint_modifiedNoAuth - 11743834592595",
+	"ownerUserId":34,
+	"path":"apsi4hd",
+	"resourceIds":["67f0cde5cd26184e7ddf6876"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
