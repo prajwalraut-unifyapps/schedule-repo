@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e77dc3eb3d64022feb7d1a",
+	"createdTime":1743224259316,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"pdfqpukdmu/GwEvfHtqFh?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e77dc3eb3d64022feb7d1c",
+	"lastModifiedBy":34,
+	"lcName":"dgxfrfwimqivfkbbpgoi",
+	"modifiedTime":1743224887120,
+	"name":"dGXFRFWIMQIvfkBbpGOI",
+	"ownerUserId":34,
+	"path":"GwEvfHtqFh",
+	"resourceIds":["667060a39f30076b83e51451"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
