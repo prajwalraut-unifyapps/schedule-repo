@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67a1726c61f52d5cce564c87",
+	"createdTime":1738633843185,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ao8w6hv/aforbia?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67a1727361f52d5cce564c8a",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvpldrle117386328861520",
+	"modifiedTime":1744130952052,
+	"name":"rbac-ui-ULViewEndPointULvPLdRLe117386328861520",
+	"ownerUserId":34,
+	"path":"aforbia",
+	"resourceIds":["67a1725b3d3ec35b5ca543b3"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
