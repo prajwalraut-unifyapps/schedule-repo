@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68071e803f05fb636682d656",
+	"createdTime":1745297024974,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"Backend-Automation1745297024690/RATfmoqqrW/{name}",
+	"httpMethod":"GET",
+	"id":"68071e803f05fb636682d658",
+	"lastModifiedBy":34,
+	"lcName":"ckbereldpcvdrxbgbrar",
+	"modifiedTime":1745297026104,
+	"name":"CkBeReldPcVdrxBGbRar",
+	"ownerUserId":34,
+	"path":"RATfmoqqrW/{name}",
+	"resourceIds":["68071e80b875301ec54e8eca"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
