@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6821ce1c741e62742a3a1c64",
+	"createdTime":1747045947930,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"check-group/check-api",
+	"httpMethod":"GET",
+	"id":"6821ce3b741e62742a3a1c6c",
+	"lastModifiedBy":34,
+	"lcName":"check_api",
+	"modifiedTime":1747045950907,
+	"name":"check_api",
+	"ownerUserId":34,
+	"path":"check-api",
+	"resourceIds":["67d1814c5b0f75742b29edba"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
