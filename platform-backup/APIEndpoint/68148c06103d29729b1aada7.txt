@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68148be0103d29729b1aada6",
+	"createdTime":1746177030638,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"man-/man",
+	"httpMethod":"GET",
+	"id":"68148c06103d29729b1aada7",
+	"lastModifiedBy":34,
+	"lcName":"man",
+	"modifiedTime":1746183930532,
+	"name":"man",
+	"ownerUserId":34,
+	"path":"man",
+	"resourceIds":["68148b72bc5f6441054b8388"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}
