@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680ee20bdb8b1a29c7d662db",
+	"createdTime":1745805841211,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aroznle/aj01ct?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"680ee211db8b1a29c7d662dc",
+	"lastModifiedBy":103735,
+	"lcName":"rbac-ui-ulcreateendpointulcplvrlall117458041015600",
+	"modifiedTime":1745805942046,
+	"name":"rbac-ui-ULCreateEndpointULcPLvRLAll117458041015600",
+	"ownerUserId":103735,
+	"path":"aj01ct",
+	"resourceIds":["680ee1a1f259df47460f0b36"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
