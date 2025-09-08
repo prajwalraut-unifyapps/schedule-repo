@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6812674379d06066cf5774a3",
+	"createdTime":1746036553414,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"adyhbqo/araohhi",
+	"httpMethod":"POST",
+	"id":"6812674979d06066cf5774a7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_enableruns - 11746035730112",
+	"modifiedTime":1746036613002,
+	"name":"endpoint_enableRuns - 11746035730112",
+	"ownerUserId":34,
+	"path":"araohhi",
+	"resourceIds":["6812672d51805d336959e761"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
