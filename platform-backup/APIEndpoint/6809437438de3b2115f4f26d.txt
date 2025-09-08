@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6809436f38de3b2115f4f26c",
+	"createdTime":1745437556869,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqzh8cg/ah7vts",
+	"httpMethod":"POST",
+	"id":"6809437438de3b2115f4f26d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_updateapigroup - 11745437135611",
+	"modifiedTime":1745437574826,
+	"name":"endpoint_updateApiGroup - 11745437135611",
+	"ownerUserId":34,
+	"path":"ah7vts",
+	"resourceIds":["68094361bb5bb72a7dfb5f6a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
