@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e30850f8c0046c75b91cad",
+	"createdTime":1742932052115,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aijzsbg/a18l76p?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67e30854f8c0046c75b91caf",
+	"lastModifiedBy":34,
+	"lcName":"is not-resource id-117429314865590",
+	"modifiedTime":1742932057389,
+	"name":"Is not-Resource Id-117429314865590",
+	"ownerUserId":34,
+	"path":"a18l76p",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
