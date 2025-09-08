@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f3f3788479fe616d7292e1",
+	"createdTime":1744040828295,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agvq1os/aukkzc",
+	"httpMethod":"GET",
+	"id":"67f3f37c8479fe616d7292e8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - get 11744040395561",
+	"modifiedTime":1744040832259,
+	"name":"endpoint - Callable - GET 11744040395561",
+	"ownerUserId":34,
+	"path":"aukkzc",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
