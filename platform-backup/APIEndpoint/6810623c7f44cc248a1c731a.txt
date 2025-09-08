@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681062367f44cc248a1c7315",
+	"createdTime":1745904188972,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acopecs/adnet0d",
+	"httpMethod":"POST",
+	"id":"6810623c7f44cc248a1c731a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11745903962244",
+	"modifiedTime":1747408210903,
+	"name":"endpoint_modifiedNoAuth - 11745903962244",
+	"ownerUserId":34,
+	"path":"adnet0d",
+	"resourceIds":["6810622326b3770105463bac"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
