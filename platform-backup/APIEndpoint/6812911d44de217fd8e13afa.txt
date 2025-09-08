@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6812911744de217fd8e13af9",
+	"createdTime":1746047261908,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awifebe/acm8vh",
+	"httpMethod":"POST",
+	"id":"6812911d44de217fd8e13afa",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_string_basic_117460418952100",
+	"modifiedTime":1747408156774,
+	"name":"Endpoint_E2E_Workflow_Callable_String_Basic_117460418952100",
+	"ownerUserId":34,
+	"path":"acm8vh",
+	"resourceIds":["681290b5fcca7b01bed9e41d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
