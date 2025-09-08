@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fc51071434153541fdcf47",
+	"createdTime":1744589063706,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ezkveubjxw/KonisEatJe",
+	"httpMethod":"POST",
+	"id":"67fc51071434153541fdcf48",
+	"lastModifiedBy":34,
+	"lcName":"gotaxpjjjereqksqahdh",
+	"modifiedTime":1744684326356,
+	"name":"gOTaxpjjJEreQKsqaHdh",
+	"ownerUserId":34,
+	"path":"KonisEatJe",
+	"resourceIds":["67fc50fc4a47c934096bfe40"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
