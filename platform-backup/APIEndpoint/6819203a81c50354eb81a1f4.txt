@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1746477114869,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68192034e8a3ef233e410dc1",
+	"httpMethod":"ANY",
+	"id":"6819203a81c50354eb81a1f4",
+	"lastModifiedBy":-1,
+	"lcName":"standard_entities_with_get_unified_entity_model_reporting_details_117464739345280 automation web-hook",
+	"modifiedTime":1747302836767,
+	"name":"Standard_Entities_With_Get_Unified_Entity_Model_Reporting_Details_117464739345280 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68192034e8a3ef233e410dc1",
+	"resourceIds":["68192034e8a3ef233e410dc1"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
