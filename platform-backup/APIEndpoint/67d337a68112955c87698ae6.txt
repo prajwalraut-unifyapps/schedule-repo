@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d337a08112955c87698ae2",
+	"createdTime":1741895590644,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"awi2adm/ayhgreu?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67d337a68112955c87698ae6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_webhookexecutetoken - 11741894672866",
+	"modifiedTime":1744130164645,
+	"name":"endpoint_webhookExecuteToken - 11741894672866",
+	"ownerUserId":34,
+	"path":"ayhgreu",
+	"resourceIds":["67d33784d2970166b0d39a77"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
