@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67dc6fe362bce673549e5ba0",
+	"createdTime":1742499816526,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aovulln/ak216u",
+	"httpMethod":"POST",
+	"id":"67dc6fe862bce673549e5ba4",
+	"lastModifiedBy":34,
+	"lcName":"endpoint post update - 11742499495392",
+	"modifiedTime":1742499830031,
+	"name":"endpoint post update - 11742499495392",
+	"ownerUserId":34,
+	"path":"ak216u",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
