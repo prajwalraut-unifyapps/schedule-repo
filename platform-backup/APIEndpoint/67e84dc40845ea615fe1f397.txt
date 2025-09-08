@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e84dbf0845ea615fe1f395",
+	"createdTime":1743277508974,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aosm2u/azd50gc",
+	"httpMethod":"POST",
+	"id":"67e84dc40845ea615fe1f397",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_verifyruns - 11743277076388",
+	"modifiedTime":1744129618878,
+	"name":"endpoint_verifyRuns - 11743277076388",
+	"ownerUserId":34,
+	"path":"azd50gc",
+	"resourceIds":["67e84d9c705ae976a5e9ab6b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
