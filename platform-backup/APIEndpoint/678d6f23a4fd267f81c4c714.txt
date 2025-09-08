@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678d6f1fa4fd267f81c4c713",
+	"createdTime":1737322275950,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azl02da/azvn9ug",
+	"httpMethod":"POST",
+	"id":"678d6f23a4fd267f81c4c714",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_storagebyunifyapps_basic_117373179664030",
+	"modifiedTime":1744131286902,
+	"name":"Endpoint_E2E_Workflow_Callable_StorageByUnifyApps_Basic_117373179664030",
+	"ownerUserId":34,
+	"path":"azvn9ug",
+	"resourceIds":["678d6eeb9310787814140af7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
