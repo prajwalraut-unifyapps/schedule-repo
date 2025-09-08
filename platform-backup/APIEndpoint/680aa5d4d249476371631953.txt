@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680aa5cfd249476371631951",
+	"createdTime":1745528276580,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"av382b/amstuxs",
+	"httpMethod":"POST",
+	"id":"680aa5d4d249476371631953",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_responseschematest_117455235392410",
+	"modifiedTime":1745528364067,
+	"name":"endpoint_responseSchemaTest_117455235392410",
+	"ownerUserId":34,
+	"path":"amstuxs",
+	"resourceIds":["680aa5c07e9004522dd3d492"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
