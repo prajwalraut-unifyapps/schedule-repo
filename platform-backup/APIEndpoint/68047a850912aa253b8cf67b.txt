@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1745123973136,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68047a846273906c018a1794",
+	"httpMethod":"ANY",
+	"id":"68047a850912aa253b8cf67b",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationp0t59ofnvtwi automation web-hook",
+	"modifiedTime":1745123973527,
+	"name":"Backend_Automationp0t59OfnvTwi Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68047a846273906c018a1794",
+	"resourceIds":["68047a846273906c018a1794"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
