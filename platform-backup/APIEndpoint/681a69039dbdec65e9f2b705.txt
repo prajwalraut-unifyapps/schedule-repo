@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681a68fe9dbdec65e9f2b700",
+	"createdTime":1746561283270,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a830jj/ajtwrd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"681a69039dbdec65e9f2b705",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11746560320202",
+	"modifiedTime":1746561287011,
+	"name":"endpointwebhook - Callable - POST 11746560320202",
+	"ownerUserId":34,
+	"path":"ajtwrd",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
