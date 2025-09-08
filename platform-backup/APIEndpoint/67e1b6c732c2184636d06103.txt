@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e1b6c132c2184636d060ff",
+	"createdTime":1742845639127,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"axerss/altv8c",
+	"httpMethod":"POST",
+	"id":"67e1b6c732c2184636d06103",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_delete_117428450761200",
+	"modifiedTime":1742845641167,
+	"name":"Endpoint_delete_117428450761200",
+	"ownerUserId":34,
+	"path":"altv8c",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
