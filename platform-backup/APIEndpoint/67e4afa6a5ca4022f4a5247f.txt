@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e4afa0a5ca4022f4a5247d",
+	"createdTime":1743040422793,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azrzfqo/aoulijo?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67e4afa6a5ca4022f4a5247f",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rldeleteendpointulvplnrld117430392574710",
+	"modifiedTime":1744129730933,
+	"name":"rbac-ui-RLDeleteEndPointULvPLnRLd117430392574710",
+	"ownerUserId":34,
+	"path":"aoulijo",
+	"resourceIds":["67e4af92dff96903f133fba2"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
