@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e1caac32c2184636d06295",
+	"createdTime":1742850738820,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acex2pd/adnxtm",
+	"httpMethod":"POST",
+	"id":"67e1cab232c2184636d06298",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_object_basic_117428450883970",
+	"modifiedTime":1744129862625,
+	"name":"Endpoint_E2E_Workflow_Callable_Object_Basic_117428450883970",
+	"ownerUserId":34,
+	"path":"adnxtm",
+	"resourceIds":["67e1ca52ed2309118b53db15"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
