@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67c0c0f78253f73873fbc0c1",
+	"createdTime":1740685566121,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a2xtmbf/alx90tf",
+	"httpMethod":"POST",
+	"id":"67c0c0fe8253f73873fbc0c5",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174068507690409",
+	"modifiedTime":1744130504373,
+	"name":"Sort_1174068507690409",
+	"ownerUserId":34,
+	"path":"alx90tf",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
