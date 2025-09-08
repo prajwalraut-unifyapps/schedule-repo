@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682232364d705f777d0ddbde",
+	"createdTime":1747071548675,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aql0lcs/alvmlz",
+	"httpMethod":"POST",
+	"id":"6822323c4d705f777d0ddbe0",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_authorization code-117470715306840",
+	"modifiedTime":1747407718579,
+	"name":"endpoint_OAuth2.0_Authorization code-117470715306840",
+	"ownerUserId":34,
+	"path":"alvmlz",
+	"resourceIds":["6822322e0a903624acb8c75f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
