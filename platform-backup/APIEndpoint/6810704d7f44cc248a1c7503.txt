@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681070467f44cc248a1c7502",
+	"createdTime":1745907789062,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a7b3o3a/asr4mpg",
+	"httpMethod":"GET",
+	"id":"6810704d7f44cc248a1c7503",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_streambyunifyappsactions_get_117459077554660",
+	"modifiedTime":1747408208078,
+	"name":"Endpoint_StreamByUnifyAppsActions_GET_117459077554660",
+	"ownerUserId":34,
+	"path":"asr4mpg",
+	"resourceIds":["6810703caa493e018230e81b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
