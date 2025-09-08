@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6788104560377c33d9eab7ca",
+	"createdTime":1736970313264,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afno45k/apdknxf",
+	"httpMethod":"POST",
+	"id":"6788104960377c33d9eab7cb",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_post - 11736969874032",
+	"modifiedTime":1744131352712,
+	"name":"callable_endpoint_accessProfile_post - 11736969874032",
+	"ownerUserId":34,
+	"path":"apdknxf",
+	"resourceIds":["67880faa2d1a4f663e5ee179"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
