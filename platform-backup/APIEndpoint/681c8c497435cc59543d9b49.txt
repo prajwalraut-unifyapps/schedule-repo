@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c8c427435cc59543d9b48",
+	"createdTime":1746701385201,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"am4yqk/acygnu4",
+	"httpMethod":"POST",
+	"id":"681c8c497435cc59543d9b49",
+	"lastModifiedBy":34,
+	"lcName":"api_deletedendpoint117467013538570",
+	"modifiedTime":1746701419828,
+	"name":"API_deletedEndpoint117467013538570",
+	"ownerUserId":34,
+	"path":"acygnu4",
+	"resourceIds":["681c8c2d35cf1d338b0429f6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
