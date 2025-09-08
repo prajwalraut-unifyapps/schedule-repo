@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6791a05c02c7127bac2ddcaf",
+	"createdTime":1737597023884,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aqt90kn/amaxmi?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6791a05f02c7127bac2ddcb1",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rlviewendpointulnplerlv117375960048190",
+	"modifiedTime":1744131204450,
+	"name":"rbac-ui-RLViewEndPointULnPLeRLv117375960048190",
+	"ownerUserId":34,
+	"path":"amaxmi",
+	"resourceIds":["6791a041dab076195e3f3a55"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
