@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68218f52b5566852685d8312",
+	"createdTime":1747029849843,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alkpe3eq/ajayt2",
+	"httpMethod":"POST",
+	"id":"68218f59b5566852685d8316",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - post 11747029815708",
+	"modifiedTime":1747029858536,
+	"name":"endpoint - Callable - POST 11747029815708",
+	"ownerUserId":34,
+	"path":"ajayt2",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
