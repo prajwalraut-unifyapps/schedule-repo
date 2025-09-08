@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1742947484805,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"automationbackendtest/PgEbiGQdQN/{name}",
+	"httpMethod":"PUT",
+	"id":"67e3449cf8c0046c75b91d42",
+	"lastModifiedBy":34,
+	"lcName":"npdrxxtcoankeolamyln",
+	"modifiedTime":1742947484805,
+	"name":"NPdrxxtCOAnkeolamylN",
+	"ownerUserId":34,
+	"path":"PgEbiGQdQN/{name}",
+	"resourceIds":["6643202a5a6e5634ab009895"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":0
+}
