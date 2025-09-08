@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c0b8a48253f73873fbbff5",
+	"createdTime":1740683433944,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"adnljw4/akhruyb",
+	"httpMethod":"POST",
+	"id":"67c0b8a98253f73873fbbff6",
+	"lastModifiedBy":34,
+	"lcName":"createendpointforcomplexschema - 117406832249450",
+	"modifiedTime":1744130508667,
+	"name":"createEndpointForComplexSchema - 117406832249450",
+	"ownerUserId":34,
+	"path":"akhruyb",
+	"resourceIds":["67c0b8910650e6184feea679"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
