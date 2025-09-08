@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e45d50a5ca4022f4a51adb",
+	"createdTime":1743019350377,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a8x45pg/agno5ee",
+	"httpMethod":"POST",
+	"id":"67e45d56a5ca4022f4a51ade",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174301906498701",
+	"modifiedTime":1744129745520,
+	"name":"Sort_1174301906498701",
+	"ownerUserId":34,
+	"path":"agno5ee",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
