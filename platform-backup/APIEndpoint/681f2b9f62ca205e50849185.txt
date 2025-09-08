@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681f2b9762ca205e50849181",
+	"createdTime":1746873247642,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azo03f/anmbont?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PATCH",
+	"id":"681f2b9f62ca205e50849185",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - patch 11746872803986",
+	"modifiedTime":1746873255848,
+	"name":"endpointwebhook - Callable - PATCH 11746872803986",
+	"ownerUserId":34,
+	"path":"anmbont",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
