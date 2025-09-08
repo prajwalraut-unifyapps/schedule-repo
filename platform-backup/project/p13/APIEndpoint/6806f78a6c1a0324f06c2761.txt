@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6806f7856c1a0324f06c275f",
+	"createdTime":1745287050721,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a2vkpug/apja7lin?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6806f78a6c1a0324f06c2761",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-pleditendpointrlviewulnplerlv117452857223950updated",
+	"modifiedTime":1745287207662,
+	"name":"rbac-ui-PLEditEndPointRLViewULnPLeRLv117452857223950Updated",
+	"ownerUserId":34,
+	"path":"apja7lin",
+	"projectId":13,
+	"resourceIds":["6806f7801ebba7180f9337d7"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
