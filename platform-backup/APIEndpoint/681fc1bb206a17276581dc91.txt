@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681fc1b4206a17276581dc90",
+	"createdTime":1746911675022,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abtira/ae6jskq",
+	"httpMethod":"POST",
+	"id":"681fc1bb206a17276581dc91",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_decimal_basic_117469059082730",
+	"modifiedTime":1747407789255,
+	"name":"Endpoint_E2E_Workflow_Callable_Decimal_Basic_117469059082730",
+	"ownerUserId":34,
+	"path":"ae6jskq",
+	"resourceIds":["681fc170be633836718ab636"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
