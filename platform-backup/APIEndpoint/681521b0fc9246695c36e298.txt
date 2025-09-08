@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681521aafc9246695c36e296",
+	"createdTime":1746215344548,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9tsp/avx1doo",
+	"httpMethod":"POST",
+	"id":"681521b0fc9246695c36e298",
+	"lastModifiedBy":34,
+	"lcName":"api_deletedendpoint117462147097760",
+	"modifiedTime":1747408128470,
+	"name":"API_deletedEndpoint117462147097760",
+	"ownerUserId":34,
+	"path":"avx1doo",
+	"resourceIds":["681521926b38ab61a0220d15"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
