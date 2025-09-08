@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6772ed5cf224be7c93078248",
+	"createdTime":1735585118833,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ama8tsi/test",
+	"httpMethod":"POST",
+	"id":"6772ed5ef224be7c93078249",
+	"lastModifiedBy":34,
+	"lcName":"test",
+	"modifiedTime":1744131810748,
+	"name":"test",
+	"ownerUserId":34,
+	"path":"test",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
