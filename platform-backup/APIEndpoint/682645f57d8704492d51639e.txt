@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682645f07d8704492d51639c",
+	"createdTime":1747338741907,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"am1fg1g/agcqtom?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"682645f57d8704492d51639e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117473378913600",
+	"modifiedTime":1747338746033,
+	"name":"endpoint - Webhook -  117473378913600",
+	"ownerUserId":34,
+	"path":"agcqtom",
+	"resourceIds":["682645e8dd00b810109f68e3"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
