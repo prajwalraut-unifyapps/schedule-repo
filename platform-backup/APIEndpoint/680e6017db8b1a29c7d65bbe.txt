@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680e6011db8b1a29c7d65bbb",
+	"createdTime":1745772567547,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acozdat/a5hybp",
+	"httpMethod":"POST",
+	"id":"680e6017db8b1a29c7d65bbe",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11745772538817",
+	"modifiedTime":1745772591472,
+	"name":"endpoint_differentAuthType - 11745772538817",
+	"ownerUserId":34,
+	"path":"a5hybp",
+	"resourceIds":["680e600006cfd8766bd718d1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
