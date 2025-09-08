@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6799d7dc390b243b185a5ac1",
+	"createdTime":1738135520042,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9srq65/ar2x7s",
+	"httpMethod":"POST",
+	"id":"6799d7e0390b243b185a5ac2",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11738135513262",
+	"modifiedTime":1744131076014,
+	"name":"updatedEndpointLogs- 11738135513262",
+	"ownerUserId":34,
+	"path":"ar2x7s",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
