@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cf4e831aca55416879140",
+	"createdTime":1746728175650,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apm1eac/atue2ai",
+	"httpMethod":"POST",
+	"id":"681cf4ef31aca55416879141",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-modifiednoauth - 11746723224686",
+	"modifiedTime":1747407928640,
+	"name":"endpoint_insideProject-modifiedNoAuth - 11746723224686",
+	"ownerUserId":34,
+	"path":"atue2ai",
+	"projectId":13,
+	"resourceIds":["681cf4d6583e5a479969d239"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
