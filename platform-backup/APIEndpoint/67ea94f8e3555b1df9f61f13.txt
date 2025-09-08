@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ea94ebf9389c295a2bed1b",
+	"createdTime":1743509611892,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"callAutoCheckMaingroup/callAutoCheckMainapi9",
+	"httpMethod":"POST",
+	"id":"67ea94f8e3555b1df9f61f13",
+	"lastModifiedBy":34,
+	"lcName":"callautocheckmainapi9",
+	"modifiedTime":1743509611892,
+	"name":"callAutoCheckMainapi9",
+	"ownerUserId":34,
+	"path":"callAutoCheckMainapi9",
+	"resourceIds":["67e6dcc0523fc92ed1aa0581"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
