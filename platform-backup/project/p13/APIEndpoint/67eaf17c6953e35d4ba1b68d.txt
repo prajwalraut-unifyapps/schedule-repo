@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67eaf1796953e35d4ba1b68b",
+	"createdTime":1743450492816,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aqn80lr/endpointexternalapi---Callable---PUT-11743449880802",
+	"httpMethod":"PUT",
+	"id":"67eaf17c6953e35d4ba1b68d",
+	"lastModifiedBy":34,
+	"lcName":"endpointexternalapi - callable - put 11743449880802",
+	"modifiedTime":1743450496506,
+	"name":"endpointexternalapi - Callable - PUT 11743449880802",
+	"ownerUserId":34,
+	"path":"endpointexternalapi---Callable---PUT-11743449880802",
+	"projectId":13,
+	"resourceIds":[],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
