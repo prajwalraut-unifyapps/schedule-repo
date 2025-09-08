@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e63fab3beec10e8fd21404",
+	"createdTime":1743142834047,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"av4rn1f/apikzoq",
+	"httpMethod":"POST",
+	"id":"67e63fb23beec10e8fd2140b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11743142544858",
+	"modifiedTime":1744129677742,
+	"name":"endpoint1_noAuth - 11743142544858",
+	"ownerUserId":34,
+	"path":"apikzoq",
+	"resourceIds":["67e63f95c04e8b34931ce172"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
