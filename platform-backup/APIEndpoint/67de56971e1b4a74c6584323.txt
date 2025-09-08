@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67de56931e1b4a74c6584320",
+	"createdTime":1742624407500,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a7p8uhfj/ac4til2",
+	"httpMethod":"POST",
+	"id":"67de56971e1b4a74c6584323",
+	"lastModifiedBy":34,
+	"lcName":"endpoint post update - 11742624358441",
+	"modifiedTime":1742624420639,
+	"name":"endpoint post update - 11742624358441",
+	"ownerUserId":34,
+	"path":"ac4til2",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
