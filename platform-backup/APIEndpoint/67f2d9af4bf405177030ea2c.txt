@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f2d9a94bf405177030ea29",
+	"createdTime":1743968687190,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a8mwjg8/an7omdb",
+	"httpMethod":"POST",
+	"id":"67f2d9af4bf405177030ea2c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deleteapigroup - 11743968346370",
+	"modifiedTime":1744129359672,
+	"name":"endpoint_deleteApiGroup - 11743968346370",
+	"ownerUserId":34,
+	"path":"an7omdb",
+	"resourceIds":["67f2d994780d874a2dc418cb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
