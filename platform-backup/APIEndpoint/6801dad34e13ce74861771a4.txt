@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6801dad24e13ce74861771a3",
+	"createdTime":1744952019026,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"KQnarQPUlL/MacyfewQdD/{name}",
+	"httpMethod":"GET",
+	"id":"6801dad34e13ce74861771a4",
+	"lastModifiedBy":34,
+	"lcName":"osuqiwlnwwshkpvsslut",
+	"modifiedTime":1744952020210,
+	"name":"OsUQIwlnwwSHKPvSsluT",
+	"ownerUserId":34,
+	"path":"MacyfewQdD/{name}",
+	"resourceIds":["6801dad2fc800d7f2350a1d4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
