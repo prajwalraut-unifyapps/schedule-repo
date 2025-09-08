@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e45d3ca5ca4022f4a51ad2",
+	"createdTime":1743019332728,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awoo4qu/abgaiin",
+	"httpMethod":"POST",
+	"id":"67e45d44a5ca4022f4a51ad6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11743019063589",
+	"modifiedTime":1744129746357,
+	"name":"endpoint1_noAuth - 11743019063589",
+	"ownerUserId":34,
+	"path":"abgaiin",
+	"resourceIds":["67e45d29d8ce4136d8c597a3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
