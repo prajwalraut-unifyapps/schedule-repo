@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68269bbfd9f23b0c89adf1c5",
+	"createdTime":1747360710372,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ah2ienm/akugdp?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68269bc6d9f23b0c89adf1c7",
+	"lastModifiedBy":119302,
+	"lcName":"rbac-ui-rldeleteendpointulvplnrld117473594804560",
+	"modifiedTime":1747360802675,
+	"name":"rbac-ui-RLDeleteEndPointULvPLnRLd117473594804560",
+	"ownerUserId":34,
+	"path":"akugdp",
+	"resourceIds":["68269bb1dd00b810109fcc8f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
