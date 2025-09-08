@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681aec633a640c2159d0dbdb",
+	"createdTime":1746594915379,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"mydysxprar/dxNeounSWz/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"681aec633a640c2159d0dbdc",
+	"lastModifiedBy":34,
+	"lcName":"azouaxarskitavwizbrb",
+	"modifiedTime":1746596055266,
+	"name":"AZOUaXarsKITAvWIZbrB",
+	"ownerUserId":34,
+	"path":"dxNeounSWz/{name}/{age}",
+	"resourceIds":["66793561f870230e0b80660f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
