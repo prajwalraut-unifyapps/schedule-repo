@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677c9e1513a6b363fefebfb9",
+	"createdTime":1736220184635,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"awr43vb/adqtssl?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677c9e1813a6b363fefebfba",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-uleditendpointuleplnrld117362098941830",
+	"modifiedTime":1744131600658,
+	"name":"rbac-ui-ULEditEndPointULePLnRLd117362098941830",
+	"ownerUserId":34,
+	"path":"adqtssl",
+	"resourceIds":["677c9e01e757796effb831a8"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
