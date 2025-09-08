@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c7e527435cc59543d99c2",
+	"createdTime":1746697811397,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"BjozHyEuGXHjuQV/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"681c7e537435cc59543d99c3",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalfhdrs",
+	"modifiedTime":1746700342586,
+	"name":"changeSetLocalfhdRS",
+	"ownerUserId":34,
+	"path":"automation/endpoint1",
+	"resourceIds":["681c7e51c422e60786cfa251"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
