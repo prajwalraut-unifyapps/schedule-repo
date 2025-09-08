@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e78dd9eb3d64022feb7e95",
+	"createdTime":1743228382294,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"axi69xx/arftl2n",
+	"httpMethod":"GET",
+	"id":"67e78ddeeb3d64022feb7e99",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - get 11743228370654",
+	"modifiedTime":1743228385823,
+	"name":"endpoint - Callable - GET 11743228370654",
+	"ownerUserId":34,
+	"path":"arftl2n",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
