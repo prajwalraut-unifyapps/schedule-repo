@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6776905669b6710b6d688f4c",
+	"createdTime":1735823450634,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9zdpkg/axihriq",
+	"httpMethod":"POST",
+	"id":"6776905a69b6710b6d688f4d",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_unchecknode - 11735822588139",
+	"modifiedTime":1744131734805,
+	"name":"callable_endpoint_accessProfile_uncheckNode - 11735822588139",
+	"ownerUserId":34,
+	"path":"axihriq",
+	"resourceIds":["6776903629fc4d15e7f2a159"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
