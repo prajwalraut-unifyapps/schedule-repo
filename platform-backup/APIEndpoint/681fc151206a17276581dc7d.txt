@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681fc14b206a17276581dc7c",
+	"createdTime":1746911569716,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ae5guij/arkib0v",
+	"httpMethod":"POST",
+	"id":"681fc151206a17276581dc7d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_basic_117469059082730",
+	"modifiedTime":1747407790221,
+	"name":"Endpoint_E2E_Workflow_Callable_Basic_117469059082730",
+	"ownerUserId":34,
+	"path":"arkib0v",
+	"resourceIds":["681fc11d8e3ec94c322662ed"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
