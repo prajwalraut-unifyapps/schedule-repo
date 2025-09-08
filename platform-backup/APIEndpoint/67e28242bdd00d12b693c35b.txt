@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e2823abdd00d12b693c2fd",
+	"createdTime":1742897730796,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"blfbzswttx/atpIIRRCgB",
+	"httpMethod":"POST",
+	"id":"67e28242bdd00d12b693c35b",
+	"lastModifiedBy":34,
+	"lcName":"tafmhwradunhoejzikom",
+	"modifiedTime":1742897731577,
+	"name":"TaFMHwRADUNHOEJzikom",
+	"ownerUserId":34,
+	"path":"atpIIRRCgB",
+	"resourceIds":["67e282382807cf04c7f8e760"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
