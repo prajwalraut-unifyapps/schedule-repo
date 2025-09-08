@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"679e7a22f09eb576e08fa354",
+	"createdTime":1738439210374,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"az7ur3/aqucci",
+	"httpMethod":"POST",
+	"id":"679e7a2af09eb576e08fa359",
+	"lastModifiedBy":34,
+	"lcName":"sort_1173843869091209",
+	"modifiedTime":1744130992668,
+	"name":"Sort_1173843869091209",
+	"ownerUserId":34,
+	"path":"aqucci",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
