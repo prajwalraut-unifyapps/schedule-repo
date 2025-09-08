@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cf52f31aca55416879155",
+	"createdTime":1746728246107,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a42xzx/akp2ydl",
+	"httpMethod":"POST",
+	"id":"681cf53631aca55416879157",
+	"lastModifiedBy":34,
+	"lcName":"api_deletedendpoint117467232246860",
+	"modifiedTime":1747407928405,
+	"name":"API_deletedEndpoint117467232246860",
+	"ownerUserId":34,
+	"path":"akp2ydl",
+	"resourceIds":["681cf515583e5a479969d376"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
