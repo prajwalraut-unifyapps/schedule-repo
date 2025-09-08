@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e790f9eb3d64022feb7ffc",
+	"createdTime":1743229184274,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alux2l/ak1s7dk",
+	"httpMethod":"POST",
+	"id":"67e79100eb3d64022feb8003",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11743228902264",
+	"modifiedTime":1744129629654,
+	"name":"endpoint_differentAuthType - 11743228902264",
+	"ownerUserId":34,
+	"path":"ak1s7dk",
+	"resourceIds":["67e790e626823c59b439a825"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
