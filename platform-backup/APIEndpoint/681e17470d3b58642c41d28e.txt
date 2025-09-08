@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681e173f0d3b58642c41d288",
+	"createdTime":1746802503544,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ankw1pk/anmks65",
+	"httpMethod":"POST",
+	"id":"681e17470d3b58642c41d28e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - post 11746795702133",
+	"modifiedTime":1746802508635,
+	"name":"endpoint - Callable - POST 11746795702133",
+	"ownerUserId":34,
+	"path":"anmks65",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
