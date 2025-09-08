@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68000b17c4863757150ce764",
+	"createdTime":1744833309542,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"afprsv/a7gugvu",
+	"httpMethod":"POST",
+	"id":"68000b1dc4863757150ce769",
+	"lastModifiedBy":34,
+	"lcName":"export_endpoint- 117448323029500",
+	"modifiedTime":1744833349432,
+	"name":"Export_Endpoint- 117448323029500",
+	"ownerUserId":34,
+	"path":"a7gugvu",
+	"resourceIds":["68000b0843144151c4bb53f0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
