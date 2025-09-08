@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e0e641c3e60a54e6e01afa",
+	"createdTime":1742792257187,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aktrobfmhb/zWIGQYdQgr/{name}/{height}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e0e641c3e60a54e6e01afb",
+	"lastModifiedBy":34,
+	"lcName":"gjopjprpalelaolecije",
+	"modifiedTime":1742792257493,
+	"name":"gjOpJprpalElAOlECIJE",
+	"ownerUserId":34,
+	"path":"zWIGQYdQgr/{name}/{height}",
+	"resourceIds":["667426623fc3fb3a478ffc63"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
