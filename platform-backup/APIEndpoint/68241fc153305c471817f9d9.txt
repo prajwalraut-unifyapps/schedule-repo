@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68241fc153305c471817f9d7",
+	"createdTime":1747197889970,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"Backend-Automation1747197889659/GrHsDldgBP/{name}",
+	"httpMethod":"GET",
+	"id":"68241fc153305c471817f9d9",
+	"lastModifiedBy":34,
+	"lcName":"leluasabodiapumpqntz",
+	"modifiedTime":1747197891156,
+	"name":"lelUASAbOdiaPuMpQNtZ",
+	"ownerUserId":34,
+	"path":"GrHsDldgBP/{name}",
+	"resourceIds":["68241fc1494ca36f336b3c83"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
