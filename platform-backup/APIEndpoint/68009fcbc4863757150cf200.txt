@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68009fc5c4863757150cf1ff",
+	"createdTime":1744871371476,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ah41y8s/amax3k",
+	"httpMethod":"POST",
+	"id":"68009fcbc4863757150cf200",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apigroup_clientmod_11744871192865",
+	"modifiedTime":1744871400540,
+	"name":"endpoint_ApiGroup_ClientMod_11744871192865",
+	"ownerUserId":34,
+	"path":"amax3k",
+	"resourceIds":["68009fb258a4ac1771a4a7d2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
