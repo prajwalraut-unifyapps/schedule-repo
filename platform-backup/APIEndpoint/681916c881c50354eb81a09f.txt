@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681916c181c50354eb81a09d",
+	"createdTime":1746474696054,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ajlo85b/auosous?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"681916c881c50354eb81a09f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117464739558870",
+	"modifiedTime":1746474700944,
+	"name":"endpoint - Webhook -  117464739558870",
+	"ownerUserId":34,
+	"path":"auosous",
+	"resourceIds":["681916b7e8a3ef233e410443"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
