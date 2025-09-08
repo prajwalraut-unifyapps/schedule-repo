@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682232704d705f777d0ddbf0",
+	"createdTime":1747071607208,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aptpk8i/ae3ir65",
+	"httpMethod":"POST",
+	"id":"682232774d705f777d0ddbf2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_authorization code-117470715896320",
+	"modifiedTime":1747407718332,
+	"name":"endpoint_OAuth2.0_Authorization code-117470715896320",
+	"ownerUserId":34,
+	"path":"ae3ir65",
+	"resourceIds":["68223268fc4e3a16a8128bdb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
