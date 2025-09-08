@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e12c5820ecc57e64e82dc7",
+	"createdTime":1742810204295,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azauxor/a177tp",
+	"httpMethod":"POST",
+	"id":"67e12c5c20ecc57e64e82dca",
+	"lastModifiedBy":34,
+	"lcName":"fallback_endpoint_post - 11742809979341",
+	"modifiedTime":1742810224003,
+	"name":"fallback_endpoint_post - 11742809979341",
+	"ownerUserId":34,
+	"path":"a177tp",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":5
+}
