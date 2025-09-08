@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680ec210db8b1a29c7d66155",
+	"createdTime":1745797650264,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ensuficushotnve/automation",
+	"httpMethod":"POST",
+	"id":"680ec212db8b1a29c7d66159",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqaillap",
+	"modifiedTime":1745883286651,
+	"name":"changeSetSECURITYQAilLap",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["680ec211db8b1a29c7d66156"],
+	"resourceIds":["680ec20ff259df47460ecba9"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
