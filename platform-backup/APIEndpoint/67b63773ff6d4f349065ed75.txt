@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b6376cff6d4f349065ed72",
+	"createdTime":1739994995902,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amk957i/asyrjzt",
+	"httpMethod":"POST",
+	"id":"67b63773ff6d4f349065ed75",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_enableruns - 11739993856619",
+	"modifiedTime":1744130630474,
+	"name":"endpoint_enableRuns - 11739993856619",
+	"ownerUserId":34,
+	"path":"asyrjzt",
+	"resourceIds":["67b6374a572cb3226eb4fb70"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
