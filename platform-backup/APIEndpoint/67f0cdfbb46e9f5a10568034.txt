@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f0cdf5b46e9f5a1056802e",
+	"createdTime":1743834619552,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apur016/avkenib",
+	"httpMethod":"POST",
+	"id":"67f0cdfbb46e9f5a10568034",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11743834592595",
+	"modifiedTime":1744129396435,
+	"name":"endpoint1_noAuth - 11743834592595",
+	"ownerUserId":34,
+	"path":"avkenib",
+	"resourceIds":["67f0cde59db9e03803db5564"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
