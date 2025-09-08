@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cb52742771e1f3a3b6473",
+	"createdTime":1746711855655,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a410g7/atonixru",
+	"httpMethod":"POST",
+	"id":"681cb52f42771e1f3a3b6478",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_after_modification11746705393967",
+	"modifiedTime":1746711884167,
+	"name":"endpoint_after_modification11746705393967",
+	"ownerUserId":34,
+	"path":"atonixru",
+	"resourceIds":["681cb50c4d56055f08b82ed4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
