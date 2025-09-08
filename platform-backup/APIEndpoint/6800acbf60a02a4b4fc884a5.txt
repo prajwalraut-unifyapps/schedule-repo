@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6800acb860a02a4b4fc884a3",
+	"createdTime":1744874687764,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aeryma/a9x82t?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6800acbf60a02a4b4fc884a5",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rlviewendpointulcplerlv117448733001670",
+	"modifiedTime":1745263101486,
+	"name":"rbac-ui-RLViewEndpointULcPLeRLv117448733001670",
+	"ownerUserId":34,
+	"path":"a9x82t",
+	"resourceIds":["6800aca434a72b7d877c8c9e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
