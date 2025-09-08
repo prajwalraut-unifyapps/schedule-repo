@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d9d08ef463ae517d13d47f",
+	"createdTime":1742327957716,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"apcwit/ay2rrba?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67d9d095f463ae517d13d483",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_webhookexecutetoken - 11742326722676",
+	"modifiedTime":1744130040150,
+	"name":"endpoint_webhookExecuteToken - 11742326722676",
+	"ownerUserId":34,
+	"path":"ay2rrba",
+	"resourceIds":["67d9d06e0530bd371b1467e5"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
