@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68224fda4d705f777d0de1b7",
+	"createdTime":1747079136988,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ag0zt5h/armv2kp",
+	"httpMethod":"POST",
+	"id":"68224fe04d705f777d0de1b8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_updateapigroup - 11747078693370",
+	"modifiedTime":1747079165450,
+	"name":"endpoint_updateApiGroup - 11747078693370",
+	"ownerUserId":34,
+	"path":"armv2kp",
+	"resourceIds":["68224fc6b0df2870eb49b82f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
