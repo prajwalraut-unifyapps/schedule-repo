@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e13cb55f38e16ca1ee3702",
+	"createdTime":1742814392523,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ecoEjqXoNmUpNjb/automation",
+	"httpMethod":"POST",
+	"id":"67e13cb85f38e16ca1ee3706",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocaluwdpe",
+	"modifiedTime":1742814654801,
+	"name":"changeSetLocalUWDpe",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["67e13cb65f38e16ca1ee3703"],
+	"resourceIds":["67e13cb4d2d29d727051f18e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
