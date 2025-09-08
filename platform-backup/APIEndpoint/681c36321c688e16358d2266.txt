@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1746679346364,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/681c3631b43d46239cbf0f33",
+	"httpMethod":"ANY",
+	"id":"681c36321c688e16358d2266",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationfufaxopv99mm automation web-hook",
+	"modifiedTime":1746679347459,
+	"name":"Backend_AutomationfUfaxOPv99MM Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"681c3631b43d46239cbf0f33",
+	"resourceIds":["681c3631b43d46239cbf0f33"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
