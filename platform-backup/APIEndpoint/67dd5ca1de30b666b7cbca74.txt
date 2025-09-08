@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67dd5c9dde30b666b7cbca6f",
+	"createdTime":1742560417919,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"allcakw/alovrb1",
+	"httpMethod":"POST",
+	"id":"67dd5ca1de30b666b7cbca74",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- oauth2.0  - 11742560330454",
+	"modifiedTime":1742560438509,
+	"name":"endpoint_- OAuth2.0  - 11742560330454",
+	"ownerUserId":34,
+	"path":"alovrb1",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
