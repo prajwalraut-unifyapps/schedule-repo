@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6778bb4693dc3f5261cf0567",
+	"createdTime":1735965513956,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arbirdo/a3imif8",
+	"httpMethod":"POST",
+	"id":"6778bb4993dc3f5261cf0569",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_basic_117359644413080",
+	"modifiedTime":1744131684341,
+	"name":"Endpoint_E2E_Workflow_Callable_Basic_117359644413080",
+	"ownerUserId":34,
+	"path":"a3imif8",
+	"resourceIds":["6778bb046e549953d92e4416"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
