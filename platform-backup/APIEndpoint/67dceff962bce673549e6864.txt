@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dcef6b62bce673549e6734",
+	"createdTime":1742532601265,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"mvzhijawdt/tjWhxOaaba/{str}",
+	"httpMethod":"GET",
+	"id":"67dceff962bce673549e6864",
+	"lastModifiedBy":34,
+	"lcName":"kognwvxerjocvojtbtcu",
+	"modifiedTime":1742532601548,
+	"name":"KOgnWVXeRJoCVoJtBtCu",
+	"ownerUserId":34,
+	"path":"tjWhxOaaba/{str}",
+	"resourceIds":["67dceff88445037d9b064476"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
