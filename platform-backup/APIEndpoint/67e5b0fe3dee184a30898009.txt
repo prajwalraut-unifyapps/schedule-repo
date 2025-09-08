@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1743106302727,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67e5b0f43c1ea40867097aa4",
+	"httpMethod":"ANY",
+	"id":"67e5b0fe3dee184a30898009",
+	"lastModifiedBy":-1,
+	"lcName":"delay_workflowwaiting-117431042507530 automation web-hook",
+	"modifiedTime":1743106331626,
+	"name":"delay_workflowWaiting-117431042507530 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67e5b0f43c1ea40867097aa4",
+	"resourceIds":["67e5b0f43c1ea40867097aa4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
