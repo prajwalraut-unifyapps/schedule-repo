@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ee30bb4e93056eea8a138e",
+	"createdTime":1743663295279,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqd77k/aalptot",
+	"httpMethod":"POST",
+	"id":"67ee30bf4e93056eea8a1391",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_before-update- - 11743663151453",
+	"modifiedTime":1743663310900,
+	"name":"update- accessprofile endpoint_before-update- - 11743663151453",
+	"ownerUserId":34,
+	"path":"aalptot",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
