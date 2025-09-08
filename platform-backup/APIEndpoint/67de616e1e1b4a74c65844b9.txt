@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67de616a1e1b4a74c65844b4",
+	"createdTime":1742627182966,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"admewe/aecxvl6",
+	"httpMethod":"POST",
+	"id":"67de616e1e1b4a74c65844b9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11742627154410",
+	"modifiedTime":1744129937900,
+	"name":"endpoint_rateLimitCheck - 11742627154410",
+	"ownerUserId":34,
+	"path":"aecxvl6",
+	"resourceIds":["67de61551b43942f73d685b7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
