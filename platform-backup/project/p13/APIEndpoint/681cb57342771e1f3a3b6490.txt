@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cb56d42771e1f3a3b648c",
+	"createdTime":1746711923969,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avqf7lf/anvim6k",
+	"httpMethod":"POST",
+	"id":"681cb57342771e1f3a3b6490",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-restrictednoauth - 11746705393967",
+	"modifiedTime":1746711950472,
+	"name":"endpoint_insideProject-restrictedNoAuth - 11746705393967",
+	"ownerUserId":34,
+	"path":"anvim6k",
+	"projectId":13,
+	"resourceIds":["681cb55bfa0c0c66634a2b1f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
