@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b41793f7a37b76fbab151e",
+	"createdTime":1739855770272,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a7dpecy/avlsets?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67b4179af7a37b76fbab1526",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_webhookexecutetoken - 11739855639416",
+	"modifiedTime":1744130666090,
+	"name":"endpoint_webhookExecuteToken - 11739855639416",
+	"ownerUserId":34,
+	"path":"avlsets",
+	"resourceIds":["67b4177c02079c311909b6be"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
