@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680b6890429b6a66c8a7e1d2",
+	"createdTime":1745578136850,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"an3i6ui/aixlsgp",
+	"httpMethod":"GET",
+	"id":"680b6898429b6a66c8a7e1d4",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint__rest_api - 117455743827290",
+	"modifiedTime":1745669724717,
+	"name":"callable_endpoint__rest_Api - 117455743827290",
+	"ownerUserId":34,
+	"path":"aixlsgp",
+	"resourceIds":["680b6881d23ac92eb4864b86"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
