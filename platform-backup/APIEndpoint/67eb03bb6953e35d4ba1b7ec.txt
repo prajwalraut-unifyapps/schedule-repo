@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67eb03b56953e35d4ba1b7eb",
+	"createdTime":1743455163528,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"almfvsc/a6emcp",
+	"httpMethod":"POST",
+	"id":"67eb03bb6953e35d4ba1b7ec",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_string_basic_117434498781380",
+	"modifiedTime":1744129579355,
+	"name":"Endpoint_E2E_Workflow_Callable_String_Basic_117434498781380",
+	"ownerUserId":34,
+	"path":"a6emcp",
+	"resourceIds":["67eb035e6620300e34221bc4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
