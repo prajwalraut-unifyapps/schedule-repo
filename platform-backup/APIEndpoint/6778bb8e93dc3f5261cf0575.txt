@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6778bb8a93dc3f5261cf0574",
+	"createdTime":1735965582444,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ardf07m/avrahsf",
+	"httpMethod":"POST",
+	"id":"6778bb8e93dc3f5261cf0575",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_string_basic_117359644413080",
+	"modifiedTime":1744131683681,
+	"name":"Endpoint_E2E_Workflow_Callable_String_Basic_117359644413080",
+	"ownerUserId":34,
+	"path":"avrahsf",
+	"resourceIds":["6778bb226e549953d92e442d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
