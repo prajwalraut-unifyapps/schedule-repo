@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68113c727f44cc248a1c82a8",
+	"createdTime":1745960055958,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aabx32m/auozrz",
+	"httpMethod":"GET",
+	"id":"68113c777f44cc248a1c82aa",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_get_117459555143120",
+	"modifiedTime":1747408194042,
+	"name":"Endpoint_customHTTP_GET_117459555143120",
+	"ownerUserId":34,
+	"path":"auozrz",
+	"resourceIds":["68113c66e202c96192dd220c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
