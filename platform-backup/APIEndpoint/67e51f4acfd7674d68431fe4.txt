@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e51f44cfd7674d68431fe2",
+	"createdTime":1743069002258,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"au0fk5a/a6hntoi",
+	"httpMethod":"POST",
+	"id":"67e51f4acfd7674d68431fe4",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_singlenoauth - 11743068686888",
+	"modifiedTime":1743069025576,
+	"name":"endpoint_singleNoAuth - 11743068686888",
+	"ownerUserId":34,
+	"path":"a6hntoi",
+	"resourceIds":["67e51f29083c1d5daf566736"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
