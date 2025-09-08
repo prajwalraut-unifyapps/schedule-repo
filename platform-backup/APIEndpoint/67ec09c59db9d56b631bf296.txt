@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ec09c09db9d56b631bf291",
+	"createdTime":1743522245401,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"am677j/ar57x9m?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67ec09c59db9d56b631bf296",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11743522198471",
+	"modifiedTime":1743522250728,
+	"name":"endpointwebhook - Callable - POST 11743522198471",
+	"ownerUserId":34,
+	"path":"ar57x9m",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
