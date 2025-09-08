@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a917d8fae37c550fe9f7b3",
+	"createdTime":1739134942410,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aowb0e/ahfs27",
+	"httpMethod":"POST",
+	"id":"67a917defae37c550fe9f7b7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117391298558460",
+	"modifiedTime":1744130840724,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117391298558460",
+	"ownerUserId":34,
+	"path":"ahfs27",
+	"resourceIds":["67a917a4135fc205e2f8f803"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
