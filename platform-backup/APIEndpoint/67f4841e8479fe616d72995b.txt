@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f484188479fe616d72995a",
+	"createdTime":1744077854116,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"acnrbne/amizqvd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67f4841e8479fe616d72995b",
+	"lastModifiedBy":88382,
+	"lcName":"rbac-ui-ulcreateendpointulcplvrlall117440760889960",
+	"modifiedTime":1744077982925,
+	"name":"rbac-ui-ULCreateEndpointULcPLvRLAll117440760889960",
+	"ownerUserId":88382,
+	"path":"amizqvd",
+	"resourceIds":["67f4839d4348296503f683e9"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
