@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680d3a19a4e8d77724aad6f3",
+	"createdTime":1745697309237,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ahvgx7b/afgths",
+	"httpMethod":"GET",
+	"id":"680d3a1da4e8d77724aad6f5",
+	"lastModifiedBy":34,
+	"lcName":"diabledsortapi-11745696292594",
+	"modifiedTime":1745697312521,
+	"name":"diabledsortapi-11745696292594",
+	"ownerUserId":34,
+	"path":"afgths",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
