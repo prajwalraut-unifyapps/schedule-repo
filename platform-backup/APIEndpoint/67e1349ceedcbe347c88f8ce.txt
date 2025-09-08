@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e13494eedcbe347c88f8cc",
+	"createdTime":1742812316910,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ab4lknc/agoftrt",
+	"httpMethod":"POST",
+	"id":"67e1349ceedcbe347c88f8ce",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restrictednoauth - 21742811916894",
+	"modifiedTime":1742812348347,
+	"name":"endpoint_restrictedNoAuth - 21742811916894",
+	"ownerUserId":34,
+	"path":"agoftrt",
+	"resourceIds":["67e1347bdd900e1f707d7e78"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
