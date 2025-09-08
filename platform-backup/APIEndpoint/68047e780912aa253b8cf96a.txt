@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68047e780912aa253b8cf968",
+	"createdTime":1745124984753,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"paljgeahke/UlxAUbugps?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68047e780912aa253b8cf96a",
+	"lastModifiedBy":34,
+	"lcName":"jdjscwvppbdlzgnocjit",
+	"modifiedTime":1745125556995,
+	"name":"jDjSCwvPPbdLZGNOcjIt",
+	"ownerUserId":34,
+	"path":"UlxAUbugps",
+	"resourceIds":["667061ee9f30076b83e514a5"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
