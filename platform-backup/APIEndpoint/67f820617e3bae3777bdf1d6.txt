@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f8205d7e3bae3777bdf1d4",
+	"createdTime":1744314465683,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ak30l6/armyqh",
+	"httpMethod":"GET",
+	"id":"67f820617e3bae3777bdf1d6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - get 11744313886188",
+	"modifiedTime":1744314469055,
+	"name":"endpoint - Callable - GET 11744313886188",
+	"ownerUserId":34,
+	"path":"armyqh",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
