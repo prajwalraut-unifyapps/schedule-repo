@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f6ce98b121bc561b1fae95",
+	"createdTime":1744227996262,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a8bimjz/adugcp",
+	"httpMethod":"POST",
+	"id":"67f6ce9cb121bc561b1fae99",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- basic auth  - 11744227512818",
+	"modifiedTime":1744228015743,
+	"name":"endpoint_- Basic Auth  - 11744227512818",
+	"ownerUserId":34,
+	"path":"adugcp",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
