@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6811abf37f44cc248a1c88a1",
+	"createdTime":1745988596694,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"HjMAIANsUsyNSwz/automation/endpoint2?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6811abf47f44cc248a1c88a7",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqauxete",
+	"modifiedTime":1745992845121,
+	"name":"changeSetSECURITYQAUXeTE",
+	"ownerUserId":34,
+	"path":"automation/endpoint2",
+	"policyIds":["6811abf37f44cc248a1c88a3"],
+	"resourceIds":["6811abf2b7524d514cbc03c3"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
