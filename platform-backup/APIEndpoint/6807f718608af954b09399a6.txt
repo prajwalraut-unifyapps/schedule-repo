@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1745352472808,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6807f71086782764c5403ba7",
+	"httpMethod":"ANY",
+	"id":"6807f718608af954b09399a6",
+	"lastModifiedBy":-1,
+	"lcName":"audittestchangetype_117453507270770 automation web-hook",
+	"modifiedTime":1745352485437,
+	"name":"auditTestChangeType_117453507270770 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6807f71086782764c5403ba7",
+	"resourceIds":["6807f71086782764c5403ba7"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
