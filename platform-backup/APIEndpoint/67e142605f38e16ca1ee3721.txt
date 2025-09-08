@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e1425c5f38e16ca1ee3720",
+	"createdTime":1742815840155,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"govlsginpa/tzpeavGRji",
+	"httpMethod":"GET",
+	"id":"67e142605f38e16ca1ee3721",
+	"lastModifiedBy":34,
+	"lcName":"krhjdvxgvkhoyjcybvlr",
+	"modifiedTime":1742815840867,
+	"name":"kRhjdvxGVkhoYjCyBVLr",
+	"ownerUserId":34,
+	"path":"tzpeavGRji",
+	"resourceIds":["67e14253bc9553794900c7f1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
