@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67eb991d14f94f6bcb14ecba",
+	"createdTime":1743493410607,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"axjwbdo/avkucb?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"67eb992214f94f6bcb14ecbe",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11743493375345",
+	"modifiedTime":1743493414636,
+	"name":"endpointwebhook - Callable - PUT 11743493375345",
+	"ownerUserId":34,
+	"path":"avkucb",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
