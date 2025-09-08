@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e45026a5ca4022f4a5139f",
+	"createdTime":1743015979452,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aw8x18l/arcpmo?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e4502ba5ca4022f4a513ae",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117430159238860",
+	"modifiedTime":1743015984647,
+	"name":"endpoint - Webhook -  117430159238860",
+	"ownerUserId":34,
+	"path":"arcpmo",
+	"resourceIds":["67e4501be400dc0a131355a0"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
