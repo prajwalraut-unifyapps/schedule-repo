@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e3ff009e2cf7105327d5bb",
+	"createdTime":1742995210807,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"allkdoo/afyld4n",
+	"httpMethod":"POST",
+	"id":"67e3ff0a9e2cf7105327d5bf",
+	"lastModifiedBy":34,
+	"lcName":"automation_redirect_endpoint_accessprofile_post - 11742995163452",
+	"modifiedTime":1742995235818,
+	"name":"Automation_Redirect_endpoint_accessProfile_post - 11742995163452",
+	"ownerUserId":34,
+	"path":"afyld4n",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
