@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e20eba32c2184636d068a6",
+	"createdTime":1742868160177,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azfao1no/acett6?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67e20ec032c2184636d068a8",
+	"lastModifiedBy":80808,
+	"lcName":"rbac-ui-rlaendpointrlall117428664661440updated",
+	"modifiedTime":1742868218367,
+	"name":"rbac-ui-RLaEndpointRLAll117428664661440updated",
+	"ownerUserId":34,
+	"path":"acett6",
+	"resourceIds":["67e20ea66f6489371cae0592"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
