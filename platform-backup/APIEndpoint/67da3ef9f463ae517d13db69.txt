@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67da3ef3f463ae517d13db67",
+	"createdTime":1742356217083,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ap9vh8/airdsia",
+	"httpMethod":"POST",
+	"id":"67da3ef9f463ae517d13db69",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_soap_endpoint_no datapill_117423561915830",
+	"modifiedTime":1744130028252,
+	"name":"custom_http_soap_endpoint_no datapill_117423561915830",
+	"ownerUserId":34,
+	"path":"airdsia",
+	"resourceIds":["67da3ee3b55de940835e5bf0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
