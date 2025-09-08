@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68144fc1103d29729b1aa97f",
+	"createdTime":1746167246478,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"otrkkaefwi/dwsa",
+	"httpMethod":"GET",
+	"id":"681465ce103d29729b1aac99",
+	"lastModifiedBy":34,
+	"lcName":"dwsa",
+	"modifiedTime":1746167249408,
+	"name":"dwsa",
+	"ownerUserId":34,
+	"path":"dwsa",
+	"resourceIds":["66ab7d75a1c8b020e8374901"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
