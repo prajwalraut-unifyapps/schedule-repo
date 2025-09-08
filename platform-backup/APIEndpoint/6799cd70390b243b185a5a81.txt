@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6799cd6c390b243b185a5a80",
+	"createdTime":1738132848013,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ard8yx7/axsdtaw",
+	"httpMethod":"GET",
+	"id":"6799cd70390b243b185a5a81",
+	"lastModifiedBy":34,
+	"lcName":"endpoint to be updated - 11738132841234",
+	"modifiedTime":1744131079106,
+	"name":"endpoint to be updated - 11738132841234",
+	"ownerUserId":34,
+	"path":"axsdtaw",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
