@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fad2181434153541fdcac4",
+	"createdTime":1744491038818,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"awihaar/ap0819h",
+	"httpMethod":"POST",
+	"id":"67fad21e1434153541fdcac5",
+	"lastModifiedBy":34,
+	"lcName":"createendpointwithcallableheaders - 117444867047410",
+	"modifiedTime":1745263195992,
+	"name":"createEndpointWithCallableHeaders - 117444867047410",
+	"ownerUserId":34,
+	"path":"ap0819h",
+	"resourceIds":["67fad2070d9cb72591a1633a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
