@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e6a3a74f275156550e4c45",
+	"createdTime":1743168430837,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abelby8/aovzck",
+	"httpMethod":"POST",
+	"id":"67e6a3ae4f275156550e4c4c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11743168180473",
+	"modifiedTime":1743168466067,
+	"name":"endpoint_differentAuthType - 11743168180473",
+	"ownerUserId":34,
+	"path":"aovzck",
+	"resourceIds":["67e6a392636d514f2186f7e6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
