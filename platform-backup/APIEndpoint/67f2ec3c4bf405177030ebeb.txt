@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f2ec374bf405177030ebe9",
+	"createdTime":1743973436757,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a2eqwcd/azkgemc",
+	"httpMethod":"POST",
+	"id":"67f2ec3c4bf405177030ebeb",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117439683412390",
+	"modifiedTime":1744129341607,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117439683412390",
+	"ownerUserId":34,
+	"path":"azkgemc",
+	"resourceIds":["67f2ec0024dcb0355a75caf2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
