@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ee25ab4e93056eea8a12cb",
+	"createdTime":1743660551486,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"checkdeploymentgroup/checkdeploymentendpoint",
+	"httpMethod":"POST",
+	"id":"67ee25c14e93056eea8a12dc",
+	"lastModifiedBy":34,
+	"lcName":"checkdeploymentendpoint",
+	"modifiedTime":1743660551486,
+	"name":"checkdeploymentendpoint",
+	"ownerUserId":34,
+	"path":"checkdeploymentendpoint",
+	"resourceIds":["67ede59ba53f9d0581d6975d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
