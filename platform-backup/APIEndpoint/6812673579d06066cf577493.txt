@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6812672f79d06066cf577490",
+	"createdTime":1746036533026,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ai223d8/asspabi",
+	"httpMethod":"POST",
+	"id":"6812673579d06066cf577493",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- auth token  - 11746035729220",
+	"modifiedTime":1746036551358,
+	"name":"endpoint_- Auth Token  - 11746035729220",
+	"ownerUserId":34,
+	"path":"asspabi",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
