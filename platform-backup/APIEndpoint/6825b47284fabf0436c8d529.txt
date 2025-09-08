@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6825b46b84fabf0436c8d526",
+	"createdTime":1747301490240,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ai5spf/abdxoum",
+	"httpMethod":"POST",
+	"id":"6825b47284fabf0436c8d529",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_updateapigroup - 11747295233720",
+	"modifiedTime":1747301515394,
+	"name":"endpoint_updateApiGroup - 11747295233720",
+	"ownerUserId":34,
+	"path":"abdxoum",
+	"resourceIds":["6825b45b143606139c5f0d40"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
