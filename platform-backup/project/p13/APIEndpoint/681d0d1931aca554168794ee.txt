@@ -1,0 +1,28 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681d0d1231aca554168794ed",
+	"createdTime":1746734361535,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ar6onth/aza5rcq",
+	"httpMethod":"POST",
+	"id":"681d0d1931aca554168794ee",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-and_multipleconditions-117467331021270",
+	"modifiedTime":1746734369635,
+	"name":"endpoint-AND_multipleConditions-117467331021270",
+	"ownerUserId":34,
+	"path":"aza5rcq",
+	"projectId":13,
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
