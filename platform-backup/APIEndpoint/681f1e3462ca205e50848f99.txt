@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681f1e2e62ca205e50848f98",
+	"createdTime":1746869812528,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alpgn98/arixb79",
+	"httpMethod":"POST",
+	"id":"681f1e3462ca205e50848f99",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_excludeioruns - 117468617289940",
+	"modifiedTime":1746869903171,
+	"name":"endpoint_excludeIORuns - 117468617289940",
+	"ownerUserId":34,
+	"path":"arixb79",
+	"resourceIds":["681f1e05439a152ef5e4eae3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
