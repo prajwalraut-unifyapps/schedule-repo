@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6810622a7f44cc248a1c7306",
+	"createdTime":1745904175451,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"au4xgle/asx6trs",
+	"httpMethod":"POST",
+	"id":"6810622f7f44cc248a1c730e",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpoint- 117459039673230",
+	"modifiedTime":1747408212920,
+	"name":"Export_APIEndpoint- 117459039673230",
+	"ownerUserId":34,
+	"path":"asx6trs",
+	"resourceIds":["6810621e34d2d7391f52eaea"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
