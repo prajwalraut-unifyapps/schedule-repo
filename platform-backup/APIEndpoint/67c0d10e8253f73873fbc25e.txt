@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c0d1078253f73873fbc25c",
+	"createdTime":1740689678546,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajuu2a8/aws8zft",
+	"httpMethod":"POST",
+	"id":"67c0d10e8253f73873fbc25e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_decimal_basic_117406850797680",
+	"modifiedTime":1744130501652,
+	"name":"Endpoint_E2E_Workflow_Callable_Decimal_Basic_117406850797680",
+	"ownerUserId":34,
+	"path":"aws8zft",
+	"resourceIds":["67c0d0bf0650e6184feef0d2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
