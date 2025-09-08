@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68054e297be3ea4638c3783f",
+	"createdTime":1745178158647,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"atbfr8/aorafb",
+	"httpMethod":"POST",
+	"id":"68054e2e7be3ea4638c37844",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11745177893034",
+	"modifiedTime":1745263004809,
+	"name":"endpoint_rateLimitCheck - 11745177893034",
+	"ownerUserId":34,
+	"path":"aorafb",
+	"resourceIds":["68054e11c2fa7c5e05a83e33"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
