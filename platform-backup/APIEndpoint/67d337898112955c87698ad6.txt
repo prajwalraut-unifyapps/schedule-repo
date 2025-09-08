@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d337838112955c87698ad4",
+	"createdTime":1741895561071,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ahu8lb/alpccc",
+	"httpMethod":"POST",
+	"id":"67d337898112955c87698ad6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restexecutetoken - 11741894672866",
+	"modifiedTime":1744130166754,
+	"name":"endpoint_restExecuteToken - 11741894672866",
+	"ownerUserId":34,
+	"path":"alpccc",
+	"resourceIds":["67d3376bd2970166b0d39a47"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
