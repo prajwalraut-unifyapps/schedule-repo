@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"679a19ebc9f362440a8ce2f5",
+	"createdTime":1738152431561,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajri019/axasclh",
+	"httpMethod":"POST",
+	"id":"679a19efc9f362440a8ce2f8",
+	"lastModifiedBy":34,
+	"lcName":"fallback_endpoint_accessprofile_post - 11738152262643",
+	"modifiedTime":1744131065976,
+	"name":"fallback_endpoint_accessProfile_post - 11738152262643",
+	"ownerUserId":34,
+	"path":"axasclh",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
