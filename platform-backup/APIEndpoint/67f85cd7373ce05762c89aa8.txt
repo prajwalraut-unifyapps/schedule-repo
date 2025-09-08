@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f85cd7373ce05762c89aa7",
+	"createdTime":1744329943533,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"jxkfejugrl/QmSertagKB",
+	"httpMethod":"POST",
+	"id":"67f85cd7373ce05762c89aa8",
+	"lastModifiedBy":34,
+	"lcName":"fwmgrykmphkbnapnnryk",
+	"modifiedTime":1744346489475,
+	"name":"FwMgrykMphKBnAPnnRYk",
+	"ownerUserId":34,
+	"path":"QmSertagKB",
+	"resourceIds":["67f85cca835ab775d275dd4b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
