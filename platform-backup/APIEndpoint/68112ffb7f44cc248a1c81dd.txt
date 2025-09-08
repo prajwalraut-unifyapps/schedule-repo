@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68112ff47f44cc248a1c81dc",
+	"createdTime":1745956859731,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aiymdd/as52tp",
+	"httpMethod":"POST",
+	"id":"68112ffb7f44cc248a1c81dd",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_validateactionaloptions - 11745955499811",
+	"modifiedTime":1745956862855,
+	"name":"endpoint_validateActionalOptions - 11745955499811",
+	"ownerUserId":34,
+	"path":"as52tp",
+	"resourceIds":["68112fe75fb5f03e7e20d5df"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
