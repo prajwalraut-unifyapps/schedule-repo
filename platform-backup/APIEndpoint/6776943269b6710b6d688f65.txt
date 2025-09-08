@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6776942f69b6710b6d688f63",
+	"createdTime":1735824434057,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alxca6q/acleod2",
+	"httpMethod":"POST",
+	"id":"6776943269b6710b6d688f65",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117358225881390",
+	"modifiedTime":1744131733967,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117358225881390",
+	"ownerUserId":34,
+	"path":"acleod2",
+	"resourceIds":["677693ef78f58e29a7546d76"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
