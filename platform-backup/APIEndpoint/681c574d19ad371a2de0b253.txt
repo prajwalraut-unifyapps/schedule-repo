@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c574519ad371a2de0b252",
+	"createdTime":1746687821752,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"auysgtg/abbmcd",
+	"httpMethod":"POST",
+	"id":"681c574d19ad371a2de0b253",
+	"lastModifiedBy":34,
+	"lcName":"soap_multipleserviceendpoints- 117466864200670",
+	"modifiedTime":1747407967608,
+	"name":"soap_multipleServiceEndpoints- 117466864200670",
+	"ownerUserId":34,
+	"path":"abbmcd",
+	"resourceIds":["681c572da1abb13864c3e200"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
