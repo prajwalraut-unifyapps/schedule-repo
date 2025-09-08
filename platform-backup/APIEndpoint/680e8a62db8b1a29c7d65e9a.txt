@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680e8a5bdb8b1a29c7d65e98",
+	"createdTime":1745783394140,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ajvsteb/adiz63h?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"680e8a62db8b1a29c7d65e9a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117457826995210",
+	"modifiedTime":1745783397980,
+	"name":"endpoint - Webhook -  117457826995210",
+	"ownerUserId":34,
+	"path":"adiz63h",
+	"resourceIds":["680e8a53f259df47460e8d8c"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
