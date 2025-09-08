@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6822d13f51ec9e31d592e6c2",
+	"createdTime":1747112258730,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"voexigtsyt/InVsTuxPim?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6822d14251ec9e31d592e6ce",
+	"lastModifiedBy":34,
+	"lcName":"zxfjwzihwagnwbvgpgne",
+	"modifiedTime":1747197794910,
+	"name":"zxfJWzIHwAGnwbvGpGNe",
+	"ownerUserId":34,
+	"path":"InVsTuxPim",
+	"resourceIds":["6822d141b9535c2f9c9e1e17"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
