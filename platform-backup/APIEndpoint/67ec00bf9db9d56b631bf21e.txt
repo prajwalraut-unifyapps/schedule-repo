@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ec00bb9db9d56b631bf219",
+	"createdTime":1743519935784,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"axone1m/aa3z9z",
+	"httpMethod":"PUT",
+	"id":"67ec00bf9db9d56b631bf21e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11743519912111",
+	"modifiedTime":1743519939536,
+	"name":"endpoint - Callable - PUT 11743519912111",
+	"ownerUserId":34,
+	"path":"aa3z9z",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
