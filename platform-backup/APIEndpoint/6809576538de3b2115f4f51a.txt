@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6809576038de3b2115f4f518",
+	"createdTime":1745442661805,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"al9bdlg/aiex31",
+	"httpMethod":"POST",
+	"id":"6809576538de3b2115f4f51a",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpointcustom- 117454371082390",
+	"modifiedTime":1745669792999,
+	"name":"Export_APIEndpointCustom- 117454371082390",
+	"ownerUserId":34,
+	"path":"aiex31",
+	"resourceIds":["6809575513a0af514b2d99df"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
