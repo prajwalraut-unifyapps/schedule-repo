@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677e6cb7ffc89b18b92eb8ea",
+	"createdTime":1736338619061,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a62wry/aipyt4c",
+	"httpMethod":"GET",
+	"id":"677e6cbbffc89b18b92eb8ec",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_rest_api - 117363385813150",
+	"modifiedTime":1744131561136,
+	"name":"callable_endpoint_accessProfile_rest_Api - 117363385813150",
+	"ownerUserId":34,
+	"path":"aipyt4c",
+	"resourceIds":["677e6ca1928f5c4d1a6a5c66"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
