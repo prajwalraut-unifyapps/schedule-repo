@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6821e734e3587b1d43fadab8",
+	"createdTime":1747052385242,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"test-000/group-000",
+	"httpMethod":"POST",
+	"id":"6821e761e3587b1d43fadac2",
+	"lastModifiedBy":34,
+	"lcName":"group_000",
+	"modifiedTime":1747052388155,
+	"name":"group_000",
+	"ownerUserId":34,
+	"path":"group-000",
+	"resourceIds":["6821e67e73e7095d338d8642"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
