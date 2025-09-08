@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e63f743beec10e8fd213e8",
+	"createdTime":1743142778537,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"adtqucu/aybf2fg?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e63f7a3beec10e8fd213ed",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_webhookexecutetoken - 11743142544858",
+	"modifiedTime":1744129678237,
+	"name":"endpoint_webhookExecuteToken - 11743142544858",
+	"ownerUserId":34,
+	"path":"aybf2fg",
+	"resourceIds":["67e63f56c04e8b34931ce031"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
