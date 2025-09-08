@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681e16340d3b58642c41d21d",
+	"createdTime":1746802238135,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aiwa59/a218k2",
+	"httpMethod":"POST",
+	"id":"681e163e0d3b58642c41d222",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apigroup_clientmod_11746795702133",
+	"modifiedTime":1746802287563,
+	"name":"endpoint_ApiGroup_ClientMod_11746795702133",
+	"ownerUserId":34,
+	"path":"a218k2",
+	"resourceIds":["681e161fc51c1214fee102a2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
