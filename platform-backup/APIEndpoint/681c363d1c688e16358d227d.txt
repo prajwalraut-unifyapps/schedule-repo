@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c36331c688e16358d2269",
+	"createdTime":1746679357152,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asm1z2/athjdu",
+	"httpMethod":"POST",
+	"id":"681c363d1c688e16358d227d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restrictednoauth - 11746679061595",
+	"modifiedTime":1746679383550,
+	"name":"endpoint_restrictedNoAuth - 11746679061595",
+	"ownerUserId":34,
+	"path":"athjdu",
+	"resourceIds":["681c3622528d7c3127f9ddf3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
