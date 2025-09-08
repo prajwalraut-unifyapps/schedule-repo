@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e52c95cfd7674d68432518",
+	"createdTime":1743072435138,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"Chnagesetapigroup/Changesetapiendpoint",
+	"httpMethod":"POST",
+	"id":"67e52cb3cfd7674d6843251d",
+	"lastModifiedBy":34,
+	"lcName":"changesetapiendpoint",
+	"modifiedTime":1743072437490,
+	"name":"Changesetapiendpoint",
+	"ownerUserId":34,
+	"path":"Changesetapiendpoint",
+	"policyIds":["66df076a8a47194e7101e8d7","66df08348a47194e7101e8df","66df09388a47194e7101e8eb"],
+	"resourceIds":["6768bf4a46516b3863859db6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
