@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e6fbdb239e2d17861ca42d",
+	"createdTime":1743191008207,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azvnttv/a0idl7h?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e6fbe0239e2d17861ca42e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117431906853270",
+	"modifiedTime":1743191015491,
+	"name":"endpoint - Webhook -  117431906853270",
+	"ownerUserId":34,
+	"path":"a0idl7h",
+	"resourceIds":["67e6fbce42fd624defe1ff1b"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
