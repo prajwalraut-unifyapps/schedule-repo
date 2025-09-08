@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681e174f0d3b58642c41d294",
+	"createdTime":1746802519641,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azzt5k/alkzep",
+	"httpMethod":"DELETE",
+	"id":"681e17570d3b58642c41d298",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11746795702133",
+	"modifiedTime":1746802525746,
+	"name":"endpoint - Callable - DELETE 11746795702133",
+	"ownerUserId":34,
+	"path":"alkzep",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
