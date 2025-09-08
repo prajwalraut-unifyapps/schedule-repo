@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e45127a5ca4022f4a514b4",
+	"createdTime":1743016237467,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azt9l0a/anexwhf",
+	"httpMethod":"POST",
+	"id":"67e4512da5ca4022f4a514b5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_singlenoauth - 11743015916067",
+	"modifiedTime":1743016258859,
+	"name":"endpoint_singleNoAuth - 11743015916067",
+	"ownerUserId":34,
+	"path":"anexwhf",
+	"resourceIds":["67e451159217433b51dd25ec"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
