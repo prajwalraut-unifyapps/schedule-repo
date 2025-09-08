@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f6ced0b121bc561b1faeae",
+	"createdTime":1744228051770,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ao59n2h/agjvau",
+	"httpMethod":"POST",
+	"id":"67f6ced3b121bc561b1faeaf",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_before-update- - 11744227512818",
+	"modifiedTime":1744228068286,
+	"name":"update- accessprofile endpoint_before-update- - 11744227512818",
+	"ownerUserId":34,
+	"path":"agjvau",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
