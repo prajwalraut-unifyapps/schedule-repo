@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681e5ab6c210e76cd703f5b6",
+	"createdTime":1746819773785,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asux1ol/aydrawd",
+	"httpMethod":"POST",
+	"id":"681e5abdc210e76cd703f5b8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11746819491305",
+	"modifiedTime":1746819816273,
+	"name":"endpoint1_noAuth - 11746819491305",
+	"ownerUserId":34,
+	"path":"aydrawd",
+	"resourceIds":["681e5aa493e5f15428ef8b04"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
