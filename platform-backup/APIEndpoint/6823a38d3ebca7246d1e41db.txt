@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6823a3883ebca7246d1e41da",
+	"createdTime":1747166093822,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"adydho/ah3y1m?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6823a38d3ebca7246d1e41db",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11747165093353",
+	"modifiedTime":1747166100548,
+	"name":"endpointwebhook - Callable - GET 11747165093353",
+	"ownerUserId":34,
+	"path":"ah3y1m",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
