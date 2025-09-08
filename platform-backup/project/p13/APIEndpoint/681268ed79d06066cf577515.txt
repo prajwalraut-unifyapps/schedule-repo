@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"681268df79d06066cf577513",
+	"createdTime":1746036973330,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a52nido/endpointexternalapi---Callable---POST-11746035729220",
+	"httpMethod":"POST",
+	"id":"681268ed79d06066cf577515",
+	"lastModifiedBy":34,
+	"lcName":"endpointexternalapi - callable - post 11746035729220",
+	"modifiedTime":1746036976314,
+	"name":"endpointexternalapi - Callable - POST 11746035729220",
+	"ownerUserId":34,
+	"path":"endpointexternalapi---Callable---POST-11746035729220",
+	"projectId":13,
+	"resourceIds":[],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
