@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"677b4b01428bab0b5a620f8b",
+	"createdTime":1736133380677,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"arv81p/amhezse?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"677b4b04428bab0b5a620f8c",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-uleditendpointuleplvrln117361235731810",
+	"modifiedTime":1744131617734,
+	"name":"rbac-ui-ULEditEndPointULePLvRLn117361235731810",
+	"ownerUserId":34,
+	"path":"amhezse",
+	"resourceIds":["677b4aee6d41c748477089bb"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
