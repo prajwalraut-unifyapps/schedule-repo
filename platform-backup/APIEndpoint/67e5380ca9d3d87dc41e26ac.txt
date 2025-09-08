@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e53805a9d3d87dc41e26a9",
+	"createdTime":1743075340746,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqxr494/atpgrku",
+	"httpMethod":"DELETE",
+	"id":"67e5380ca9d3d87dc41e26ac",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11743075297611",
+	"modifiedTime":1743075348157,
+	"name":"endpoint - Callable - DELETE 11743075297611",
+	"ownerUserId":34,
+	"path":"atpgrku",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
