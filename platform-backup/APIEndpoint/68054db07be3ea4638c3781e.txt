@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68054da97be3ea4638c3781c",
+	"createdTime":1745178032200,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aaoduhs/atriblm",
+	"httpMethod":"POST",
+	"id":"68054db07be3ea4638c3781e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_loop_and_branch_basic_117451778999940",
+	"modifiedTime":1745263005770,
+	"name":"Endpoint_E2E_Workflow_Callable_Loop_And_Branch_Basic_117451778999940",
+	"ownerUserId":34,
+	"path":"atriblm",
+	"resourceIds":["68054d319738ac5e6616348a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
