@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681ef0e894a1824e66578bf3",
+	"createdTime":1746858222551,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"agu5hmo/alte08r",
+	"httpMethod":"POST",
+	"id":"681ef0ee94a1824e66578bf8",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_soap_endpoint_null value_117468528464400",
+	"modifiedTime":1747407839545,
+	"name":"custom_http_soap_endpoint_null value_117468528464400",
+	"ownerUserId":34,
+	"path":"alte08r",
+	"resourceIds":["681ef0d9da0e8d5db6e4f209"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
