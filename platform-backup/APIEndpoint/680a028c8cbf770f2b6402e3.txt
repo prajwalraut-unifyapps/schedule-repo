@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680a02868cbf770f2b6402d7",
+	"createdTime":1745486476575,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aq8cwz/aovl1x",
+	"httpMethod":"POST",
+	"id":"680a028c8cbf770f2b6402e3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_decimal_basic_117454804045420",
+	"modifiedTime":1745669743961,
+	"name":"Endpoint_E2E_Workflow_Callable_Decimal_Basic_117454804045420",
+	"ownerUserId":34,
+	"path":"aovl1x",
+	"resourceIds":["680a0240f2ebdf64a56c9113"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
