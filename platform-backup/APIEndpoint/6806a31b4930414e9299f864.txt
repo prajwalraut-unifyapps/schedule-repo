@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6806a3174930414e9299f861",
+	"createdTime":1745265435369,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alte8gx/ati1b58",
+	"httpMethod":"GET",
+	"id":"6806a31b4930414e9299f864",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointdeletionlog- 117452642904730",
+	"modifiedTime":1745265437563,
+	"name":"endpoint_endpointdeletionLog- 117452642904730",
+	"ownerUserId":34,
+	"path":"ati1b58",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
