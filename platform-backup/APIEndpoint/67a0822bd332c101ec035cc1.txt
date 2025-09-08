@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67a08225d332c101ec035cbb",
+	"createdTime":1738572331864,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"anm0xbk/akzypie",
+	"httpMethod":"POST",
+	"id":"67a0822bd332c101ec035cc1",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_repeatrun - 11738571478515",
+	"modifiedTime":1744130964547,
+	"name":"callable_endpoint_accessProfile_RepeatRun - 11738571478515",
+	"ownerUserId":34,
+	"path":"akzypie",
+	"resourceIds":["67a0820b00a99a7ad1c35922"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
