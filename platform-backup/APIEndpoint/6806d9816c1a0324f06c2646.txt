@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1745279361891,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6806d9815d013e41efb4cb86",
+	"httpMethod":"ANY",
+	"id":"6806d9816c1a0324f06c2646",
+	"lastModifiedBy":-1,
+	"lcName":"changesetsecurityqaeqmg3upjaxpl automation web-hook",
+	"modifiedTime":1745364932416,
+	"name":"changeSetSECURITYQAEQMG3UPJAxPl Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6806d9815d013e41efb4cb86",
+	"resourceIds":["6806d9815d013e41efb4cb86"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
