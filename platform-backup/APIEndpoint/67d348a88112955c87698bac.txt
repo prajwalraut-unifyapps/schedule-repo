@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67d348a28112955c87698ba9",
+	"createdTime":1741899944719,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a77uqp/afx1ppm",
+	"httpMethod":"GET",
+	"id":"67d348a88112955c87698bac",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_graphqlapi - 117418946970940",
+	"modifiedTime":1744130162925,
+	"name":"callable_endpoint_graphQLApi - 117418946970940",
+	"ownerUserId":34,
+	"path":"afx1ppm",
+	"resourceIds":["67d348906e498c2773412bdc"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
