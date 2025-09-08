@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6822e9d351ec9e31d592ea96",
+	"createdTime":1747118553939,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afrdap/ateoau",
+	"httpMethod":"POST",
+	"id":"6822e9d951ec9e31d592ea9a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_post_117471183558960",
+	"modifiedTime":1747407692879,
+	"name":"Endpoint_customHTTP_POST_117471183558960",
+	"ownerUserId":34,
+	"path":"ateoau",
+	"resourceIds":["6822e9c79862930cac96f1b6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
