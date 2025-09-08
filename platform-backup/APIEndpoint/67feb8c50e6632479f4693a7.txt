@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67feb8c00e6632479f4693a6",
+	"createdTime":1744746693029,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aje52z/abli9k",
+	"httpMethod":"POST",
+	"id":"67feb8c50e6632479f4693a7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-modified by is not-117447458889470",
+	"modifiedTime":1744746698529,
+	"name":"Endpoint-modified by Is not-117447458889470",
+	"ownerUserId":34,
+	"path":"abli9k",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
