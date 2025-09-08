@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67df12e71e1b4a74c658586a",
+	"createdTime":1742672619801,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9xi9yh/amaqyt5",
+	"httpMethod":"PUT",
+	"id":"67df12eb1e1b4a74c658586b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11742672306364",
+	"modifiedTime":1742672623726,
+	"name":"endpoint - Callable - PUT 11742672306364",
+	"ownerUserId":34,
+	"path":"amaqyt5",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
