@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e78e05eb3d64022feb7eb0",
+	"createdTime":1743228426528,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aoz6ifb/al5tlia?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e78e0aeb3d64022feb7eb6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117432283706540",
+	"modifiedTime":1743228431414,
+	"name":"endpoint - Webhook -  117432283706540",
+	"ownerUserId":34,
+	"path":"al5tlia",
+	"resourceIds":["67e78df8fa7124676b08a238"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
