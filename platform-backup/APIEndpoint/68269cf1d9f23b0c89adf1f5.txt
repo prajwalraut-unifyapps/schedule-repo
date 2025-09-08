@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68269cead9f23b0c89adf1f3",
+	"createdTime":1747361009705,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"agvrota/apuwwcu?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68269cf1d9f23b0c89adf1f5",
+	"lastModifiedBy":119317,
+	"lcName":"rbac-ui-rldeleteendpointulcplvrld117473594804560",
+	"modifiedTime":1747361181519,
+	"name":"rbac-ui-RLDeleteEndPointULcPLvRLd117473594804560",
+	"ownerUserId":34,
+	"path":"apuwwcu",
+	"resourceIds":["68269cdbdd00b810109fccd7"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
