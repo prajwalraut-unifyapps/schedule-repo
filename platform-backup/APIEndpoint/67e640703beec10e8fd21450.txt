@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e6406a3beec10e8fd2144f",
+	"createdTime":1743143024221,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amstlhv/aewlh19",
+	"httpMethod":"GET",
+	"id":"67e640703beec10e8fd21450",
+	"lastModifiedBy":34,
+	"lcName":"diabledsortapi-11743142543846",
+	"modifiedTime":1743143028110,
+	"name":"diabledsortapi-11743142543846",
+	"ownerUserId":34,
+	"path":"aewlh19",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
