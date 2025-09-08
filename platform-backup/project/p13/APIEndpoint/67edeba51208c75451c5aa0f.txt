@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67edeba11208c75451c5aa0c",
+	"createdTime":1743645605905,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"alkalc8/afdnvrh?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67edeba51208c75451c5aa0f",
+	"lastModifiedBy":84715,
+	"lcName":"rbac-ui-plcreateendpoint-ulcplallrln117436440586160",
+	"modifiedTime":1743645664951,
+	"name":"rbac-ui-PLCreateEndPoint-ULcPLAllRLn117436440586160",
+	"ownerUserId":84715,
+	"path":"afdnvrh",
+	"projectId":13,
+	"resourceIds":["67edeb41a53f9d0581d69b1d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
