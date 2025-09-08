@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67c1cf5185177b6290d76a1c",
+	"createdTime":1740754773756,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"appff0k/a2ix9co",
+	"httpMethod":"POST",
+	"id":"67c1cf5585177b6290d76a20",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- oauth2.0  - 11740754697335",
+	"modifiedTime":1744130484790,
+	"name":"endpoint_- OAuth2.0  - 11740754697335",
+	"ownerUserId":34,
+	"path":"a2ix9co",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
