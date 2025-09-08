@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681cf5d631aca55416879198",
+	"createdTime":1746728412891,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aoviuws/afiamx",
+	"httpMethod":"POST",
+	"id":"681cf5dc31aca5541687919d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_verifyruns - 11746723224686",
+	"modifiedTime":1747407927709,
+	"name":"endpoint_verifyRuns - 11746723224686",
+	"ownerUserId":34,
+	"path":"afiamx",
+	"resourceIds":["681cf5bfabcef6706e17f7c1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
