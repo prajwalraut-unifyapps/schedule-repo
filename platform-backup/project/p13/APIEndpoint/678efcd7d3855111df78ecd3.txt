@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"678efcd2d3855111df78eccf",
+	"createdTime":1737424087498,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ardtgro/arurdh8?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"678efcd7d3855111df78ecd3",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plviewendpointuleplvrln117374231963110",
+	"modifiedTime":1744131259676,
+	"name":"rbac-ui-PLViewEndPointULePLvRLn117374231963110",
+	"ownerUserId":34,
+	"path":"arurdh8",
+	"projectId":13,
+	"resourceIds":["678efcc7b2e22811b6764252"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
