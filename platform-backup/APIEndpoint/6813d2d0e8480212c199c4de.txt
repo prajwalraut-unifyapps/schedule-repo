@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6813d2cbe8480212c199c4db",
+	"createdTime":1746129616669,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ana437sm/awflwim",
+	"httpMethod":"POST",
+	"id":"6813d2d0e8480212c199c4de",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11746128293730",
+	"modifiedTime":1746129626774,
+	"name":"updatedEndpointLogs- 11746128293730",
+	"ownerUserId":34,
+	"path":"awflwim",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
