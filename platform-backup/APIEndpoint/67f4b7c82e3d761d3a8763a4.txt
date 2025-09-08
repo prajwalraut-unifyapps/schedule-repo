@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f4b7c52e3d761d3a8763a0",
+	"createdTime":1744091080990,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"zqmvgoutirhltob/automation",
+	"httpMethod":"POST",
+	"id":"67f4b7c82e3d761d3a8763a4",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalgxihe",
+	"modifiedTime":1744091158923,
+	"name":"changeSetLocalGXihe",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["67f4b7c62e3d761d3a8763a1"],
+	"resourceIds":["67f4b7c27c1d3e26449a8d62"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
