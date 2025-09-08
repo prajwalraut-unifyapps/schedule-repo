@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6822e94e51ec9e31d592ea4c",
+	"createdTime":1747118525947,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"DNT-CREATE-RECORDS-WITHOUT-PROJECT-GROUP/DND-CREATE-RECORDS-WITHOUT-PROJECT-API",
+	"httpMethod":"PUT",
+	"id":"6822e9bd51ec9e31d592ea8c",
+	"lastModifiedBy":34,
+	"lcName":"dnd_create_records_without_project_api",
+	"modifiedTime":1747118529668,
+	"name":"DND_CREATE_RECORDS_WITHOUT_PROJECT_API",
+	"ownerUserId":34,
+	"path":"DND-CREATE-RECORDS-WITHOUT-PROJECT-API",
+	"resourceIds":["6822e85223e8981f85fd6450"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
