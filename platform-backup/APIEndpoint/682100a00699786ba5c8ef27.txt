@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682100990699786ba5c8ef25",
+	"createdTime":1746993312591,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ab40569/aq51rc",
+	"httpMethod":"POST",
+	"id":"682100a00699786ba5c8ef27",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11746992275827",
+	"modifiedTime":1746993362726,
+	"name":"AllowedIp_endpoint_ - 11746992275827",
+	"ownerUserId":34,
+	"path":"aq51rc",
+	"resourceIds":["6821008accc45f469e28c186"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
