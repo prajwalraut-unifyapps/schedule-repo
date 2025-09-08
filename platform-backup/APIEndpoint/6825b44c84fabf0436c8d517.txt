@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6825b44584fabf0436c8d515",
+	"createdTime":1747301452463,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aspspkg/ar9xtra",
+	"httpMethod":"POST",
+	"id":"6825b44c84fabf0436c8d517",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deletenoauth - 11747295233720",
+	"modifiedTime":1747301496575,
+	"name":"endpoint_deleteNoAuth - 11747295233720",
+	"ownerUserId":34,
+	"path":"ar9xtra",
+	"resourceIds":["6825b434143606139c5f0cec"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
