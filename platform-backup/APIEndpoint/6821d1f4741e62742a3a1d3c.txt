@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6821d1d7741e62742a3a1d36",
+	"createdTime":1747046900861,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"oauth/oauth-api",
+	"httpMethod":"GET",
+	"id":"6821d1f4741e62742a3a1d3c",
+	"lastModifiedBy":34,
+	"lcName":"oauth_api",
+	"modifiedTime":1747046904464,
+	"name":"oauth_api",
+	"ownerUserId":34,
+	"path":"oauth-api",
+	"resourceIds":["6821d179d92379633114fffd"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
