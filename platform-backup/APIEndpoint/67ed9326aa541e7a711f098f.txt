@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ed9322aa541e7a711f098d",
+	"createdTime":1743622950837,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aege8c9/ape3ckx",
+	"httpMethod":"PATCH",
+	"id":"67ed9326aa541e7a711f098f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - patch 11743622668989",
+	"modifiedTime":1743622954454,
+	"name":"endpoint - Callable - PATCH 11743622668989",
+	"ownerUserId":34,
+	"path":"ape3ckx",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
