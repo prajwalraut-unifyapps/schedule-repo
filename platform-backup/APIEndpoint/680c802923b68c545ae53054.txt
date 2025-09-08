@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1745649705816,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/680c80047e6f8621e2e2c86e",
+	"httpMethod":"ANY",
+	"id":"680c802923b68c545ae53054",
+	"lastModifiedBy":-1,
+	"lcName":"changesetsecurityqa2vmlbp1hptek automation web-hook",
+	"modifiedTime":1745710506340,
+	"name":"changeSetSECURITYQA2VmlbP1HptEk Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"680c80047e6f8621e2e2c86e",
+	"resourceIds":["680c80047e6f8621e2e2c86e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
