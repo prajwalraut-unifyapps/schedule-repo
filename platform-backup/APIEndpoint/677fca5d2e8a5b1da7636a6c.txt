@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677fca592e8a5b1da7636a6b",
+	"createdTime":1736428125004,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"adisd1t/aan581s",
+	"httpMethod":"GET",
+	"id":"677fca5d2e8a5b1da7636a6c",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_graphqlapi - 117364276759650",
+	"modifiedTime":1744131503625,
+	"name":"callable_endpoint_accessProfile_graphQLApi - 117364276759650",
+	"ownerUserId":34,
+	"path":"aan581s",
+	"resourceIds":["677fca46aa71dc2d222f3665"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
