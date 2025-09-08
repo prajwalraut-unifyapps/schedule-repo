@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67edea2f1208c75451c5a9be",
+	"createdTime":1743645239594,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"arx3vnd/a1tisd?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67edea371208c75451c5a9bf",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-rleditendpointplviewulcplvrle117436440586160updated",
+	"modifiedTime":1743645487604,
+	"name":"rbac-ui-RLEditEndPointPLViewULcPLvRLe117436440586160Updated",
+	"ownerUserId":34,
+	"path":"a1tisd",
+	"resourceIds":["67edea1fa49b1d0d436940a3"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
