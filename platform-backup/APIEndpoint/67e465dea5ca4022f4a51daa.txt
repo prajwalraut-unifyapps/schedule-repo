@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1743021534230,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/67e465d4e400dc0a13137283",
+	"httpMethod":"ANY",
+	"id":"67e465dea5ca4022f4a51daa",
+	"lastModifiedBy":-1,
+	"lcName":"converthtmlplaintexttables_117430178891380 automation web-hook",
+	"modifiedTime":1743344633320,
+	"name":"ConvertHTMLPlainTexttables_117430178891380 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"67e465d4e400dc0a13137283",
+	"resourceIds":["67e465d4e400dc0a13137283"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
