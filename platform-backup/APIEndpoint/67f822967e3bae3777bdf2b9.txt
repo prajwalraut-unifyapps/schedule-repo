@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f8228f7e3bae3777bdf2b6",
+	"createdTime":1744315030202,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a0v4tcu/akrzjs",
+	"httpMethod":"POST",
+	"id":"67f822967e3bae3777bdf2b9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deactivateaccessprofile - 11744313886188",
+	"modifiedTime":1744315060589,
+	"name":"endpoint_deactivateAccessProfile - 11744313886188",
+	"ownerUserId":34,
+	"path":"akrzjs",
+	"resourceIds":["67f82276a31df062e209ab71"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
