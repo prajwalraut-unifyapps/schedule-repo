@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68127eb244de217fd8e13866",
+	"createdTime":1746042552936,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"adssuut/ahg2dv",
+	"httpMethod":"POST",
+	"id":"68127eb844de217fd8e13868",
+	"lastModifiedBy":34,
+	"lcName":"api_deletedendpoint117460418948420",
+	"modifiedTime":1747408167463,
+	"name":"API_deletedEndpoint117460418948420",
+	"ownerUserId":34,
+	"path":"ahg2dv",
+	"resourceIds":["68127e9aa875540b870b9737"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
