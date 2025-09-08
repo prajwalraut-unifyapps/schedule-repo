@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e459e6a5ca4022f4a518bf",
+	"createdTime":1743018477457,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alippxl/afu1ec",
+	"httpMethod":"POST",
+	"id":"67e459eda5ca4022f4a518c0",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11743017867953",
+	"modifiedTime":1744129749838,
+	"name":"AllowedIp_endpoint_ - 11743017867953",
+	"ownerUserId":34,
+	"path":"afu1ec",
+	"resourceIds":["67e459d3e400dc0a13136fb8"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
