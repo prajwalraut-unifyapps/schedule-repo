@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681c677f7435cc59543d98e0",
+	"createdTime":1746691979043,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ac7jlg/ap1cyiq",
+	"httpMethod":"POST",
+	"id":"681c678b7435cc59543d98e2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117466864120610",
+	"modifiedTime":1747407960587,
+	"name":"endpoint_customAuth_117466864120610",
+	"ownerUserId":34,
+	"path":"ap1cyiq",
+	"resourceIds":["681c6771ed64d4428a2266d6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
