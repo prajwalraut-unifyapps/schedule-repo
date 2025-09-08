@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c5e3ed981c536db656162b",
+	"createdTime":1741022193871,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9wdsr/avrtatw",
+	"httpMethod":"POST",
+	"id":"67c5e3f1981c536db656162c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11741022140425",
+	"modifiedTime":1744130400312,
+	"name":"endpoint_rateLimitCheck - 11741022140425",
+	"ownerUserId":34,
+	"path":"avrtatw",
+	"resourceIds":["67c5e3d72737c8693a38e7f0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
