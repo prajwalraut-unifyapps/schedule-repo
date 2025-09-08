@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1745815231254,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"automationbackendtest/nfTKaRhHCm/{name}",
+	"httpMethod":"DELETE",
+	"id":"680f06bfdb8b1a29c7d6645b",
+	"lastModifiedBy":34,
+	"lcName":"nxdatulfvfrvapuyembh",
+	"modifiedTime":1745815231254,
+	"name":"NXDatULFVfrvaPUyeMBH",
+	"ownerUserId":34,
+	"path":"nfTKaRhHCm/{name}",
+	"resourceIds":["6643202a5a6e5634ab009895"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":0
+}
