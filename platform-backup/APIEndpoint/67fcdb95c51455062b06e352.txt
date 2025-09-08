@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67fcdb8fc51455062b06e351",
+	"createdTime":1744624533953,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afk2amr/am8otql",
+	"httpMethod":"POST",
+	"id":"67fcdb95c51455062b06e352",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_loop_and_branch_basic_117446244188460",
+	"modifiedTime":1745263159373,
+	"name":"Endpoint_E2E_Workflow_Callable_Loop_And_Branch_Basic_117446244188460",
+	"ownerUserId":34,
+	"path":"am8otql",
+	"resourceIds":["67fcdb27a1a0350868875e33"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
