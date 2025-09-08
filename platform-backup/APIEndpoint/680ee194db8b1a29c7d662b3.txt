@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680ee18fdb8b1a29c7d662b1",
+	"createdTime":1745805716159,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ayolup5/a88s1r?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"680ee194db8b1a29c7d662b3",
+	"lastModifiedBy":103731,
+	"lcName":"rbac-ui-ulcreateendpoint-ulcplallrln117458041015600",
+	"modifiedTime":1745805824901,
+	"name":"rbac-ui-ULCreateEndPoint-ULcPLAllRLn117458041015600",
+	"ownerUserId":103731,
+	"path":"a88s1r",
+	"resourceIds":["680ee159ca00205d81635f9e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
