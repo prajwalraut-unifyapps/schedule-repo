@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67c1e02285177b6290d76b76",
+	"createdTime":1740759080523,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"admtg7s/aanvod",
+	"httpMethod":"POST",
+	"id":"67c1e02885177b6290d76b78",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint__soapapi - 117407587558440",
+	"modifiedTime":1744130479552,
+	"name":"callable_endpoint__SOAPApi - 117407587558440",
+	"ownerUserId":34,
+	"path":"aanvod",
+	"resourceIds":["67c1e0136f48f0523f052ba9"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
