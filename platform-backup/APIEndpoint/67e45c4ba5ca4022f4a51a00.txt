@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e45c47a5ca4022f4a519fa",
+	"createdTime":1743019083663,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a69pmgf/agroqx",
+	"httpMethod":"POST",
+	"id":"67e45c4ba5ca4022f4a51a00",
+	"lastModifiedBy":34,
+	"lcName":"automation_redirect_endpoint_accessprofile_post - 11743019053667",
+	"modifiedTime":1744129747603,
+	"name":"Automation_Redirect_endpoint_accessProfile_post - 11743019053667",
+	"ownerUserId":34,
+	"path":"agroqx",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
