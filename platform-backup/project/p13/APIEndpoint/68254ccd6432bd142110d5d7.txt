@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68254cc76432bd142110d5d6",
+	"createdTime":1747274957210,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a2jkw1s/aloarje?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68254ccd6432bd142110d5d7",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-pleditendpointulcplerlv117472730971150updated",
+	"modifiedTime":1747407648642,
+	"name":"rbac-ui-PLEditEndpointULcPLeRLv117472730971150Updated",
+	"ownerUserId":34,
+	"path":"aloarje",
+	"projectId":13,
+	"resourceIds":["68254cc285bf0c5b127ce0c6"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
