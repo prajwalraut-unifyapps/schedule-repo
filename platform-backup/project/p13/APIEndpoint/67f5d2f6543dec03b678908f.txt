@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f5d2f1543dec03b678908d",
+	"createdTime":1744163574573,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ao0dnbkr/a4sgdpr?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67f5d2f6543dec03b678908f",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plviewendpointuleditulcplvrle117441624551110",
+	"modifiedTime":1745263256784,
+	"name":"rbac-ui-PLViewEndPointULEditULcPLvRLe117441624551110",
+	"ownerUserId":34,
+	"path":"a4sgdpr",
+	"projectId":13,
+	"resourceIds":["67f5d2e86d8ffb4083acb65d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
