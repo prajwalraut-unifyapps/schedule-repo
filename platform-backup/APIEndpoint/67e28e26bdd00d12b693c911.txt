@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e28e19bdd00d12b693c907",
+	"createdTime":1742900774716,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aejcgqh/anvono?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67e28e26bdd00d12b693c911",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvpldrle117429006206200",
+	"modifiedTime":1744129834225,
+	"name":"rbac-ui-ULViewEndPointULvPLdRLe117429006206200",
+	"ownerUserId":34,
+	"path":"anvono",
+	"resourceIds":["67e28ddf68e137202db7051b"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
