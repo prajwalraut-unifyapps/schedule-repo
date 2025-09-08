@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67de569d1e1b4a74c6584328",
+	"createdTime":1742624417478,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"az8waki/acw1qxs?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67de56a11e1b4a74c658432d",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11742624364315",
+	"modifiedTime":1742624420922,
+	"name":"endpointwebhook - Callable - POST 11742624364315",
+	"ownerUserId":34,
+	"path":"acw1qxs",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
