@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680f1a3ed09acd5554f0e397",
+	"createdTime":1745820229855,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ahxreq/antoghg",
+	"httpMethod":"POST",
+	"id":"680f1a45d09acd5554f0e3a9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restrictednoauth - 11745820200038",
+	"modifiedTime":1745820253252,
+	"name":"endpoint_restrictedNoAuth - 11745820200038",
+	"ownerUserId":34,
+	"path":"antoghg",
+	"resourceIds":["680f1a2d021fae124fc0541a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
