@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6803fdc6d446b856ab73e439",
+	"createdTime":1745092045833,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a6ktmm/asiohet",
+	"httpMethod":"POST",
+	"id":"6803fdcdd446b856ab73e43f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-restrictednoauth - 11745091536230",
+	"modifiedTime":1745092069181,
+	"name":"endpoint_insideProject-restrictedNoAuth - 11745091536230",
+	"ownerUserId":34,
+	"path":"asiohet",
+	"projectId":13,
+	"resourceIds":["6803fdb2277a5e3c68b21961"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
