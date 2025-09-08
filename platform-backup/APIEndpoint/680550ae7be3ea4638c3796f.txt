@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680550a97be3ea4638c3796c",
+	"createdTime":1745178798573,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"advu919/adajqm3?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PATCH",
+	"id":"680550ae7be3ea4638c3796f",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - patch 11745177893034",
+	"modifiedTime":1745178802085,
+	"name":"endpointwebhook - Callable - PATCH 11745177893034",
+	"ownerUserId":34,
+	"path":"adajqm3",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
