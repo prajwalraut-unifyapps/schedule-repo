@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67ec0a0e9db9d56b631bf2eb",
+	"createdTime":1743522324691,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aigsxcf/aermgzs",
+	"httpMethod":"POST",
+	"id":"67ec0a149db9d56b631bf2ef",
+	"lastModifiedBy":34,
+	"lcName":"export_endpoint- 117435221984710",
+	"modifiedTime":1743522365886,
+	"name":"Export_Endpoint- 117435221984710",
+	"ownerUserId":34,
+	"path":"aermgzs",
+	"resourceIds":["67ec09fd40a4a8664291b3ca"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
