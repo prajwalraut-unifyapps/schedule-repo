@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e3c86841ee662dbbda149b",
+	"createdTime":1742981229416,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"oilqvenutu/gUUzKHPNXL?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e3c86d41ee662dbbda14b7",
+	"lastModifiedBy":34,
+	"lcName":"djkhhdjwzzgamymdhxem",
+	"modifiedTime":1742981298946,
+	"name":"DJkhhdjwZzgAmYmDhXEM",
+	"ownerUserId":34,
+	"path":"gUUzKHPNXL",
+	"resourceIds":["67e3c86991c7bd4a1f3f147d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
