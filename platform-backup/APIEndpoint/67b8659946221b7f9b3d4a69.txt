@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67b8659246221b7f9b3d4a68",
+	"createdTime":1740137881820,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"av9t0js/a4layn3",
+	"httpMethod":"POST",
+	"id":"67b8659946221b7f9b3d4a69",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_boolean_basic_117401324331160",
+	"modifiedTime":1744130604039,
+	"name":"Endpoint_E2E_Workflow_Callable_Boolean_Basic_117401324331160",
+	"ownerUserId":34,
+	"path":"a4layn3",
+	"resourceIds":["67b8656614bf7f1ad01917c0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
