@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680ee1dcdb8b1a29c7d662d3",
+	"createdTime":1745805794467,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aotiwg/aj5nipp?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"680ee1e2db8b1a29c7d662d4",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plviewendpointulcplvrlall117458041015600",
+	"modifiedTime":1745805993345,
+	"name":"rbac-ui-PLViewEndpointULcPLvRLAll117458041015600",
+	"ownerUserId":34,
+	"path":"aj5nipp",
+	"projectId":13,
+	"resourceIds":["680ee1d8ca00205d81635fb0"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
