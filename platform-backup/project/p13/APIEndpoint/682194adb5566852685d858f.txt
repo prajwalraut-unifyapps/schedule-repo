@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682194a9b5566852685d858d",
+	"createdTime":1747031213166,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ardh2kf/endpointexternalapi---Callable---DELETE-11747029786881",
+	"httpMethod":"DELETE",
+	"id":"682194adb5566852685d858f",
+	"lastModifiedBy":34,
+	"lcName":"endpointexternalapi - callable - delete 11747029786881",
+	"modifiedTime":1747031221543,
+	"name":"endpointexternalapi - Callable - DELETE 11747029786881",
+	"ownerUserId":34,
+	"path":"endpointexternalapi---Callable---DELETE-11747029786881",
+	"projectId":13,
+	"resourceIds":[],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
