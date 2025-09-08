@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682557c56432bd142110d62f",
+	"createdTime":1747277770784,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"auryl9/acjmpm",
+	"httpMethod":"POST",
+	"id":"682557ca6432bd142110d631",
+	"lastModifiedBy":34,
+	"lcName":"policy_mappingendpoint117472776992920",
+	"modifiedTime":1747407647677,
+	"name":"policy_MappingEndPoint117472776992920",
+	"ownerUserId":34,
+	"path":"acjmpm",
+	"resourceIds":["682557b285bf0c5b127ce8a3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
