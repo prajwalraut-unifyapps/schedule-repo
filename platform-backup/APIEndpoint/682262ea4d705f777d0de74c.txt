@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682262e34d705f777d0de74b",
+	"createdTime":1747084010189,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a2dll6e/aovo66s",
+	"httpMethod":"POST",
+	"id":"682262ea4d705f777d0de74c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117470786971710",
+	"modifiedTime":1747084085153,
+	"name":"endpoint_customAuth_117470786971710",
+	"ownerUserId":34,
+	"path":"aovo66s",
+	"resourceIds":["682262d9b9535c2f9c9dcbce"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
