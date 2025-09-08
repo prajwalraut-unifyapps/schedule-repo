@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677b3b2707bd9267e247c1c8",
+	"createdTime":1736129323773,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agvk41/aky22r",
+	"httpMethod":"POST",
+	"id":"677b3b2b07bd9267e247c1c9",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_unchecknode - 11736123554135",
+	"modifiedTime":1744131618249,
+	"name":"callable_endpoint_accessProfile_uncheckNode - 11736123554135",
+	"ownerUserId":34,
+	"path":"aky22r",
+	"resourceIds":["677b3b056d41c74847707ed2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
