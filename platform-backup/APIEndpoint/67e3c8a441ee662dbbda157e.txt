@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e3c87c41ee662dbbda151a",
+	"createdTime":1742981284473,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ilnnqlblnu/SESverOlxv?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67e3c8a441ee662dbbda157e",
+	"lastModifiedBy":34,
+	"lcName":"tikwclquacwuuqnquqgo",
+	"modifiedTime":1742981287648,
+	"name":"tikwclQuACWuUqnQuqgo",
+	"ownerUserId":34,
+	"path":"SESverOlxv",
+	"resourceIds":["667a3ab6d1d92d0a308dad0c"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
