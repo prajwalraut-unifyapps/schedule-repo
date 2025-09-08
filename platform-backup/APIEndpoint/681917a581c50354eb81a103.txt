@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6819179d81c50354eb81a0ff",
+	"createdTime":1746474917566,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awokrr3/ado7xxs",
+	"httpMethod":"POST",
+	"id":"681917a581c50354eb81a103",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_delete_117464739558870",
+	"modifiedTime":1746474919057,
+	"name":"Endpoint_delete_117464739558870",
+	"ownerUserId":34,
+	"path":"ado7xxs",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
