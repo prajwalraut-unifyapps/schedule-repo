@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ed934caa541e7a711f099f",
+	"createdTime":1743622992895,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acvgk7o/aamsdwm",
+	"httpMethod":"POST",
+	"id":"67ed9350aa541e7a711f09a1",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- json web token  - 11743622668989",
+	"modifiedTime":1743623012829,
+	"name":"endpoint_- JSON Web Token  - 11743622668989",
+	"ownerUserId":34,
+	"path":"aamsdwm",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
