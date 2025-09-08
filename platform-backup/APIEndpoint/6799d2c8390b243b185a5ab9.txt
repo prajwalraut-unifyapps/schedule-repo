@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6799d2c3390b243b185a5ab8",
+	"createdTime":1738134216480,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agekhrc/amjjaib",
+	"httpMethod":"GET",
+	"id":"6799d2c8390b243b185a5ab9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint to be updated - 11738134208090",
+	"modifiedTime":1744131077046,
+	"name":"endpoint to be updated - 11738134208090",
+	"ownerUserId":34,
+	"path":"amjjaib",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
