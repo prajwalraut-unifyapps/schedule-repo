@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6809ed468cbf770f2b63fefa",
+	"createdTime":1745481036767,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asxe5g/ausx44",
+	"httpMethod":"POST",
+	"id":"6809ed4c8cbf770f2b63fefc",
+	"lastModifiedBy":34,
+	"lcName":"policy_mappingendpoint117454803919970",
+	"modifiedTime":1745669756389,
+	"name":"policy_MappingEndPoint117454803919970",
+	"ownerUserId":34,
+	"path":"ausx44",
+	"resourceIds":["6809ed2c295b100b16f6325b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
