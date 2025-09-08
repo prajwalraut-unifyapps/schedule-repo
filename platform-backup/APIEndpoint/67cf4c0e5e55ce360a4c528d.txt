@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cf4c085e55ce360a4c528a",
+	"createdTime":1741638670857,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9zgmvd/a6octus",
+	"httpMethod":"POST",
+	"id":"67cf4c0e5e55ce360a4c528d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_storagebyunifyapps_basic_117416354830100",
+	"modifiedTime":1744130226802,
+	"name":"Endpoint_E2E_Workflow_Callable_StorageByUnifyApps_Basic_117416354830100",
+	"ownerUserId":34,
+	"path":"a6octus",
+	"resourceIds":["67cf4bdb43c16d1798ca5374"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
