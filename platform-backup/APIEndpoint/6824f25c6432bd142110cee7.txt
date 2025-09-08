@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824f2526432bd142110cee3",
+	"createdTime":1747251804239,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"as0ctu/aprr2p",
+	"httpMethod":"POST",
+	"id":"6824f25c6432bd142110cee7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_restrictednoauth - 11747251495500",
+	"modifiedTime":1747251835972,
+	"name":"endpoint_restrictedNoAuth - 11747251495500",
+	"ownerUserId":34,
+	"path":"aprr2p",
+	"resourceIds":["6824f23f66bdcc30999536d0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
