@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e6a4034f275156550e4c86",
+	"createdTime":1743168522022,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abspe9s/al1cidh",
+	"httpMethod":"POST",
+	"id":"67e6a40a4f275156550e4c88",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deletenoauth - 11743168180473",
+	"modifiedTime":1743168574607,
+	"name":"endpoint_deleteNoAuth - 11743168180473",
+	"ownerUserId":34,
+	"path":"al1cidh",
+	"resourceIds":["67e6a3eb061b5f41906cfe25"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
