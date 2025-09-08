@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68015b020f4a781946cae9c1",
+	"createdTime":1744919303279,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ahhrdmb/avocc4g",
+	"httpMethod":"POST",
+	"id":"68015b070f4a781946cae9c5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- oauth2.0  - 11744918695187",
+	"modifiedTime":1745263062637,
+	"name":"endpoint_- OAuth2.0  - 11744918695187",
+	"ownerUserId":34,
+	"path":"avocc4g",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
