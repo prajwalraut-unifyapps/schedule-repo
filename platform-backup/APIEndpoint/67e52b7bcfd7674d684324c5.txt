@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e52b76cfd7674d684324c4",
+	"createdTime":1743072123150,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aobtl2s/alfdn2",
+	"httpMethod":"POST",
+	"id":"67e52b7bcfd7674d684324c5",
+	"lastModifiedBy":34,
+	"lcName":"api_group_end_point1_117430716294550",
+	"modifiedTime":1743072141420,
+	"name":"API_Group_End_point1_117430716294550",
+	"ownerUserId":34,
+	"path":"alfdn2",
+	"resourceIds":["67e52b6410222b77b7b3b51c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
