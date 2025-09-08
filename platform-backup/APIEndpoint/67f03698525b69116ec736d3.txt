@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f03690525b69116ec736d1",
+	"createdTime":1743795864021,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajjcyri/afhkxis",
+	"httpMethod":"PUT",
+	"id":"67f03698525b69116ec736d3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11743795490139",
+	"modifiedTime":1743795868340,
+	"name":"endpoint - Callable - PUT 11743795490139",
+	"ownerUserId":34,
+	"path":"afhkxis",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
