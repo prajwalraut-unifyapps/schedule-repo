@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e3dc5f41ee662dbbda2500",
+	"createdTime":1742986341693,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"auasid/agdfncp",
+	"httpMethod":"POST",
+	"id":"67e3dc6541ee662dbbda2501",
+	"lastModifiedBy":34,
+	"lcName":"api_end_point1_117429863002450",
+	"modifiedTime":1744129806954,
+	"name":"API_End_point1_117429863002450",
+	"ownerUserId":34,
+	"path":"agdfncp",
+	"resourceIds":["67e3dc462edca377d57598a1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
