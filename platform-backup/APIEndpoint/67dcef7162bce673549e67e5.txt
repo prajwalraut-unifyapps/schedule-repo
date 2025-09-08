@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dcef7062bce673549e67d7",
+	"createdTime":1742532465663,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"wctvdfbagr/YCgdLopped?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67dcef7162bce673549e67e5",
+	"lastModifiedBy":34,
+	"lcName":"tfgemcqiexptwnttxlca",
+	"modifiedTime":1742532465933,
+	"name":"tFgEmCqIExPTwNtTXLca",
+	"ownerUserId":34,
+	"path":"YCgdLopped",
+	"resourceIds":["667a4e3fd1d92d0a308dafb2"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
