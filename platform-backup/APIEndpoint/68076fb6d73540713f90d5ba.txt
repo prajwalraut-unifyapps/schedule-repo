@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68076fb2d73540713f90d5b8",
+	"createdTime":1745317814853,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arvdcw/asmt18k",
+	"httpMethod":"POST",
+	"id":"68076fb6d73540713f90d5ba",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_before-update- - 11745317684774",
+	"modifiedTime":1745317881560,
+	"name":"endpoint_before-update- - 11745317684774",
+	"ownerUserId":34,
+	"path":"asmt18k",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
