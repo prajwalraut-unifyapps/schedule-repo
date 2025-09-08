@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e99ed3b4d5ea34de147d37",
+	"createdTime":1743363800053,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a1alt3r/asatrm",
+	"httpMethod":"POST",
+	"id":"67e99ed8b4d5ea34de147d3a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint post update - 11743363471500",
+	"modifiedTime":1743363813899,
+	"name":"endpoint post update - 11743363471500",
+	"ownerUserId":34,
+	"path":"asatrm",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
