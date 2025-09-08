@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6813d10ce8480212c199c43e",
+	"createdTime":1746129168882,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ak82sx/a2psph",
+	"httpMethod":"POST",
+	"id":"6813d110e8480212c199c440",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-filter-modified by-117461282937300",
+	"modifiedTime":1746129173448,
+	"name":"Endpoint-Filter-modified by-117461282937300",
+	"ownerUserId":34,
+	"path":"a2psph",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
