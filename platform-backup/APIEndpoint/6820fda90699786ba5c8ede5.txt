@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6820fda30699786ba5c8ede2",
+	"createdTime":1746992553878,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ad9cc38/azoepau",
+	"httpMethod":"POST",
+	"id":"6820fda90699786ba5c8ede5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11746992275827",
+	"modifiedTime":1746992585209,
+	"name":"endpoint_differentAuthType - 11746992275827",
+	"ownerUserId":34,
+	"path":"azoepau",
+	"resourceIds":["6820fd940fdce206ef4a6c33"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
