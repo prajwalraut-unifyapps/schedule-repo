@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e06423c1a0c26ad97e7b3c",
+	"createdTime":1742758951784,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a4xdxpu/ascsq5",
+	"httpMethod":"DELETE",
+	"id":"67e06427c1a0c26ad97e7b3f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11742758645187",
+	"modifiedTime":1742758956620,
+	"name":"endpoint - Callable - DELETE 11742758645187",
+	"ownerUserId":34,
+	"path":"ascsq5",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
