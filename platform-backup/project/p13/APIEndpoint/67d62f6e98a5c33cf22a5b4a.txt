@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67d62f6998a5c33cf22a5b47",
+	"createdTime":1742090094013,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"auxn0st/anckpih?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67d62f6e98a5c33cf22a5b4a",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plallendpoint-ulcplallrln117420888663820",
+	"modifiedTime":1744130115026,
+	"name":"rbac-ui-PLallEndpoint-ULcPLAllRLn117420888663820",
+	"ownerUserId":34,
+	"path":"anckpih",
+	"projectId":13,
+	"resourceIds":["67d62f5f5c39266befb99e7f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
