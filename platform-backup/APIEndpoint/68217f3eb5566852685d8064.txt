@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68217f3eb5566852685d8062",
+	"createdTime":1747025726811,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"wfgwgsqlnt/zHgPWfFCWb?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68217f3eb5566852685d8064",
+	"lastModifiedBy":34,
+	"lcName":"pgmbsdeilzutmbinsdsu",
+	"modifiedTime":1747025789687,
+	"name":"PGmBsDeILzuTmbinSdsU",
+	"ownerUserId":34,
+	"path":"zHgPWfFCWb",
+	"resourceIds":["68217f3e0e121c549e1ae53d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
