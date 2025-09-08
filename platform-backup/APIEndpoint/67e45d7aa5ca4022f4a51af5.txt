@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e45d73a5ca4022f4a51af3",
+	"createdTime":1743019386039,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3eshj/ailrsdy",
+	"httpMethod":"POST",
+	"id":"67e45d7aa5ca4022f4a51af5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11743019063589",
+	"modifiedTime":1744129745021,
+	"name":"endpoint_modifiedNoAuth - 11743019063589",
+	"ownerUserId":34,
+	"path":"ailrsdy",
+	"resourceIds":["67e45d5fe400dc0a13137114"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
