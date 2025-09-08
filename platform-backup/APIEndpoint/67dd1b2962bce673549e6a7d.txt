@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67dd1b2462bce673549e6a7c",
+	"createdTime":1742543657035,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"anlhefk/amiod28",
+	"httpMethod":"POST",
+	"id":"67dd1b2962bce673549e6a7d",
+	"lastModifiedBy":34,
+	"lcName":"end_point_117425436334900",
+	"modifiedTime":1744129978394,
+	"name":"End_point_117425436334900",
+	"ownerUserId":34,
+	"path":"amiod28",
+	"resourceIds":["67dd1b15c97621366e111e19"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
