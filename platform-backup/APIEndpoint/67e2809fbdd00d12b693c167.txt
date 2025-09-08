@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e28056bdd00d12b693c10d",
+	"createdTime":1742897311127,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"bictlqsain/saPINTwnkk/{name}/{city}/{state}",
+	"httpMethod":"GET",
+	"id":"67e2809fbdd00d12b693c167",
+	"lastModifiedBy":34,
+	"lcName":"czrjvnwdmrlrkjgmskem",
+	"modifiedTime":1742897311955,
+	"name":"czrjVnWdMRlrKjGMskEM",
+	"ownerUserId":34,
+	"path":"saPINTwnkk/{name}/{city}/{state}",
+	"resourceIds":["67e280972807cf04c7f8d857"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
