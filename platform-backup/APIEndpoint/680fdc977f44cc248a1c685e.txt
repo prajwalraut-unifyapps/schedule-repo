@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680fdc937f44cc248a1c685b",
+	"createdTime":1745869975054,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aolczf/a618k8v?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"680fdc977f44cc248a1c685e",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11745869083442",
+	"modifiedTime":1745869978004,
+	"name":"endpointwebhook - Callable - POST 11745869083442",
+	"ownerUserId":34,
+	"path":"a618k8v",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
