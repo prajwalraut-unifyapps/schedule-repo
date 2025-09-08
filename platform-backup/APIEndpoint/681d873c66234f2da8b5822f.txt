@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1746765628198,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"automationbackendtest/MoVTILJWSR/{name}",
+	"httpMethod":"PUT",
+	"id":"681d873c66234f2da8b5822f",
+	"lastModifiedBy":34,
+	"lcName":"mysuccyqaptnhuqorwzm",
+	"modifiedTime":1746765628198,
+	"name":"mYSucCyqaPTNhUQorWZm",
+	"ownerUserId":34,
+	"path":"MoVTILJWSR/{name}",
+	"resourceIds":["6643202a5a6e5634ab009895"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":0
+}
