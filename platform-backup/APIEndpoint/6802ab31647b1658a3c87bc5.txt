@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6802ab2c647b1658a3c87bc2",
+	"createdTime":1745005361787,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aocoar/afvyrx",
+	"httpMethod":"POST",
+	"id":"6802ab31647b1658a3c87bc5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11745005107247",
+	"modifiedTime":1745005384671,
+	"name":"endpoint_differentAuthType - 11745005107247",
+	"ownerUserId":34,
+	"path":"afvyrx",
+	"resourceIds":["6802ab1bb193bf1f88ffa3ae"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
