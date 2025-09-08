@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67dc6ff262bce673549e5ba6",
+	"createdTime":1742499831489,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a53mte/a15rrnj?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"67dc6ff762bce673549e5ba8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117424994953920",
+	"modifiedTime":1742499836490,
+	"name":"endpoint - Webhook -  117424994953920",
+	"ownerUserId":34,
+	"path":"a15rrnj",
+	"resourceIds":["67dc6fe4403d101740786ea5"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
