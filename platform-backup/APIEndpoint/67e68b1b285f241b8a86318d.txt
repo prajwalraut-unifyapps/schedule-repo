@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e68b16285f241b8a863187",
+	"createdTime":1743162139157,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aiij5ic/avl3a6",
+	"httpMethod":"DELETE",
+	"id":"67e68b1b285f241b8a86318d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11743162075445",
+	"modifiedTime":1743162143944,
+	"name":"endpoint - Callable - DELETE 11743162075445",
+	"ownerUserId":34,
+	"path":"avl3a6",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
