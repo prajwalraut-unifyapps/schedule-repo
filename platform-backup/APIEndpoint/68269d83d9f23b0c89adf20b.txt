@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68269d7dd9f23b0c89adf209",
+	"createdTime":1747361155776,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ae73wrt/aowi12?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68269d83d9f23b0c89adf20b",
+	"lastModifiedBy":119317,
+	"lcName":"rbac-ui-ulcreateendpointulcplvrld117473594804560",
+	"modifiedTime":1747361201883,
+	"name":"rbac-ui-ULCreateEndPointULcPLvRLd117473594804560",
+	"ownerUserId":119317,
+	"path":"aowi12",
+	"resourceIds":["68269d79dd00b810109fcce5"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
