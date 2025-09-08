@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680058dcc4863757150cea85",
+	"createdTime":1744853212925,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"geamslahod/ZDXZOUyRNV",
+	"httpMethod":"GET",
+	"id":"680058dcc4863757150cea86",
+	"lastModifiedBy":34,
+	"lcName":"cxaxzzprtpngtjgajeak",
+	"modifiedTime":1744853213208,
+	"name":"CxaxzZpRTpngTJGAjEak",
+	"ownerUserId":34,
+	"path":"ZDXZOUyRNV",
+	"resourceIds":["680058db43144151c4bb8108"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
