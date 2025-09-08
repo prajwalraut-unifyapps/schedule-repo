@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680637dd13e488529ef9bdf3",
+	"createdTime":1745237987881,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"akbzyzo/aigunzi",
+	"httpMethod":"POST",
+	"id":"680637e313e488529ef9bdf5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117452356634390",
+	"modifiedTime":1745669859375,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117452356634390",
+	"ownerUserId":34,
+	"path":"aigunzi",
+	"resourceIds":["680637a8e99ada7c57ce9225"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
