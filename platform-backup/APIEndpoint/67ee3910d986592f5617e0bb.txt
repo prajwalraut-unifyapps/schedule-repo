@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ee390dd986592f5617e0ba",
+	"createdTime":1743665424574,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aztodq/test",
+	"httpMethod":"POST",
+	"id":"67ee3910d986592f5617e0bb",
+	"lastModifiedBy":34,
+	"lcName":"test",
+	"modifiedTime":1743665431180,
+	"name":"test",
+	"ownerUserId":34,
+	"path":"test",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
