@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6824f2606432bd142110cee8",
+	"createdTime":1747251817150,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ap1iprk/agalnes",
+	"httpMethod":"POST",
+	"id":"6824f2696432bd142110ceef",
+	"lastModifiedBy":34,
+	"lcName":"endpoint2_noauth - 11747251495500",
+	"modifiedTime":1747251862035,
+	"name":"endpoint2_noAuth - 11747251495500",
+	"ownerUserId":34,
+	"path":"agalnes",
+	"resourceIds":["6824f23a66bdcc30999536cb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
