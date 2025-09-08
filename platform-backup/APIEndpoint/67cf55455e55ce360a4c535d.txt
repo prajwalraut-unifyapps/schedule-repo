@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67cf553e5e55ce360a4c535c",
+	"createdTime":1741641029069,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"as5xqxl/azafvob",
+	"httpMethod":"POST",
+	"id":"67cf55455e55ce360a4c535d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_loop_and_branch_basic_117416354819740",
+	"modifiedTime":1744130222886,
+	"name":"Endpoint_E2E_Workflow_Callable_Loop_And_Branch_Basic_117416354819740",
+	"ownerUserId":34,
+	"path":"azafvob",
+	"resourceIds":["67cf54d543c16d1798caa9fe"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
