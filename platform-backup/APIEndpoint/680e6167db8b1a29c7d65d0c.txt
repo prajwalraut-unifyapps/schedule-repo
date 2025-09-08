@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680e6163db8b1a29c7d65d08",
+	"createdTime":1745772903996,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ax345lf/abctab",
+	"httpMethod":"DELETE",
+	"id":"680e6167db8b1a29c7d65d0c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - delete 11745772538817",
+	"modifiedTime":1745772906920,
+	"name":"endpoint - Callable - DELETE 11745772538817",
+	"ownerUserId":34,
+	"path":"abctab",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
