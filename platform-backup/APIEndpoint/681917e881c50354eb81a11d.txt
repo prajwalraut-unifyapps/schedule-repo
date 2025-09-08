@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681917de81c50354eb81a116",
+	"createdTime":1746474984145,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ar2csmd/anvs8je",
+	"httpMethod":"POST",
+	"id":"681917e881c50354eb81a11d",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11746473955887",
+	"modifiedTime":1746475035743,
+	"name":"AllowedIp_endpoint_ - 11746473955887",
+	"ownerUserId":34,
+	"path":"anvs8je",
+	"resourceIds":["681917c9b9f88a543f40cbf5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
