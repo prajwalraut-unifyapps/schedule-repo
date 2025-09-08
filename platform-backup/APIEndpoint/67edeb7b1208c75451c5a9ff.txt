@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67edeb771208c75451c5a9fc",
+	"createdTime":1743645563595,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aevnvvc/awivoxm?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67edeb7b1208c75451c5a9ff",
+	"lastModifiedBy":84715,
+	"lcName":"rbac-ui-ulcreateendpoint-ulcplallrln117436440586160",
+	"modifiedTime":1743645705976,
+	"name":"rbac-ui-ULCreateEndPoint-ULcPLAllRLn117436440586160",
+	"ownerUserId":84715,
+	"path":"awivoxm",
+	"resourceIds":["67edeb41a53f9d0581d69b1d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
