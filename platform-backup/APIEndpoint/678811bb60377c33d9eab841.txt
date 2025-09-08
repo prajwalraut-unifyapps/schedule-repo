@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"678811b860377c33d9eab83f",
+	"createdTime":1736970683650,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aserer/acg3nv",
+	"httpMethod":"POST",
+	"id":"678811bb60377c33d9eab841",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_traversedpath - 11736969884922",
+	"modifiedTime":1744131350368,
+	"name":"callable_endpoint_accessProfile_traversedPath - 11736969884922",
+	"ownerUserId":34,
+	"path":"acg3nv",
+	"resourceIds":["6788119e2d1a4f663e5ee54c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
