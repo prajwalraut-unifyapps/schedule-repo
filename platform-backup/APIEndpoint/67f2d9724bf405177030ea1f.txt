@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67f2d96c4bf405177030ea1b",
+	"createdTime":1743968626148,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3m4q9p/aokwww",
+	"httpMethod":"POST",
+	"id":"67f2d9724bf405177030ea1f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11743968346370",
+	"modifiedTime":1744129361155,
+	"name":"endpoint_rateLimitCheck - 11743968346370",
+	"ownerUserId":34,
+	"path":"aokwww",
+	"resourceIds":["67f2d95124dcb0355a75c3f7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
