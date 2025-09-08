@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680c864c23b68c545ae5314f",
+	"createdTime":1745651281960,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a80651q/artrxtb",
+	"httpMethod":"POST",
+	"id":"680c865123b68c545ae53153",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deleteapigroup - 11745651183874",
+	"modifiedTime":1745651291808,
+	"name":"endpoint_deleteApiGroup - 11745651183874",
+	"ownerUserId":34,
+	"path":"artrxtb",
+	"resourceIds":["680c863c7e6f8621e2e31841"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
