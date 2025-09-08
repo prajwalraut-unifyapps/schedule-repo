@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67ec00bf9db9d56b631bf21d",
+	"createdTime":1743519939335,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alxky1r/a45pauk",
+	"httpMethod":"POST",
+	"id":"67ec00c39db9d56b631bf223",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - post 11743519912111",
+	"modifiedTime":1743519943038,
+	"name":"endpoint - Callable - POST 11743519912111",
+	"ownerUserId":34,
+	"path":"a45pauk",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
