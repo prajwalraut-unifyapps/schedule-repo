@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681e30dfc210e76cd703f48e",
+	"createdTime":1746809061999,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"af6fxan/a4eycar",
+	"httpMethod":"POST",
+	"id":"681e30e5c210e76cd703f48f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_boolean_basic_117468019910580",
+	"modifiedTime":1747407875409,
+	"name":"Endpoint_E2E_Workflow_Callable_Boolean_Basic_117468019910580",
+	"ownerUserId":34,
+	"path":"a4eycar",
+	"resourceIds":["681e30b97b90c22087a2c461"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
