@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6799d79c390b243b185a5abf",
+	"createdTime":1738135455659,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ap4k8ot/arel63l",
+	"httpMethod":"POST",
+	"id":"6799d79f390b243b185a5ac0",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11738135448874",
+	"modifiedTime":1744131076259,
+	"name":"updatedEndpointLogs- 11738135448874",
+	"ownerUserId":34,
+	"path":"arel63l",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
