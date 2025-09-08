@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67de7a191e1b4a74c65845c9",
+	"createdTime":1742633501336,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"app9zx9/aolentr",
+	"httpMethod":"POST",
+	"id":"67de7a1d1e1b4a74c65845ca",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 21742633174205",
+	"modifiedTime":1742633513066,
+	"name":"updatedEndpointLogs- 21742633174205",
+	"ownerUserId":34,
+	"path":"aolentr",
+	"resourceIds":["6768be6d46516b3863859d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
