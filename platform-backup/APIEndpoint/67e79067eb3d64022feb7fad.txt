@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67e79060eb3d64022feb7fa7",
+	"createdTime":1743229031606,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"adl9dr/anwiwdk",
+	"httpMethod":"POST",
+	"id":"67e79067eb3d64022feb7fad",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_before-update- - 11743228916292",
+	"modifiedTime":1743229104108,
+	"name":"endpoint_before-update- - 11743228916292",
+	"ownerUserId":34,
+	"path":"anwiwdk",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
