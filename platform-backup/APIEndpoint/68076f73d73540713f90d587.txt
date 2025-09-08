@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68076f6ed73540713f90d582",
+	"createdTime":1745317747322,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azwkqrq/auxt3d?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68076f73d73540713f90d587",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117453176847740",
+	"modifiedTime":1745317751559,
+	"name":"endpoint - Webhook -  117453176847740",
+	"ownerUserId":34,
+	"path":"auxt3d",
+	"resourceIds":["68076f65ca91765ac6153606"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
