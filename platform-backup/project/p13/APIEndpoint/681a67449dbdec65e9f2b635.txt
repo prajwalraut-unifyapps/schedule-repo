@@ -1,0 +1,28 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681a673e9dbdec65e9f2b633",
+	"createdTime":1746560836430,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arts4gd/aeoku9g",
+	"httpMethod":"POST",
+	"id":"681a67449dbdec65e9f2b635",
+	"lastModifiedBy":34,
+	"lcName":"endpoint2_insideproject-noauth - 11746560320202",
+	"modifiedTime":1746560875998,
+	"name":"endpoint2_insideProject-noAuth - 11746560320202",
+	"ownerUserId":34,
+	"path":"aeoku9g",
+	"projectId":13,
+	"resourceIds":["681a6721e0a2af12b81470de"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
