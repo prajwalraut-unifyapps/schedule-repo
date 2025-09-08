@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680b163ed249476371631ff6",
+	"createdTime":1745557055002,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"dxbkilzowo/CmrHTfwBny?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"680b163fd249476371631ff7",
+	"lastModifiedBy":34,
+	"lcName":"nokvosfugluxkeiscnde",
+	"modifiedTime":1745557502365,
+	"name":"nOkvoSFUGLuXKEiScnDe",
+	"ownerUserId":34,
+	"path":"CmrHTfwBny",
+	"resourceIds":["666c161ad3399e49c82e7e82"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
