@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"681e655ec210e76cd703f7ec",
+	"createdTime":1746822502052,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"an2d0s6/asiux7",
+	"httpMethod":"POST",
+	"id":"681e6566c210e76cd703f7ed",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_storagebyunifyapps_basic_117468195080840",
+	"modifiedTime":1747407866745,
+	"name":"Endpoint_E2E_Workflow_Callable_StorageByUnifyApps_Basic_117468195080840",
+	"ownerUserId":34,
+	"path":"asiux7",
+	"resourceIds":["681e6537c437a84315435eb2"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
