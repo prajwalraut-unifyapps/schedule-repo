@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67f5d1bc543dec03b678904c",
+	"createdTime":1744163266645,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"apba8aj/atgcofa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67f5d1c2543dec03b6789050",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvplerln117441624551110",
+	"modifiedTime":1744163449377,
+	"name":"rbac-ui-ULViewEndPointULvPLeRLn117441624551110",
+	"ownerUserId":34,
+	"path":"atgcofa",
+	"resourceIds":["67f5d1ac182f415d691cd75f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
