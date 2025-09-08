@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"67cf41965e55ce360a4c5094",
+	"createdTime":1741635995677,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ae2jcll/ar3flh",
+	"httpMethod":"POST",
+	"id":"67cf419b5e55ce360a4c5097",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174163547027301",
+	"modifiedTime":1744130229948,
+	"name":"Sort_1174163547027301",
+	"ownerUserId":34,
+	"path":"ar3flh",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
