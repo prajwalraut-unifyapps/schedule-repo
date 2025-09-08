@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67de9bf01e1b4a74c65857aa",
+	"createdTime":1742642165198,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a142405e/avuzlyg",
+	"httpMethod":"POST",
+	"id":"67de9bf51e1b4a74c65857ab",
+	"lastModifiedBy":34,
+	"lcName":"api_end_point_117426421379630",
+	"modifiedTime":1742642230603,
+	"name":"API_End_point_117426421379630",
+	"ownerUserId":34,
+	"path":"avuzlyg",
+	"resourceIds":["67de9bdc98a8ef2a22f4387b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
