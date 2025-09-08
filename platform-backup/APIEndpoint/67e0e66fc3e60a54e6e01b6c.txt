@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"67e0e66dc3e60a54e6e01b65",
+	"createdTime":1742792303629,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"kuzcraesie/VcUiTAPZOE?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"67e0e66fc3e60a54e6e01b6c",
+	"lastModifiedBy":34,
+	"lcName":"pmnvfspizpnteltsnbjx",
+	"modifiedTime":1742792303918,
+	"name":"pmnvfspIZPNtelTsnBjx",
+	"ownerUserId":34,
+	"path":"VcUiTAPZOE",
+	"resourceIds":["667a5d0b7fc8ed141d971501"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
