@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"680550d27be3ea4638c3797b",
+	"createdTime":1745178838215,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ajlia7h/awobxwa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"680550d67be3ea4638c3797c",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117451778930340",
+	"modifiedTime":1745178842856,
+	"name":"Is-Resource Id-117451778930340",
+	"ownerUserId":34,
+	"path":"awobxwa",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
