@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68047e8b0912aa253b8cf9c6",
+	"createdTime":1745125006242,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"pjoalxciqv/FIgLZAcbad?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68047e8e0912aa253b8cf9d0",
+	"lastModifiedBy":34,
+	"lcName":"twwzrpcepwselyzsuvse",
+	"modifiedTime":1745125556602,
+	"name":"twWZRpcePWsELyZSUVSe",
+	"ownerUserId":34,
+	"path":"FIgLZAcbad",
+	"resourceIds":["68047e8cec32633b50a650cc"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
