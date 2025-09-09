@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a0d521d2c3340cf03cac8",
+	"createdTime":1748634972442,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"as35nro/aflvlm",
+	"id":"683a0d5c1d2c3340cf03cacb",
+	"lastModifiedBy":34,
+	"lcName":"customhttp_exportheaderquery_117486338799390",
+	"modifiedTime":1749027272793,
+	"name":"customHTTP_exportHeaderQuery_117486338799390",
+	"ownerUserId":34,
+	"path":"aflvlm",
+	"resourceIds":["683a0d4010adae3c660b023a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
