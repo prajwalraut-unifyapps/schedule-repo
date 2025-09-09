@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6838bb32246dd56949e3d51e",
+	"createdTime":1748548412336,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ao4xgkq/a2b3vf5",
+	"id":"6838bb3c246dd56949e3d52f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_callexternalrest117485475220770",
+	"modifiedTime":1749027320321,
+	"name":"endpoint_CallExternalRest117485475220770",
+	"ownerUserId":34,
+	"path":"a2b3vf5",
+	"resourceIds":["6838bb23fdb35d013041d579"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
