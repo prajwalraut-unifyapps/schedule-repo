@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6852a81b70d86d2be83953c8",
+	"createdTime":1750247460348,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"abieh6f/addw16",
+	"id":"6852a82470d86d2be83953cc",
+	"lastModifiedBy":34,
+	"lcName":"custom_http_soap_endpoint_null value_117502472755100",
+	"modifiedTime":1750247599158,
+	"name":"custom_http_soap_endpoint_null value_117502472755100",
+	"ownerUserId":34,
+	"path":"addw16",
+	"resourceIds":["6852a8030904f36d18971050"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
