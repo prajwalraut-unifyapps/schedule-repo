@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"689a32d0f171a35d1b80ed16",
+	"createdTime":1754936021971,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"amsior/a73e3x",
+	"id":"689a32d5f171a35d1b80ed17",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_requestschematest_117549352121960",
+	"modifiedTime":1754936108155,
+	"name":"endpoint_requestSchemaTest_117549352121960",
+	"ownerUserId":34,
+	"path":"a73e3x",
+	"resourceIds":["689a32b9031214e7800e2f88"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
