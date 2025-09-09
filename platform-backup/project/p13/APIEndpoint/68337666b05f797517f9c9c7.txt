@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68337661b05f797517f9c9c1",
+	"createdTime":1748203110935,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avmpmw/aszbnd8",
+	"id":"68337666b05f797517f9c9c7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-and_multipleconditions-117482018880770",
+	"modifiedTime":1748203119757,
+	"name":"endpoint-AND_multipleConditions-117482018880770",
+	"ownerUserId":34,
+	"path":"aszbnd8",
+	"projectId":13,
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
