@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680d4445a4e8d77724aad7bc",
+	"createdTime":1745699915228,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aveyry/alyqlnq",
+	"httpMethod":"POST",
+	"id":"680d444ba4e8d77724aad7be",
+	"lastModifiedBy":34,
+	"lcName":"createendpointwithcallableheaders - 117456962917210",
+	"modifiedTime":1747408261309,
+	"name":"createEndpointWithCallableHeaders - 117456962917210",
+	"ownerUserId":34,
+	"path":"alyqlnq",
+	"resourceIds":["680d4438e1ed365eab689b5e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
