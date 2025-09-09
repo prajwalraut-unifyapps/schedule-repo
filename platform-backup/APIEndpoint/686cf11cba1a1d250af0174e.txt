@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1751970076910,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/686cf103ed95543e338db844",
+	"id":"686cf11cba1a1d250af0174e",
+	"lastModifiedBy":-1,
+	"lcName":"delete_alertworkflow_117519669558680 automation web-hook",
+	"modifiedTime":1751970140499,
+	"name":"delete_alertworkflow_117519669558680 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"686cf103ed95543e338db844",
+	"resourceIds":["686cf103ed95543e338db844"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
