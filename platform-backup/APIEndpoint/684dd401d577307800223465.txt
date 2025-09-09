@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684dd3fad577307800223461",
+	"createdTime":1749931009650,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ax3bahs/amepx8s",
+	"id":"684dd401d577307800223465",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- oauth2.0  - 11749929863066",
+	"modifiedTime":1749931034961,
+	"name":"endpoint_- OAuth2.0  - 11749929863066",
+	"ownerUserId":34,
+	"path":"amepx8s",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
