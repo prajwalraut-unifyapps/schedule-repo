@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68466097fd43c31445295169",
+	"createdTime":1749442720937,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a1436jt/aj9api",
+	"id":"684660a0fd43c3144529516e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-singlenoauth - 11749441917054",
+	"modifiedTime":1749442750359,
+	"name":"endpoint_insideProject-singleNoAuth - 11749441917054",
+	"ownerUserId":34,
+	"path":"aj9api",
+	"projectId":13,
+	"resourceIds":["68466086130d8865dbcbcbb1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
