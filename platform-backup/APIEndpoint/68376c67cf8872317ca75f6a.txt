@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68376c62cf8872317ca75f68",
+	"createdTime":1748462695908,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a204kr/a5fslh",
+	"id":"68376c67cf8872317ca75f6a",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11748461079526",
+	"modifiedTime":1749027353899,
+	"name":"updatedEndpointLogs- 11748461079526",
+	"ownerUserId":34,
+	"path":"a5fslh",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
