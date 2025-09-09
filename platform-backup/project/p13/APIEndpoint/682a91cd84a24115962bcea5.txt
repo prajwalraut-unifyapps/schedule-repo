@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682a91c784a24115962bcea3",
+	"createdTime":1747620301117,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"am195ia/ablarov?resourceId={{RESOURCE_ID}}",
+	"id":"682a91cd84a24115962bcea5",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-plviewendpointulcplvrld117476187238500",
+	"modifiedTime":1748093183752,
+	"name":"rbac-ui-PLViewEndPointULcPLvRLd117476187238500",
+	"ownerUserId":34,
+	"path":"ablarov",
+	"projectId":13,
+	"resourceIds":["682a91c23ce39e58e4dfd666"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
