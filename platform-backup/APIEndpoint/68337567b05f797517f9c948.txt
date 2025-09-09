@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68337560b05f797517f9c942",
+	"createdTime":1748202855952,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a5j80vd/acxt8l9",
+	"id":"68337567b05f797517f9c948",
+	"lastModifiedBy":34,
+	"lcName":"endpoint post update - 11748201888077",
+	"modifiedTime":1748202874942,
+	"name":"endpoint post update - 11748201888077",
+	"ownerUserId":34,
+	"path":"acxt8l9",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
