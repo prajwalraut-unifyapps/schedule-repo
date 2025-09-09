@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684be9a77169544394a33c5f",
+	"createdTime":1749809355015,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"temp/adi-test",
+	"id":"684bf8cb7169544394a33d34",
+	"lastModifiedBy":34,
+	"lcName":"adi-test",
+	"modifiedTime":1749813701696,
+	"name":"adi-test",
+	"ownerUserId":34,
+	"path":"adi-test",
+	"resourceIds":["684be86a79e59c774131cdc0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
