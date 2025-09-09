@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682b6b7b0666067111439796",
+	"createdTime":1747676034654,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a6d83t/anpyom",
+	"id":"682b6b82066606711143979c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11747675380080",
+	"modifiedTime":1747676065271,
+	"name":"endpoint_modifiedNoAuth - 11747675380080",
+	"ownerUserId":34,
+	"path":"anpyom",
+	"resourceIds":["682b6b6db1692f16293ddc81"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
