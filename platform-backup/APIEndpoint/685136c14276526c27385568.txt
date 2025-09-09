@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685136bb4276526c27385567",
+	"createdTime":1750152897651,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a0t631/ae1dlna",
+	"id":"685136c14276526c27385568",
+	"lastModifiedBy":34,
+	"lcName":"updating_access_profile_endpoint_name117501528731560",
+	"modifiedTime":1755075851483,
+	"name":"updating_access_profile_endpoint_name117501528731560",
+	"ownerUserId":34,
+	"path":"ae1dlna",
+	"resourceIds":["685136af98f8110e86f2c3eb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
