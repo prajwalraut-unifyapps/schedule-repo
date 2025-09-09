@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684a7c161c2f181b64d81afe",
+	"createdTime":1749711904747,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aeoa0dp/aberavl",
+	"id":"684a7c201c2f181b64d81b04",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117497101436740",
+	"modifiedTime":1749711915050,
+	"name":"endpoint_endpointcreationLog- 117497101436740",
+	"ownerUserId":34,
+	"path":"aberavl",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
