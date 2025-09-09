@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b48a0cb8818208b0ded04",
+	"createdTime":1747667109850,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apswss/adwv1hg",
+	"id":"682b48a5cb8818208b0ded0a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117476668158780",
+	"modifiedTime":1748093116841,
+	"name":"endpoint_endpointcreationLog- 117476668158780",
+	"ownerUserId":34,
+	"path":"adwv1hg",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
