@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68bfe6aa54c5b143c568018d",
+	"createdTime":1757406917618,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"callable/api-trigger",
+	"id":"68bfe6c554c5b143c568019d",
+	"lastModifiedBy":34,
+	"lcName":"api-trigger",
+	"modifiedTime":1757406924824,
+	"name":"api-trigger",
+	"ownerUserId":34,
+	"path":"api-trigger",
+	"resourceIds":["68bfe672b77280391fca40af"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE",
+		"POST",
+		"GET",
+		"PUT",
+		"PATCH"
+	],
+	"version":1
+}
