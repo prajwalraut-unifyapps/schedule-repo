@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682b48c4cb8818208b0ded1e",
+	"createdTime":1747667146850,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a6yy1ur/acazi",
+	"id":"682b48cacb8818208b0ded24",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deletenoauth - 11747666820726",
+	"modifiedTime":1747667191856,
+	"name":"endpoint_deleteNoAuth - 11747666820726",
+	"ownerUserId":34,
+	"path":"acazi",
+	"resourceIds":["682b48b457b40a0ca106a10d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
