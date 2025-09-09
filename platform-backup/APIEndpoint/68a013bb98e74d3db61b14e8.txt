@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a013b698e74d3db61b14e6",
+	"createdTime":1755321275645,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aovo7r2m/al78jr",
+	"id":"68a013bb98e74d3db61b14e8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_clear_filter_117553210642000",
+	"modifiedTime":1755334335374,
+	"name":"endpoint_clear_filter_117553210642000",
+	"ownerUserId":34,
+	"path":"al78jr",
+	"resourceIds":["68a0139fc281b74e0b6f0632"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"PUT"
+	],
+	"version":2
+}
