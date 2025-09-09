@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748318370522,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6835389b6a048449e9016c8d",
+	"id":"683538a2062d0b6fbaa8179e",
+	"lastModifiedBy":-1,
+	"lcName":"efe automation web-hook",
+	"modifiedTime":1748318370522,
+	"name":"efe Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6835389b6a048449e9016c8d",
+	"resourceIds":["6835389b6a048449e9016c8d"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
