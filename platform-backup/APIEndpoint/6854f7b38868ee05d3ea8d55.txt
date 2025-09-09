@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6854f7ad8a3ddf3378e22134",
+	"createdTime":1750398899658,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ayaded/avax77j?resourceId={{RESOURCE_ID}}",
+	"id":"6854f7b38868ee05d3ea8d55",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11750398116722",
+	"modifiedTime":1750398907719,
+	"name":"endpointwebhook - Callable - GET 11750398116722",
+	"ownerUserId":34,
+	"path":"avax77j",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
