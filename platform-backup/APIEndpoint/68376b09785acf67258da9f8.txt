@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68376b03785acf67258da9f3",
+	"createdTime":1748462345662,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"akf22gi/aljlqgl?resourceId={{RESOURCE_ID}}",
+	"id":"68376b09785acf67258da9f8",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11748461079526",
+	"modifiedTime":1748462352674,
+	"name":"endpointwebhook - Callable - PUT 11748461079526",
+	"ownerUserId":34,
+	"path":"aljlqgl",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
