@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68318e062028066d687b19dc",
+	"createdTime":1748078126565,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"jsRjUncjDOKSlfv/automation",
+	"httpMethod":"POST",
+	"id":"68318e072028066d687b19dd",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalsmtne",
+	"modifiedTime":1748078144853,
+	"name":"changeSetLocalsMTne",
+	"ownerUserId":34,
+	"path":"automation",
+	"resourceIds":["68318e044c1192163379aff4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
