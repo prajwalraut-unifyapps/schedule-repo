@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6848e3b0ad2acf386e618ed1",
+	"createdTime":1749607353850,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"al30db/aditxmq?resourceId={{RESOURCE_ID}}",
+	"id":"6848e3b9ad2acf386e618ed2",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvplnrln117496058793100",
+	"modifiedTime":1749607460299,
+	"name":"rbac-ui-ULViewEndPointULvPLnRLn117496058793100",
+	"ownerUserId":34,
+	"path":"aditxmq",
+	"resourceIds":["6848e38cd00f0e3eb05b3096"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
