@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683bdb421d2c3340cf03e900",
+	"createdTime":1748753218875,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ymvgcnbusy/ouCSblTWpn",
+	"httpMethod":"POST",
+	"id":"683bdb421d2c3340cf03e903",
+	"lastModifiedBy":34,
+	"lcName":"ysrghixfxuawnrxyvoej",
+	"modifiedTime":1748753855108,
+	"name":"YsrgHIXFXuAwNRxyvoEj",
+	"ownerUserId":34,
+	"path":"ouCSblTWpn",
+	"resourceIds":["683bdb409a3289636f253444"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
