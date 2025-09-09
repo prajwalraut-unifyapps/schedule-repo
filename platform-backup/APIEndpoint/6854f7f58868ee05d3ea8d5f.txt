@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6854f7ef8a3ddf3378e22142",
+	"createdTime":1750398965524,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ab9vds4/ahaomlj?resourceId={{RESOURCE_ID}}",
+	"id":"6854f7f58868ee05d3ea8d5f",
+	"lastModifiedBy":34,
+	"lcName":"is not-resource id-117503981167220",
+	"modifiedTime":1750398974916,
+	"name":"Is not-Resource Id-117503981167220",
+	"ownerUserId":34,
+	"path":"ahaomlj",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
