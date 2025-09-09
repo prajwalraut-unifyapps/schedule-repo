@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684bb04e0c35eb4e4c643c26",
+	"createdTime":1749790799851,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"bjayimotgz/TnHxUDEuIm/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"684bb04f0c35eb4e4c643c2c",
+	"lastModifiedBy":34,
+	"lcName":"tritaaltywtstleqrodx",
+	"modifiedTime":1749791370257,
+	"name":"TritaalTYwTStLeqRODx",
+	"ownerUserId":34,
+	"path":"TnHxUDEuIm/{name}/{age}",
+	"resourceIds":["684bb04ebd68593c6f5ac153"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
