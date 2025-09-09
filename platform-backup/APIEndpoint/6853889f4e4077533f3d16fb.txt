@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685388924e4077533f3d16fa",
+	"createdTime":1750304927257,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajgoogk/amsa82t",
+	"id":"6853889f4e4077533f3d16fb",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deactivateaccessprofile - 11750304461421",
+	"modifiedTime":1750304978541,
+	"name":"endpoint_deactivateAccessProfile - 11750304461421",
+	"ownerUserId":34,
+	"path":"amsa82t",
+	"resourceIds":["68538875ffff9b5ed015ad5f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
