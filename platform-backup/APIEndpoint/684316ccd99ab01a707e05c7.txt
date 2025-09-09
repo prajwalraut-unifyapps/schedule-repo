@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684316bbd99ab01a707e05b3",
+	"createdTime":1749227212672,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ao4s25/alm2zki",
+	"id":"684316ccd99ab01a707e05c7",
+	"lastModifiedBy":34,
+	"lcName":"soap_exportendpoint2- 117492268991900",
+	"modifiedTime":1749227280355,
+	"name":"soap_exportEndpoint2- 117492268991900",
+	"ownerUserId":34,
+	"path":"alm2zki",
+	"resourceIds":["684316b106e2ba58fec38d42"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
