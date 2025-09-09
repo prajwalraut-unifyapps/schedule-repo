@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68376b0a785acf67258da9fa",
+	"createdTime":1748462351843,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aa036as/amam96k?resourceId={{RESOURCE_ID}}",
+	"id":"68376b0f785acf67258daa00",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - patch 11748461079526",
+	"modifiedTime":1748462358736,
+	"name":"endpointwebhook - Callable - PATCH 11748461079526",
+	"ownerUserId":34,
+	"path":"amam96k",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
