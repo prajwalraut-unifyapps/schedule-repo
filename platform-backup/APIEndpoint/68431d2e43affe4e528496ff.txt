@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68431d2743affe4e528496ef",
+	"createdTime":1749228846349,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"akdb7c/anslsvy?resourceId={{RESOURCE_ID}}",
+	"id":"68431d2e43affe4e528496ff",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - delete 11749228814911",
+	"modifiedTime":1749228853043,
+	"name":"endpointwebhook - Callable - DELETE 11749228814911",
+	"ownerUserId":34,
+	"path":"anslsvy",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
