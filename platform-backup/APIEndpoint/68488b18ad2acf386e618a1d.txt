@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68488b0fad2acf386e618a1a",
+	"createdTime":1749584664748,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ackwin/ax272tv",
+	"id":"68488b18ad2acf386e618a1d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_reorder policies - 11749584288404",
+	"modifiedTime":1749740357356,
+	"name":"endpoint_Reorder policies - 11749584288404",
+	"ownerUserId":34,
+	"path":"ax272tv",
+	"resourceIds":["68488b0107a7b8621bc413a3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
