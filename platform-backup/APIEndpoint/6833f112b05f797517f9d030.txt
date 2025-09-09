@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748234514548,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6833f1124c17434965dab5ff",
+	"id":"6833f112b05f797517f9d030",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationhldob10imkap automation web-hook",
+	"modifiedTime":1748234515566,
+	"name":"Backend_AutomationhLDOb10imKap Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6833f1124c17434965dab5ff",
+	"resourceIds":["6833f1124c17434965dab5ff"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
