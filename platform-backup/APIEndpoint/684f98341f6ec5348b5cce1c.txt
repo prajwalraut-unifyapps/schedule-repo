@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684f982e1f6ec5348b5cce1a",
+	"createdTime":1750046772601,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aj2vn5a/aassyte",
+	"id":"684f98341f6ec5348b5cce1c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envbaseurl_117500450489820",
+	"modifiedTime":1755075954095,
+	"name":"endpoint_envBaseUrl_117500450489820",
+	"ownerUserId":34,
+	"path":"aassyte",
+	"resourceIds":["684f981d4a8da658740f0c53"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
