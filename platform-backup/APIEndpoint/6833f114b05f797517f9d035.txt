@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748234516428,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6833f1144c17434965dab63e",
+	"id":"6833f114b05f797517f9d035",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationiixugpdfppon automation web-hook",
+	"modifiedTime":1748234516831,
+	"name":"Backend_AutomationIIXUGPDFppOn Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6833f1144c17434965dab63e",
+	"resourceIds":["6833f1144c17434965dab63e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
