@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688dcafa32bf5257427cb9cb",
+	"createdTime":1754123013126,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ao3pzf9/abkirww",
+	"id":"688dcb0532bf5257427cb9cd",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117541226316640",
+	"modifiedTime":1754123099735,
+	"name":"endpoint_customAuth_117541226316640",
+	"ownerUserId":34,
+	"path":"abkirww",
+	"resourceIds":["688dcae7dc43f5f8e3549e82"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
