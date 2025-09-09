@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686fb299f83e9b618a89e49e",
+	"createdTime":1752150689153,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ales33q/azt8sua",
+	"id":"686fb2a1f83e9b618a89e49f",
+	"lastModifiedBy":34,
+	"lcName":"env_endpoint_11752150666080",
+	"modifiedTime":1752157665190,
+	"name":"ENV_endpoint_11752150666080",
+	"ownerUserId":34,
+	"path":"azt8sua",
+	"resourceIds":["686fb28f454e784264d99f31"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
