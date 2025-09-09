@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68473a2c7a9e26747fbebebb",
+	"createdTime":1749498422369,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"as5hh3c/avlmk2e",
+	"id":"68473a367a9e26747fbebec2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deletenoauth - 11749497897302",
+	"modifiedTime":1749498473750,
+	"name":"endpoint_deleteNoAuth - 11749497897302",
+	"ownerUserId":34,
+	"path":"avlmk2e",
+	"resourceIds":["68473a1a4c2b2e1a84808b85"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
