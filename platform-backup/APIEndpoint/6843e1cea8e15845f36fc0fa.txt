@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6843e1c8a8e15845f36fc0f8",
+	"createdTime":1749279182834,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amauayn/atko7nm",
+	"id":"6843e1cea8e15845f36fc0fa",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117492775459180",
+	"modifiedTime":1749279260581,
+	"name":"endpoint_customAuth_117492775459180",
+	"ownerUserId":34,
+	"path":"atko7nm",
+	"resourceIds":["6843e1be028a4c6f4d19fe01"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
