@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682b63f4066606711143960c",
+	"createdTime":1747674106870,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"alamhjd/ayt10q",
+	"id":"682b63fa0666067111439613",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envbaseurl_117476733750880",
+	"modifiedTime":1748093081407,
+	"name":"endpoint_envBaseUrl_117476733750880",
+	"ownerUserId":34,
+	"path":"ayt10q",
+	"resourceIds":["682b63e5b1692f16293dc299"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
