@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6850786068a307441b327a9b",
+	"createdTime":1750104171838,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a3zbigk/a3w2vc?resourceId={{RESOURCE_ID}}",
+	"id":"6850786b68a307441b327a9f",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117501027023670",
+	"modifiedTime":1750104183362,
+	"name":"Is-Resource Id-117501027023670",
+	"ownerUserId":34,
+	"path":"a3w2vc",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
