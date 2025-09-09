@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6854f7c28868ee05d3ea8d59",
+	"createdTime":1750398920672,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"awiddy/aei0zb?resourceId={{RESOURCE_ID}}",
+	"id":"6854f7c88a3ddf3378e2213a",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - patch 11750398116722",
+	"modifiedTime":1750398929258,
+	"name":"endpointwebhook - Callable - PATCH 11750398116722",
+	"ownerUserId":34,
+	"path":"aei0zb",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":1
+}
