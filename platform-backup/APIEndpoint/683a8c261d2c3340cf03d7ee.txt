@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a8c261d2c3340cf03d7ed",
+	"createdTime":1748667430173,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"jugdemakqm/wulscUEaAl/{name}/{height}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"683a8c261d2c3340cf03d7ee",
+	"lastModifiedBy":34,
+	"lcName":"xiudsiknwiukpwofnqlc",
+	"modifiedTime":1748667859502,
+	"name":"XIuDSIKnWiUkPWoFNQLc",
+	"ownerUserId":34,
+	"path":"wulscUEaAl/{name}/{height}",
+	"resourceIds":["667426623fc3fb3a478ffc63"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
