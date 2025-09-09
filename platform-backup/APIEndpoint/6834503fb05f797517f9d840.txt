@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748258879254,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6834503c3bb73e4ee6ca9769",
+	"id":"6834503fb05f797517f9d840",
+	"lastModifiedBy":-1,
+	"lcName":"connectorssdklocal1748258865402 automation web-hook",
+	"modifiedTime":1748258972058,
+	"name":"ConnectorsSdkLocal1748258865402 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6834503c3bb73e4ee6ca9769",
+	"resourceIds":["6834503c3bb73e4ee6ca9769"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
