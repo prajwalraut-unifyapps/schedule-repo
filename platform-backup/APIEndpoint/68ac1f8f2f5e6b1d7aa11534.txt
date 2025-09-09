@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ac1f892f5e6b1d7aa11527",
+	"createdTime":1756110735133,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a4a67r/atflhf",
+	"id":"68ac1f8f2f5e6b1d7aa11534",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_invalid_filter_117561105103050",
+	"modifiedTime":1756131680743,
+	"name":"endpoint_invalid_filter_117561105103050",
+	"ownerUserId":34,
+	"path":"atflhf",
+	"resourceIds":["68ac1f72d6b3ed5e68ca3301"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
