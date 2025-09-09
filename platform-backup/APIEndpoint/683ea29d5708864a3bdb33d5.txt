@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683ea29b5708864a3bdb33d1",
+	"createdTime":1748935325545,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"dcOHKnJxPASaGUN/automation",
+	"httpMethod":"POST",
+	"id":"683ea29d5708864a3bdb33d5",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqakciei",
+	"modifiedTime":1748935429538,
+	"name":"changeSetSECURITYQAkCIEI",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["683ea29c5708864a3bdb33d2"],
+	"resourceIds":["683ea29b66ddbd11846b1f3a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
