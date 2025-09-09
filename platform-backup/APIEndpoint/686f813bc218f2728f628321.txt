@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686f813527092f00fd2a120b",
+	"createdTime":1752138043680,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a90f0ll/adfs8rv",
+	"id":"686f813bc218f2728f628321",
+	"lastModifiedBy":34,
+	"lcName":"env_endpoint_11752138023843",
+	"modifiedTime":1752141578381,
+	"name":"ENV_endpoint_11752138023843",
+	"ownerUserId":34,
+	"path":"adfs8rv",
+	"resourceIds":["686f812b0fce547a6891a722"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":4
+}
