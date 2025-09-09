@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748627670535,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6839f0cda57c64631f8ebd4f",
+	"id":"6839f0d61d2c3340cf03c863",
+	"lastModifiedBy":-1,
+	"lcName":"bulk_skip_check-117486276341230 automation web-hook",
+	"modifiedTime":1748627681988,
+	"name":"bulk_skip_check-117486276341230 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6839f0cda57c64631f8ebd4f",
+	"resourceIds":["6839f0cda57c64631f8ebd4f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
