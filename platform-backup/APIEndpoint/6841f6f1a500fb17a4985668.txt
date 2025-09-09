@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6841f6eba500fb17a4985666",
+	"createdTime":1749153521937,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aws43sr/a3pdaji",
+	"id":"6841f6f1a500fb17a4985668",
+	"lastModifiedBy":34,
+	"lcName":"automation_redirect_endpoint_accessprofile_post - 11749152282626",
+	"modifiedTime":1749153533445,
+	"name":"Automation_Redirect_endpoint_accessProfile_post - 11749152282626",
+	"ownerUserId":34,
+	"path":"a3pdaji",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
