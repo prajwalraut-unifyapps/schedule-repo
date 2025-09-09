@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"686cf14933141a7f97383ca9",
+	"createdTime":1751970134400,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a0t15h/apnj859",
+	"id":"686cf15633141a7f97383cae",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11751966973415",
+	"modifiedTime":1751970188405,
+	"name":"updatedEndpointLogs- 11751966973415",
+	"ownerUserId":34,
+	"path":"apnj859",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
