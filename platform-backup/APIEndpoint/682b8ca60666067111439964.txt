@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b8c9f066606711143995f",
+	"createdTime":1747684518651,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"alw35n/a1bkpod?resourceId={{RESOURCE_ID}}",
+	"id":"682b8ca60666067111439964",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11747683493689",
+	"modifiedTime":1747684526935,
+	"name":"endpointwebhook - Callable - PUT 11747683493689",
+	"ownerUserId":34,
+	"path":"a1bkpod",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
