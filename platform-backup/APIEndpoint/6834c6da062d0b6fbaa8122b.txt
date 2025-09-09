@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6834c6d2062d0b6fbaa81227",
+	"createdTime":1748289242155,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aszcmv8/aurmsc",
+	"id":"6834c6da062d0b6fbaa8122b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - post 11748288284231",
+	"modifiedTime":1748289249655,
+	"name":"endpoint - Callable - POST 11748288284231",
+	"ownerUserId":34,
+	"path":"aurmsc",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
