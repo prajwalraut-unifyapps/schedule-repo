@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6834c6cc062d0b6fbaa81224",
+	"createdTime":1748289236658,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aj4v7mc/asku59a",
+	"id":"6834c6d4062d0b6fbaa81228",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11748288284231",
+	"modifiedTime":1748289244952,
+	"name":"endpoint - Callable - PUT 11748288284231",
+	"ownerUserId":34,
+	"path":"asku59a",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
