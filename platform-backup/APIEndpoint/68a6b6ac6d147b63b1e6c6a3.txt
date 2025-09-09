@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a6b6a66d147b63b1e6c6a0",
+	"createdTime":1755756204022,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a81ay2/auystki",
+	"id":"68a6b6ac6d147b63b1e6c6a3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apply_filter_117557560326410",
+	"modifiedTime":1755775082823,
+	"name":"endpoint_apply_filter_117557560326410",
+	"ownerUserId":34,
+	"path":"auystki",
+	"resourceIds":["68a6b68c4729367ce91863af"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"PUT"
+	],
+	"version":2
+}
