@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683cb3321d2c3340cf03f240",
+	"createdTime":1748808505156,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ai4n5g5/asynmdr",
+	"id":"683cb3391d2c3340cf03f243",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soapexecutetoken - 11748806684071",
+	"modifiedTime":1748808552846,
+	"name":"endpoint_soapExecuteToken - 11748806684071",
+	"ownerUserId":34,
+	"path":"asynmdr",
+	"resourceIds":["683cb31ead8dc31761841a8a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
