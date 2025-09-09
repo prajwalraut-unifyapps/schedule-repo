@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6833764db05f797517f9c9b5",
+	"createdTime":1748203094152,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a5y9ci/arche3",
+	"id":"68337656b05f797517f9c9bb",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-before_modified_time-117482018880770",
+	"modifiedTime":1748203102663,
+	"name":"Endpoint-before_modified_time-117482018880770",
+	"ownerUserId":34,
+	"path":"arche3",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
