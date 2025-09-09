@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6862d0f6e63c6e30b4911335",
+	"createdTime":1751306489252,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ORhjOlVhCuDeOvs/automation",
+	"httpMethod":"POST",
+	"id":"6862d0f9a90582468f25e27c",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalaptoc",
+	"modifiedTime":1751306625250,
+	"name":"changeSetLocalapToC",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["6862d0f7a90582468f25e279"],
+	"resourceIds":["6862d0f57ba1fa44e5b19bb5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
