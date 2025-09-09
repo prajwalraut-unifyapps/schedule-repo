@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6836972065f72c75553c7246",
+	"createdTime":1748408097497,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"vpgbinrhqe/ladypvbnnx?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6836972165f72c75553c7248",
+	"lastModifiedBy":34,
+	"lcName":"asnfrrwadycghdzmdnjt",
+	"modifiedTime":1748408159356,
+	"name":"aSNfRrwaDycghDZmDNJt",
+	"ownerUserId":34,
+	"path":"ladypvbnnx",
+	"resourceIds":["6836972045489a16acc74d1f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
