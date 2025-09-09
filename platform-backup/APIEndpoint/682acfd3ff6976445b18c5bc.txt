@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682acfcfff6976445b18c5b7",
+	"createdTime":1747636179482,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"eevvgsjrjzbrvxv/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"682acfd3ff6976445b18c5bc",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalpovae",
+	"modifiedTime":1747636886940,
+	"name":"changeSetLocalPoVAE",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["682acfd0ff6976445b18c5b8"],
+	"resourceIds":["682acfcd4a649901c8ef7ee0"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
