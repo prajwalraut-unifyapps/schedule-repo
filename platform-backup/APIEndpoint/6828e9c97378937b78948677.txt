@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828e9c17378937b78948673",
+	"createdTime":1747511753450,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ambljd/ayly81n",
+	"httpMethod":"POST",
+	"id":"6828e9c97378937b78948677",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11747510678001",
+	"modifiedTime":1747511800774,
+	"name":"AllowedIp_endpoint_ - 11747510678001",
+	"ownerUserId":34,
+	"path":"ayly81n",
+	"resourceIds":["6828e9b0b58569511a69f1b6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
