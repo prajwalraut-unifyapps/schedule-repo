@@ -1,0 +1,22 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6828837c4e7cb52215d84a66",
+	"createdTime":1747485589668,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"hi/hiapi",
+	"id":"682883954e7cb52215d84a67",
+	"lastModifiedBy":34,
+	"lcName":"hiapi",
+	"modifiedTime":1747485589668,
+	"name":"hiapi",
+	"ownerUserId":34,
+	"path":"hiapi",
+	"resourceIds":["67666ff40a65887aa9cf9cb3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"version":0
+}
