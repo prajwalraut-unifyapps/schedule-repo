@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6619555d6b04321d49648334",
+	"createdTime":1747716042605,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/682c07ca7f7eb34f85b8af53",
+	"id":"682c07caf710a8181311f549",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automation4371lbce6omi automation web-hook",
+	"modifiedTime":1747716042993,
+	"name":"Backend_Automation4371lBCE6Omi Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"682c07ca7f7eb34f85b8af53",
+	"resourceIds":["682c07ca7f7eb34f85b8af53"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
