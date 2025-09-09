@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6851372d4276526c27385572",
+	"createdTime":1750153010184,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"amd03kh/a4804p?resourceId={{RESOURCE_ID}}",
+	"id":"68513732eb62da6b403bf620",
+	"lastModifiedBy":34,
+	"lcName":"endpointupdate - 11750152975547",
+	"modifiedTime":1755075851254,
+	"name":"endpointUpdate - 11750152975547",
+	"ownerUserId":34,
+	"path":"a4804p",
+	"resourceIds":["6851371b193df45d9404cf94"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
