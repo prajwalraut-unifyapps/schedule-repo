@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683965c50cc51e4e08863858",
+	"createdTime":1748592081252,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a72cpgh/adl26ln",
+	"id":"683965d10cc51e4e08863873",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174859197290809",
+	"modifiedTime":1749027284214,
+	"name":"Sort_1174859197290809",
+	"ownerUserId":34,
+	"path":"adl26ln",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
