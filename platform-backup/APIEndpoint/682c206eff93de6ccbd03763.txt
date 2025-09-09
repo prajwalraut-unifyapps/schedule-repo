@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c2068ff93de6ccbd03762",
+	"createdTime":1747722350738,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a4r4zmf/awg1zf",
+	"id":"682c206eff93de6ccbd03763",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_callexternalrest117477221991180",
+	"modifiedTime":1748093020736,
+	"name":"endpoint_CallExternalRest117477221991180",
+	"ownerUserId":34,
+	"path":"awg1zf",
+	"resourceIds":["682c20511eda106d0a002afc"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
