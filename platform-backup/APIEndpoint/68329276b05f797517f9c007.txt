@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6832926fb05f797517f9c002",
+	"createdTime":1748144758752,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"apvb7xn/ackru1k?resourceId={{RESOURCE_ID}}",
+	"id":"68329276b05f797517f9c007",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - delete 11748143421421",
+	"modifiedTime":1749027451090,
+	"name":"endpointwebhook - Callable - DELETE 11748143421421",
+	"ownerUserId":34,
+	"path":"ackru1k",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"DELETE"
+	],
+	"version":1
+}
