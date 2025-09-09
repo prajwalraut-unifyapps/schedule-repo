@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748748426408,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/683bc8802687563c6be72e80",
+	"id":"683bc88a1d2c3340cf03e631",
+	"lastModifiedBy":-1,
+	"lcName":"standard_entities_with_assign_roles_117487465364160 automation web-hook",
+	"modifiedTime":1749023695473,
+	"name":"Standard_Entities_With_Assign_Roles_117487465364160 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"683bc8802687563c6be72e80",
+	"resourceIds":["683bc8802687563c6be72e80"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
