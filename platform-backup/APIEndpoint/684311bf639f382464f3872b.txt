@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684311b8639f382464f38720",
+	"createdTime":1749225919241,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asw41c/abjxlto",
+	"id":"684311bf639f382464f3872b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint2_noauth - 11749225635145",
+	"modifiedTime":1749225954935,
+	"name":"endpoint2_noAuth - 11749225635145",
+	"ownerUserId":34,
+	"path":"abjxlto",
+	"resourceIds":["6843119837390c4218862c3d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
