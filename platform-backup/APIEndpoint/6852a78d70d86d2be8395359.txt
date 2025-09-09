@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6852a78070d86d2be8395352",
+	"createdTime":1750247309237,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a58oql/achifs6",
+	"id":"6852a78d70d86d2be8395359",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117502472716750",
+	"modifiedTime":1755075818550,
+	"name":"endpoint_customAuth_117502472716750",
+	"ownerUserId":34,
+	"path":"achifs6",
+	"resourceIds":["6852a7710904f36d18970c26"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
