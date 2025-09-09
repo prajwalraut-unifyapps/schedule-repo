@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68393761246dd56949e3eb5a",
+	"createdTime":1748580194317,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"exejopipju/cHaaaTuBND/{name}",
+	"httpMethod":"GET",
+	"id":"68393762246dd56949e3eb5b",
+	"lastModifiedBy":34,
+	"lcName":"gazitbilmcridmkyuncs",
+	"modifiedTime":1748580195676,
+	"name":"GAziTbiLmcrIdMKyuNCS",
+	"ownerUserId":34,
+	"path":"cHaaaTuBND/{name}",
+	"resourceIds":["68393762197fe67d28c0a18e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
