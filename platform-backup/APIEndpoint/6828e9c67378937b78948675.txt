@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6828e9c17378937b78948672",
+	"createdTime":1747511750138,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ados3fo/axnr7tk?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"6828e9c67378937b78948675",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11747510678001",
+	"modifiedTime":1747511757088,
+	"name":"endpointwebhook - Callable - GET 11747510678001",
+	"ownerUserId":34,
+	"path":"axnr7tk",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
