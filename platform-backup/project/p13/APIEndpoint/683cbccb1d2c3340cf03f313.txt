@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"677f8a44b12cdb4740fcafa8",
+	"createdTime":1748810955042,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"p-13-trigger-workflow/683cbcbfad8dc31761841e87/{path_params}",
+	"id":"683cbccb1d2c3340cf03f313",
+	"lastModifiedBy":-1,
+	"lcName":"editschema_inandoutsideproject_117488066697490 automation web-hook",
+	"modifiedTime":1748810955042,
+	"name":"editSchema_InandOutsideproject_117488066697490 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"683cbcbfad8dc31761841e87/{path_params}",
+	"projectId":13,
+	"resourceIds":["683cbcbfad8dc31761841e87"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
