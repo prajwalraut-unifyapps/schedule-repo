@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683375e2b05f797517f9c982",
+	"createdTime":1748202985760,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a8n97o/a1phoyo",
+	"id":"683375e9b05f797517f9c98b",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_before-update- - 11748201888077",
+	"modifiedTime":1748203008963,
+	"name":"update- accessprofile endpoint_before-update- - 11748201888077",
+	"ownerUserId":34,
+	"path":"a1phoyo",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
