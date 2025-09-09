@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683f52160179ec53152466e7",
+	"createdTime":1748980254545,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avdqng/audiu0c",
+	"id":"683f521e0179ec53152466e9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_insideproject-singlenoauth - 11748979482669",
+	"modifiedTime":1748980285154,
+	"name":"endpoint_insideProject-singleNoAuth - 11748979482669",
+	"ownerUserId":34,
+	"path":"audiu0c",
+	"projectId":13,
+	"resourceIds":["683f520549c8dc2631528d49"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
