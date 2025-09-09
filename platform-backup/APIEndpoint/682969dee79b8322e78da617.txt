@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682969dde79b8322e78da612",
+	"createdTime":1747544542703,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"llhxbkmezr/pQoxwIBQPG?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"682969dee79b8322e78da617",
+	"lastModifiedBy":34,
+	"lcName":"reriioutttrfalqgrget",
+	"modifiedTime":1747545080704,
+	"name":"ReRIiOUtTTRfalqgRget",
+	"ownerUserId":34,
+	"path":"pQoxwIBQPG",
+	"resourceIds":["66790819f870230e0b80514e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
