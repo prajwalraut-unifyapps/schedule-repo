@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68411461fb3e2d4d2b816df1",
+	"createdTime":1749095528948,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aigouxa/a8bsmbl",
+	"id":"68411468fb3e2d4d2b816df2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_differentauthtype - 11749095467039",
+	"modifiedTime":1749095557055,
+	"name":"endpoint_differentAuthType - 11749095467039",
+	"ownerUserId":34,
+	"path":"a8bsmbl",
+	"resourceIds":["684114523dfb2e0ac2f7fa2c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
