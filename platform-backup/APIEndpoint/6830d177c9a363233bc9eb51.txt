@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6830d16ec9a363233bc9eb4d",
+	"createdTime":1748029815936,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"absyl1/afqowpl",
+	"id":"6830d177c9a363233bc9eb51",
+	"lastModifiedBy":34,
+	"lcName":"noauth_accessprofileendpoint117480290575190",
+	"modifiedTime":1748029837959,
+	"name":"noAuth_AccessProfileEndpoint117480290575190",
+	"ownerUserId":34,
+	"path":"afqowpl",
+	"resourceIds":["6830d15d9c74862b9f9e70af"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
