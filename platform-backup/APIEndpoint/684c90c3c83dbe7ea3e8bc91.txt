@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684c90bcc83dbe7ea3e8bc8f",
+	"createdTime":1749848259616,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a66haam/acql48e",
+	"id":"684c90c3c83dbe7ea3e8bc91",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_unchecknode - 11749843480649",
+	"modifiedTime":1749848331649,
+	"name":"callable_endpoint_accessProfile_uncheckNode - 11749843480649",
+	"ownerUserId":34,
+	"path":"acql48e",
+	"resourceIds":["684c909e926b5f75dea88725"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
