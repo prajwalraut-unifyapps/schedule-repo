@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b61a5066606711143949c",
+	"createdTime":1747673514563,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"atrcsj9/asyu08?resourceId={{RESOURCE_ID}}",
+	"id":"682b61aa06660671114394a1",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11747673366196",
+	"modifiedTime":1747673521578,
+	"name":"endpointwebhook - Callable - GET 11747673366196",
+	"ownerUserId":34,
+	"path":"asyu08",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
