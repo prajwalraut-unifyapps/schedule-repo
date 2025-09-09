@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68393aec246dd56949e3f268",
+	"createdTime":1748581100964,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"jgpwtxptke/KAGeIlMyDe?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68393aec246dd56949e3f26a",
+	"lastModifiedBy":34,
+	"lcName":"cdayehssdunilvscabja",
+	"modifiedTime":1748581549657,
+	"name":"cDaYEHSSdunilvscABja",
+	"ownerUserId":34,
+	"path":"KAGeIlMyDe",
+	"resourceIds":["667060a39f30076b83e51451"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
