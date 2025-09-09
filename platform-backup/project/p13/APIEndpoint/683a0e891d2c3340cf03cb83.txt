@@ -1,0 +1,29 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683a0e861d2c3340cf03cb7f",
+	"createdTime":1748635273635,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"amcgeva/endpointexternalapi---Callable---PUT-11748633882306",
+	"id":"683a0e891d2c3340cf03cb83",
+	"lastModifiedBy":34,
+	"lcName":"endpointexternalapi - callable - put 11748633882306",
+	"modifiedTime":1748635280640,
+	"name":"endpointexternalapi - Callable - PUT 11748633882306",
+	"ownerUserId":34,
+	"path":"endpointexternalapi---Callable---PUT-11748633882306",
+	"projectId":13,
+	"resourceIds":[],
+	"resourceType":"SOUTHBOUND_API",
+	"southBoundAPI":{
+		"forwardAllPaths":false,
+		"resourceType":"HTTP"
+	},
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
