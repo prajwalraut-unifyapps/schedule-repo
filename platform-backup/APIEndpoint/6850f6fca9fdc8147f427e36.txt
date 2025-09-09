@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6850f6fba9fdc8147f427e32",
+	"createdTime":1750136572078,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"lwveahatjm/dUQcCSNTmQ?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"6850f6fca9fdc8147f427e36",
+	"lastModifiedBy":34,
+	"lcName":"hdpdmbtbsdpxsoguqgps",
+	"modifiedTime":1750137161677,
+	"name":"hDpDmbTbSDpXSOGUQGPS",
+	"ownerUserId":34,
+	"path":"dUQcCSNTmQ",
+	"resourceIds":["667516e9d163390ad1398fba"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
