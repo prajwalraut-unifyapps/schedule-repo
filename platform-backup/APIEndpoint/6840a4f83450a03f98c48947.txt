@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6840a4ef3450a03f98c48942",
+	"createdTime":1749067000438,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aptdl5vp/ao6s0l",
+	"id":"6840a4f83450a03f98c48947",
+	"lastModifiedBy":34,
+	"lcName":"arrayschemainnextnodes_117490658456400",
+	"modifiedTime":1749307276371,
+	"name":"arraySchemaInNextNodes_117490658456400",
+	"ownerUserId":34,
+	"path":"ao6s0l",
+	"resourceIds":["6840a4e2cd84927cf9443c4d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
