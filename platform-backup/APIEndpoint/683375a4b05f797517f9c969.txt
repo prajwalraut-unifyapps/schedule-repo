@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6833759cb05f797517f9c961",
+	"createdTime":1748202916338,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ap6fnlv/altpp9",
+	"id":"683375a4b05f797517f9c969",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- oauth2.0  - 11748201888077",
+	"modifiedTime":1748202941849,
+	"name":"endpoint_- OAuth2.0  - 11748201888077",
+	"ownerUserId":34,
+	"path":"altpp9",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
