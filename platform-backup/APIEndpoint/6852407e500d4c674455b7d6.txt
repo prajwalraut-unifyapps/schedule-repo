@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68524077582252066dad07dc",
+	"createdTime":1750220926742,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9459rl/anouzy",
+	"id":"6852407e500d4c674455b7d6",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11750219176115",
+	"modifiedTime":1750220942641,
+	"name":"updatedEndpointLogs- 11750219176115",
+	"ownerUserId":34,
+	"path":"anouzy",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
