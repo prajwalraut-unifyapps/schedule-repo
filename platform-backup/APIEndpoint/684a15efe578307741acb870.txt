@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684a15eee578307741acb86e",
+	"createdTime":1749685743258,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"yySnagZoYlkmXEl/automation/endpoint1",
+	"httpMethod":"POST",
+	"id":"684a15efe578307741acb870",
+	"lastModifiedBy":34,
+	"lcName":"connectorssdksecurityqaxuehb",
+	"modifiedTime":1749771524362,
+	"name":"ConnectorsSdkSECURITYQAXuEHb",
+	"ownerUserId":34,
+	"path":"automation/endpoint1",
+	"resourceIds":["684a15eddf44a1560022a0b6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
