@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6852405f500d4c674455b7ce",
+	"createdTime":1750220905243,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3987g5/anicn2s",
+	"id":"68524069582252066dad07d6",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117502191761150",
+	"modifiedTime":1750220912454,
+	"name":"endpoint_endpointcreationLog- 117502191761150",
+	"ownerUserId":34,
+	"path":"anicn2s",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
