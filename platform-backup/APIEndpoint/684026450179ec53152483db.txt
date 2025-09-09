@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684026020179ec53152483d5",
+	"createdTime":1749034565739,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"Callable-Api/CallableAPI",
+	"id":"684026450179ec53152483db",
+	"lastModifiedBy":34,
+	"lcName":"callab",
+	"modifiedTime":1749035152240,
+	"name":"Callab",
+	"ownerUserId":34,
+	"path":"CallableAPI",
+	"resourceIds":["673c6a3f4ec6f65c334a6070"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":9
+}
