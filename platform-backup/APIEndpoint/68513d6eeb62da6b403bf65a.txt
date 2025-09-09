@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68513d68eb62da6b403bf659",
+	"createdTime":1750154606137,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"acqrtqd/acsz91v?resourceId={{RESOURCE_ID}}",
+	"id":"68513d6eeb62da6b403bf65a",
+	"lastModifiedBy":34,
+	"lcName":"endpointupdate - 11750154574568",
+	"modifiedTime":1755075850792,
+	"name":"endpointUpdate - 11750154574568",
+	"ownerUserId":34,
+	"path":"acsz91v",
+	"resourceIds":["68513d5beb0cd57a20f0dcdc"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
