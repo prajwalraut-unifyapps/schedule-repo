@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682a3ad584a24115962bcb62",
+	"createdTime":1747598044053,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"afhnxf/asst8sn",
+	"id":"682a3adc84a24115962bcb67",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpoint- 117475971130790",
+	"modifiedTime":1748093196936,
+	"name":"Export_APIEndpoint- 117475971130790",
+	"ownerUserId":34,
+	"path":"asst8sn",
+	"resourceIds":["682a3ac93ce39e58e4df9ed7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
