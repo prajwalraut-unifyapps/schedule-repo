@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684a95f3a14d8649087f451a",
+	"createdTime":1749718520594,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"asxrhf/apjmkf9?resourceId={{RESOURCE_ID}}",
+	"id":"684a95f8a14d8649087f451c",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117497178285250",
+	"modifiedTime":1755076094159,
+	"name":"Is-Resource Id-117497178285250",
+	"ownerUserId":34,
+	"path":"apjmkf9",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
