@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"6888f7530c5c9d189707393c",
+	"createdTime":1753806680348,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9zwo3n/arad50b",
+	"id":"6888f7580c5c9d189707393d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_requestcontenttypexml117538056055230",
+	"modifiedTime":1753806738376,
+	"name":"endpoint_RequestContentTypeXML117538056055230",
+	"ownerUserId":34,
+	"path":"arad50b",
+	"resourceIds":["6888f74280d3be4eca268f85"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
