@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682af8ebfa250c6e222fa334",
+	"createdTime":1747646703240,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"AXGwVJzxxsIpuqs/automation",
+	"httpMethod":"POST",
+	"id":"682af8effa250c6e222fa338",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalvvllo",
+	"modifiedTime":1747646809151,
+	"name":"changeSetLocalVVlLo",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["682af8ecfa250c6e222fa335"],
+	"resourceIds":["682af8e9dde45172a4495204"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
