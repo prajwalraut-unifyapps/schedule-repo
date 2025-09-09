@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1754874265001,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/689941980540e61387d4991a",
+	"id":"68994199cb32b47fb1646cbf",
+	"lastModifiedBy":-1,
+	"lcName":"connectorssdksecurityqa1754874259747 automation web-hook",
+	"modifiedTime":1754960006142,
+	"name":"ConnectorsSdkSECURITYQA1754874259747 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"689941980540e61387d4991a",
+	"resourceIds":["689941980540e61387d4991a"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
