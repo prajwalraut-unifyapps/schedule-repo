@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1749785467481,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/684b9b7381acf74dc8c43a54",
+	"id":"684b9b7bb9d1c24a590767d9",
+	"lastModifiedBy":-1,
+	"lcName":"unskip_check-117497847386980 automation web-hook",
+	"modifiedTime":1749785507326,
+	"name":"Unskip_check-117497847386980 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"684b9b7381acf74dc8c43a54",
+	"resourceIds":["684b9b7381acf74dc8c43a54"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
