@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1750135425389,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6850f281ab62f425b1871558",
+	"id":"6850f281a9fdc8147f427c7c",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationiofnejobfmju automation web-hook",
+	"modifiedTime":1750135425987,
+	"name":"Backend_AutomationiofNEJobfmju Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6850f281ab62f425b1871558",
+	"resourceIds":["6850f281ab62f425b1871558"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
