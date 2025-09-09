@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a0ce81d2c3340cf03ca9a",
+	"createdTime":1748634866159,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aermgrr/a7rnigy",
+	"id":"683a0cf21d2c3340cf03ca9e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_resource owner password-117486338823060",
+	"modifiedTime":1749027273026,
+	"name":"endpoint_OAuth2.0_Resource Owner Password-117486338823060",
+	"ownerUserId":34,
+	"path":"a7rnigy",
+	"resourceIds":["683a0cdc10adae3c660b0197"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
