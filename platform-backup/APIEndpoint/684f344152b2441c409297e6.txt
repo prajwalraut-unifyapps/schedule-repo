@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684f343952b2441c409297e5",
+	"createdTime":1750021185739,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqu3a7/aw31vi",
+	"id":"684f344152b2441c409297e6",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_repeatrun - 11750016284887",
+	"modifiedTime":1750021269951,
+	"name":"callable_endpoint_accessProfile_RepeatRun - 11750016284887",
+	"ownerUserId":34,
+	"path":"aw31vi",
+	"resourceIds":["684f34154a8da658740ef3eb"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
