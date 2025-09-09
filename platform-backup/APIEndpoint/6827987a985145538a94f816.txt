@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68279875985145538a94f815",
+	"createdTime":1747425402749,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amzrire/awwphu6",
+	"httpMethod":"POST",
+	"id":"6827987a985145538a94f816",
+	"lastModifiedBy":34,
+	"lcName":"accessprofile_inside_collection_endpoint_post - 11747424329883",
+	"modifiedTime":1747425442436,
+	"name":"AccessProfile_Inside_collection_endpoint_post - 11747424329883",
+	"ownerUserId":34,
+	"path":"awwphu6",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
