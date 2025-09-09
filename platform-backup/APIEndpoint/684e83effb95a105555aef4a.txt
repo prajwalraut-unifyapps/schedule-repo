@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684e83e9fb95a105555aef49",
+	"createdTime":1749976047399,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aaim9fx/arhaott",
+	"id":"684e83effb95a105555aef4a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointdeletionlog- 117499757565640",
+	"modifiedTime":1749976052646,
+	"name":"endpoint_endpointdeletionLog- 117499757565640",
+	"ownerUserId":34,
+	"path":"arhaott",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
