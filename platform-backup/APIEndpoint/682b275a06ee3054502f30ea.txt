@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b275606ee3054502f30e6",
+	"createdTime":1747658586968,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ai9do1i/akot5ig?resourceId={{RESOURCE_ID}}",
+	"id":"682b275a06ee3054502f30ea",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11747658248870",
+	"modifiedTime":1747658593502,
+	"name":"endpointwebhook - Callable - PUT 11747658248870",
+	"ownerUserId":34,
+	"path":"akot5ig",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
