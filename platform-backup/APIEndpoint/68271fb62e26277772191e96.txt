@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68271fb02e26277772191e95",
+	"createdTime":1747394486138,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"afnsawa/aedg6ah",
+	"httpMethod":"POST",
+	"id":"68271fb62e26277772191e96",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-soap_exportapi_importcallable_117473944652950",
+	"modifiedTime":1748093313768,
+	"name":"endpoint-SOAP_ExportAPI_ImportCallable_117473944652950",
+	"ownerUserId":34,
+	"path":"aedg6ah",
+	"resourceIds":["68271fa6244ba723d59614b1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
