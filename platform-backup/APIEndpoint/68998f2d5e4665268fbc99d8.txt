@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68998f285e4665268fbc99d4",
+	"createdTime":1754894125924,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a4dvs5m/arb57us",
+	"id":"68998f2d5e4665268fbc99d8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_count_update_117548939099390",
+	"modifiedTime":1754914423768,
+	"name":"endpoint_count_update_117548939099390",
+	"ownerUserId":34,
+	"path":"arb57us",
+	"resourceIds":["68998f0e435685d8a3a46d72"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
