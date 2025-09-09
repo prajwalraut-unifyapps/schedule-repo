@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683fd6250179ec531524702f",
+	"createdTime":1749014054126,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"eludappgel/YdKDIQQBCn/{name}",
+	"httpMethod":"GET",
+	"id":"683fd6260179ec5315247030",
+	"lastModifiedBy":34,
+	"lcName":"liasjsdtqsytxnotrajd",
+	"modifiedTime":1749014055561,
+	"name":"LIasjsDtQsYtxNoTRajD",
+	"ownerUserId":34,
+	"path":"YdKDIQQBCn/{name}",
+	"resourceIds":["683fd62595d2b84290f68ce1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
