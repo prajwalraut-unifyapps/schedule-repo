@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1750338275701,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68540ae2b0b2635694de5e8f",
+	"id":"68540ae38c1f4a72a950aa62",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationy75nmgfim13q automation web-hook",
+	"modifiedTime":1750338278242,
+	"name":"Backend_Automationy75nmgfiM13Q Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68540ae2b0b2635694de5e8f",
+	"resourceIds":["68540ae2b0b2635694de5e8f"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
