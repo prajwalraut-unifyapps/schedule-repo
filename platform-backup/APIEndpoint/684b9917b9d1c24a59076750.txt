@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684b9910b9d1c24a5907674c",
+	"createdTime":1749784855883,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a3adnui/amvhwdm",
+	"id":"684b9917b9d1c24a59076750",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_authorization code-117497847108780",
+	"modifiedTime":1755076043555,
+	"name":"endpoint_OAuth2.0_Authorization code-117497847108780",
+	"ownerUserId":34,
+	"path":"amvhwdm",
+	"resourceIds":["684b9905d7c2e33ace43ca08"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
