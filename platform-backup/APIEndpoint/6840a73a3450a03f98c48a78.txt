@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6840a7313450a03f98c48a71",
+	"createdTime":1749067578652,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ab5slys/algiks",
+	"id":"6840a73a3450a03f98c48a78",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_string_basic_117490658456400",
+	"modifiedTime":1749307271457,
+	"name":"Endpoint_E2E_Workflow_Callable_String_Basic_117490658456400",
+	"ownerUserId":34,
+	"path":"algiks",
+	"resourceIds":["6840a6dd3dfb2e0ac2f76531"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
