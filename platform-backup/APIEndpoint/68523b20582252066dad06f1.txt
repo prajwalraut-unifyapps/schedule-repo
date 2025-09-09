@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68523b16500d4c674455b6b2",
+	"createdTime":1750219552359,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aulyrgw/aftml",
+	"id":"68523b20582252066dad06f1",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_reorder policies - 11750219176115",
+	"modifiedTime":1755075838712,
+	"name":"endpoint_Reorder policies - 11750219176115",
+	"ownerUserId":34,
+	"path":"aftml",
+	"resourceIds":["68523b0775c5bd216fefb2f5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
