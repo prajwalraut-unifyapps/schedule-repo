@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a0170b98e74d3db61b1528",
+	"createdTime":1755322128084,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a4ku7ub/ayd4jr",
+	"id":"68a0171098e74d3db61b152b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_default_117553220087860",
+	"modifiedTime":1755334321373,
+	"name":"endpoint_default_117553220087860",
+	"ownerUserId":34,
+	"path":"ayd4jr",
+	"resourceIds":["68a016f5c281b74e0b6f175a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
