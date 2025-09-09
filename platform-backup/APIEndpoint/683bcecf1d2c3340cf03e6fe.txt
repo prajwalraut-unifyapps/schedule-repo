@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683bcec91d2c3340cf03e6fa",
+	"createdTime":1748750031686,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acw1dz/am18buj",
+	"id":"683bcecf1d2c3340cf03e6fe",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_patch_117487465364160",
+	"modifiedTime":1749027243296,
+	"name":"Endpoint_customHTTP_PATCH_117487465364160",
+	"ownerUserId":34,
+	"path":"am18buj",
+	"resourceIds":["683bcebf2687563c6be73353"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
