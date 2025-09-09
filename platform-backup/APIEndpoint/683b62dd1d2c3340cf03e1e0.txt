@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683b62d11d2c3340cf03e1df",
+	"createdTime":1748722397050,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aydbdbo/ari6wyk",
+	"id":"683b62dd1d2c3340cf03e1e0",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11748720274714",
+	"modifiedTime":1749027252748,
+	"name":"updatedEndpointLogs- 11748720274714",
+	"ownerUserId":34,
+	"path":"ari6wyk",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
