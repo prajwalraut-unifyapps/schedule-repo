@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c962df4996a45db2db77b",
+	"createdTime":1747752510205,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alyd2zf/aki8sat",
+	"id":"682c963ef4996a45db2db786",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11747752367945",
+	"modifiedTime":1747752603063,
+	"name":"endpoint_modifiedNoAuth - 11747752367945",
+	"ownerUserId":34,
+	"path":"aki8sat",
+	"resourceIds":["682c95d024b48a03882f3b95"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
