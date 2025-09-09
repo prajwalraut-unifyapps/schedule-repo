@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68523d53500d4c674455b704",
+	"createdTime":1750220125248,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asxp8b/atb78um",
+	"id":"68523d5d500d4c674455b707",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_resource owner password-117502191761150",
+	"modifiedTime":1755075837798,
+	"name":"endpoint_OAuth2.0_Resource Owner Password-117502191761150",
+	"ownerUserId":34,
+	"path":"atb78um",
+	"resourceIds":["68523d491fd9af0198a9b45a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
