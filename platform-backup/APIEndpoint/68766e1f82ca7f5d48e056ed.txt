@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1752591903283,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68766e063dc908836ed7e4a8",
+	"id":"68766e1f82ca7f5d48e056ed",
+	"lastModifiedBy":-1,
+	"lcName":"connection issue automation web-hook",
+	"modifiedTime":1752591903283,
+	"name":"connection issue Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68766e063dc908836ed7e4a8",
+	"resourceIds":["68766e063dc908836ed7e4a8"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
