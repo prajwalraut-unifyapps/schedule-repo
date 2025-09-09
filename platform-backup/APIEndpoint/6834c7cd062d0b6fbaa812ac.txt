@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6834c7c8062d0b6fbaa812aa",
+	"createdTime":1748289485769,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afvorxn/amzx10l",
+	"id":"6834c7cd062d0b6fbaa812ac",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-before_modified_time-117482882842310",
+	"modifiedTime":1748289494054,
+	"name":"Endpoint-before_modified_time-117482882842310",
+	"ownerUserId":34,
+	"path":"amzx10l",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
