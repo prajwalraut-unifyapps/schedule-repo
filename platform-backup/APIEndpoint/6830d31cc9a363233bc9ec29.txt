@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6830d317c9a363233bc9ec26",
+	"createdTime":1748030236951,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"av1t2qj/aphanv",
+	"id":"6830d31cc9a363233bc9ec29",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-before_modified_time-117480290575190",
+	"modifiedTime":1748030246146,
+	"name":"Endpoint-before_modified_time-117480290575190",
+	"ownerUserId":34,
+	"path":"aphanv",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
