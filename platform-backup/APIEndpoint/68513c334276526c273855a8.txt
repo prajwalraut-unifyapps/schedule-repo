@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68513c2deb62da6b403bf654",
+	"createdTime":1750154291085,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a1ch87i/arfagbh?resourceId={{RESOURCE_ID}}",
+	"id":"68513c334276526c273855a8",
+	"lastModifiedBy":34,
+	"lcName":"endpointupdate - 11750154260379",
+	"modifiedTime":1755075851024,
+	"name":"endpointUpdate - 11750154260379",
+	"ownerUserId":34,
+	"path":"arfagbh",
+	"resourceIds":["68513c22b279b644ef7f2134"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
