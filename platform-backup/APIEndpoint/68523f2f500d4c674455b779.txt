@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68523f27500d4c674455b777",
+	"createdTime":1750220591369,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"aedle2e/a9zmmp?resourceId={{RESOURCE_ID}}",
+	"id":"68523f2f500d4c674455b779",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117502191761150",
+	"modifiedTime":1750220601552,
+	"name":"Is-Resource Id-117502191761150",
+	"ownerUserId":34,
+	"path":"a9zmmp",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
