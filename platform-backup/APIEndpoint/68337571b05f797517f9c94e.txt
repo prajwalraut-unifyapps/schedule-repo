@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68337568b05f797517f9c94a",
+	"createdTime":1748202865063,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a7hkwx/akeexpg",
+	"id":"68337571b05f797517f9c94e",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpointcustom- 117482018692950",
+	"modifiedTime":1748202937344,
+	"name":"Export_APIEndpointCustom- 117482018692950",
+	"ownerUserId":34,
+	"path":"akeexpg",
+	"resourceIds":["6833755a5cac7749ad690208"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
