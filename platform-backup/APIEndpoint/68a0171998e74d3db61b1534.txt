@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68a0171498e74d3db61b152c",
+	"createdTime":1755322137408,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arktuvo/a2z9jbt",
+	"id":"68a0171998e74d3db61b1534",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apply_filter_117553220087860",
+	"modifiedTime":1755334315536,
+	"name":"endpoint_apply_filter_117553220087860",
+	"ownerUserId":34,
+	"path":"a2z9jbt",
+	"resourceIds":["68a016fbc281b74e0b6f177d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"PUT"
+	],
+	"version":2
+}
