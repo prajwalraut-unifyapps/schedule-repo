@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683a0e601d2c3340cf03cb62",
+	"createdTime":1748635237740,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"altd5w9/ac77mwg?resourceId={{RESOURCE_ID}}",
+	"id":"683a0e651d2c3340cf03cb68",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11748633882306",
+	"modifiedTime":1748635245148,
+	"name":"endpointwebhook - Callable - PUT 11748633882306",
+	"ownerUserId":34,
+	"path":"ac77mwg",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
