@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685154086580cb16f4515bac",
+	"createdTime":1750160402047,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aduve49/aav10ks",
+	"id":"685154126580cb16f4515baf",
+	"lastModifiedBy":34,
+	"lcName":"creation_client_endpoint_name117501603735470",
+	"modifiedTime":1750160417851,
+	"name":"creation_client_endpoint_name117501603735470",
+	"ownerUserId":34,
+	"path":"aav10ks",
+	"resourceIds":["685153fbf876d021b0eb3d82"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
