@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682eef2eb4872f0f2051b514",
+	"createdTime":1747906356049,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apdjui/asimqxk",
+	"id":"682eef34b4872f0f2051b51a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117479061815200",
+	"modifiedTime":1748092927533,
+	"name":"endpoint_endpointcreationLog- 117479061815200",
+	"ownerUserId":34,
+	"path":"asimqxk",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
