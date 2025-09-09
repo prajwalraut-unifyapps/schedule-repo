@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683963310cc51e4e08860b5f",
+	"createdTime":1748591416766,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alyvco/aiy7pen",
+	"id":"683963380cc51e4e08860b64",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_verifyruns - 11748591261848",
+	"modifiedTime":1749027286746,
+	"name":"endpoint_verifyRuns - 11748591261848",
+	"ownerUserId":34,
+	"path":"aiy7pen",
+	"resourceIds":["6839631d98100c4a3af14036"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
