@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6828e9c27378937b78948674",
+	"createdTime":1747511750742,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ah8x7ko/a3e15xo?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"PUT",
+	"id":"6828e9c67378937b78948676",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11747510678001",
+	"modifiedTime":1747511757876,
+	"name":"endpointwebhook - Callable - PUT 11747510678001",
+	"ownerUserId":34,
+	"path":"a3e15xo",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
