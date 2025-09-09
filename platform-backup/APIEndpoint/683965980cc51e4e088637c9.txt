@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683965920cc51e4e088637b7",
+	"createdTime":1748592024554,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aeutism/af7czct",
+	"id":"683965980cc51e4e088637c9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointcreationlog- 117485919860270",
+	"modifiedTime":1748592033737,
+	"name":"endpoint_endpointcreationLog- 117485919860270",
+	"ownerUserId":34,
+	"path":"af7czct",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
