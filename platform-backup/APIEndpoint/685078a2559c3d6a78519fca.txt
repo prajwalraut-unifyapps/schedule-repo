@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68507897559c3d6a78519fc6",
+	"createdTime":1750104226849,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a0ryl5/asdseyd",
+	"id":"685078a2559c3d6a78519fca",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpoint- 117501027023670",
+	"modifiedTime":1750104307945,
+	"name":"Export_APIEndpoint- 117501027023670",
+	"ownerUserId":34,
+	"path":"asdseyd",
+	"resourceIds":["6850788659c57b6523d64b85"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
