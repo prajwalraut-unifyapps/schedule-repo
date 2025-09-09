@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"664325f8d3f5657caa7c6d47",
+	"createdTime":1749444269640,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"automationbackendtest/UsSMDsOsnF/{name}",
+	"httpMethod":"PUT",
+	"id":"684666adfd43c314452953b4",
+	"lastModifiedBy":34,
+	"lcName":"ogygtpnctvfrjgmsmsne",
+	"modifiedTime":1749444269640,
+	"name":"ogYGtPncTVfRjgMSMsNe",
+	"ownerUserId":34,
+	"path":"UsSMDsOsnF/{name}",
+	"resourceIds":["6643202a5a6e5634ab009895"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":0
+}
