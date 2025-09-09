@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682c422fd213895afe25b665",
+	"createdTime":1747731002430,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"adit4dr/aj5w2pl",
+	"id":"682c423ad213895afe25b667",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174773098821509",
+	"modifiedTime":1748093002639,
+	"name":"Sort_1174773098821509",
+	"ownerUserId":34,
+	"path":"aj5w2pl",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
