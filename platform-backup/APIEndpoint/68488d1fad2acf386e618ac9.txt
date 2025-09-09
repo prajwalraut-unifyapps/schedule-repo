@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68488d15ad2acf386e618ac7",
+	"createdTime":1749585183451,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"alvwblp/ad7bmr",
+	"id":"68488d1fad2acf386e618ac9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_oauth2.0_authorization code-117495842884040",
+	"modifiedTime":1749585239345,
+	"name":"endpoint_OAuth2.0_Authorization code-117495842884040",
+	"ownerUserId":34,
+	"path":"ad7bmr",
+	"resourceIds":["68488d09950eb45e3cc57750"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
