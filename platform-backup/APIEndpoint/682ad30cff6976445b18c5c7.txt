@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682ad2b7ff6976445b18c5c5",
+	"createdTime":1747637004838,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"webhook-ex/webhook-ex?resourceId={{RESOURCE_ID}}",
+	"id":"682ad30cff6976445b18c5c7",
+	"lastModifiedBy":34,
+	"lcName":"webhook-ex",
+	"modifiedTime":1747637210745,
+	"name":"webhook-ex",
+	"ownerUserId":34,
+	"path":"webhook-ex",
+	"policyIds":["682ad3a4ff6976445b18c5cb"],
+	"resourceIds":["682ad1ba4a649901c8ef8705"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":3
+}
