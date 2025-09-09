@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684dd3e6d577307800223459",
+	"createdTime":1749930991641,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amv5aqi/anaycrm",
+	"id":"684dd3efd57730780022345d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- basic auth  - 11749929863066",
+	"modifiedTime":1749931016547,
+	"name":"endpoint_- Basic Auth  - 11749929863066",
+	"ownerUserId":34,
+	"path":"anaycrm",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
