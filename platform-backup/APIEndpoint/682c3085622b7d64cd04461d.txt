@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c307f622b7d64cd04461b",
+	"createdTime":1747726469585,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aixclv6/aqt1k6",
+	"id":"682c3085622b7d64cd04461d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envheaders_117477251322600",
+	"modifiedTime":1748093005510,
+	"name":"endpoint_envHeaders_117477251322600",
+	"ownerUserId":34,
+	"path":"aqt1k6",
+	"resourceIds":["682c30741eda106d0a008271"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
