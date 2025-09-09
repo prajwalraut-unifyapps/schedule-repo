@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1749617053260,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6849099c1280c41917f15ec7",
+	"id":"6849099db486a86c16057738",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationmuratjs4oro7 automation web-hook",
+	"modifiedTime":1749617053688,
+	"name":"Backend_AutomationMuRATjs4orO7 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6849099c1280c41917f15ec7",
+	"resourceIds":["6849099c1280c41917f15ec7"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
