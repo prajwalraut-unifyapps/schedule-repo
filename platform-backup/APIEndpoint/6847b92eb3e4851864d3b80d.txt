@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6847b928b3e4851864d3b80c",
+	"createdTime":1749530926899,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aut4ao4/a2437i",
+	"id":"6847b92eb3e4851864d3b80d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117495294825540",
+	"modifiedTime":1749531002994,
+	"name":"endpoint_customAuth_117495294825540",
+	"ownerUserId":34,
+	"path":"a2437i",
+	"resourceIds":["6847b91df9017951537e7dda"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
