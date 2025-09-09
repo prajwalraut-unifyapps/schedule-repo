@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683223c0b05f797517f9b96d",
+	"createdTime":1748116423269,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a1nzb87/acest87",
+	"id":"683223c7b05f797517f9b972",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - post 11748115492991",
+	"modifiedTime":1748116430651,
+	"name":"endpoint - Callable - POST 11748115492991",
+	"ownerUserId":34,
+	"path":"acest87",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
