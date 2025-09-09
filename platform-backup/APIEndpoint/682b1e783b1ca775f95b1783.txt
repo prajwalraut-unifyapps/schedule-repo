@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b1e733b1ca775f95b177f",
+	"createdTime":1747656312270,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agem4gj/av2wwwn",
+	"id":"682b1e783b1ca775f95b1783",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - patch 11747656303172",
+	"modifiedTime":1747656319179,
+	"name":"endpoint - Callable - PATCH 11747656303172",
+	"ownerUserId":34,
+	"path":"av2wwwn",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
