@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68465fb9fd43c31445295133",
+	"createdTime":1749442500337,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"amdjiw/aux8gmd",
+	"id":"68465fc4fd43c31445295134",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_deleteapigroup - 11749441917054",
+	"modifiedTime":1749442521739,
+	"name":"endpoint_deleteApiGroup - 11749441917054",
+	"ownerUserId":34,
+	"path":"aux8gmd",
+	"resourceIds":["68465fa6130d8865dbcbcb53"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
