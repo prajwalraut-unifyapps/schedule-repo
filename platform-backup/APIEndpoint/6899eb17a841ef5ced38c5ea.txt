@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6899eb10a841ef5ced38c5e9",
+	"createdTime":1754917655003,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aysxsay/ajecddn",
+	"id":"6899eb17a841ef5ced38c5ea",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soap_117549176194250",
+	"modifiedTime":1754917696736,
+	"name":"endpoint_SOAP_117549176194250",
+	"ownerUserId":34,
+	"path":"ajecddn",
+	"resourceIds":["6899eaf7909db1f3dea4b84c"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
