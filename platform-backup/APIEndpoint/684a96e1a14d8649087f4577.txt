@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684a96dca14d8649087f4572",
+	"createdTime":1749718753305,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aintmas/alb69gp",
+	"id":"684a96e1a14d8649087f4577",
+	"lastModifiedBy":34,
+	"lcName":"updatedendpointlogs- 11749717828525",
+	"modifiedTime":1755076092784,
+	"name":"updatedEndpointLogs- 11749717828525",
+	"ownerUserId":34,
+	"path":"alb69gp",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
