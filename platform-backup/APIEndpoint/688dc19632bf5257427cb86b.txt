@@ -1,0 +1,35 @@
+{
+	"active":true,
+	"advancedSettings":{
+		"retryConfig":{
+			"backOffFactor":1.0,
+			"count":1,
+			"enabled":false,
+			"initialDelay":100,
+			"maxDelay":100
+		}
+	},
+	"cacheResponse":false,
+	"collectionId":"688dc19132bf5257427cb868",
+	"createdTime":1754120598738,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apck4de/alrsa4k",
+	"id":"688dc19632bf5257427cb86b",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_repeatrun - 11754118390218",
+	"modifiedTime":1754120654554,
+	"name":"callable_endpoint_accessProfile_RepeatRun - 11754118390218",
+	"ownerUserId":34,
+	"path":"alrsa4k",
+	"resourceIds":["688dc171a1e7d20af6c02940"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
