@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684b30d2b9d1c24a59076202",
+	"createdTime":1749758170364,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqkk7v6/abstidc",
+	"id":"684b30dab9d1c24a59076207",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_before-update- - 11749757074412",
+	"modifiedTime":1749758247143,
+	"name":"endpoint_before-update- - 11749757074412",
+	"ownerUserId":34,
+	"path":"abstidc",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
