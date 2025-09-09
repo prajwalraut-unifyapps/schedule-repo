@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6830394da98fab53ebd6bb2f",
+	"createdTime":1747990867135,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"at81jg/aiehis",
+	"id":"68303953a98fab53ebd6bb32",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - get 11747990498636",
+	"modifiedTime":1747990875046,
+	"name":"endpoint - Callable - GET 11747990498636",
+	"ownerUserId":34,
+	"path":"aiehis",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
