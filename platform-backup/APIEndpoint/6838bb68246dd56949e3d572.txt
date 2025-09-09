@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6838bb5f246dd56949e3d562",
+	"createdTime":1748548456343,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ask6gk5/ankjj1",
+	"id":"6838bb68246dd56949e3d572",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11748547512432",
+	"modifiedTime":1748548464135,
+	"name":"endpoint - Callable - PUT 11748547512432",
+	"ownerUserId":34,
+	"path":"ankjj1",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
