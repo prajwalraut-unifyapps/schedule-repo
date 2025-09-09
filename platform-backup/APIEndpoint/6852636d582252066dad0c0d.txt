@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68526362500d4c674455bc30",
+	"createdTime":1750229869040,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"auk47zk/audwtx4",
+	"id":"6852636d582252066dad0c0d",
+	"lastModifiedBy":34,
+	"lcName":"arrayschemainnextnodes_117502293082630",
+	"modifiedTime":1755075824921,
+	"name":"arraySchemaInNextNodes_117502293082630",
+	"ownerUserId":34,
+	"path":"audwtx4",
+	"resourceIds":["68526357eae52104711fe985"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
