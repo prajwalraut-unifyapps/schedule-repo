@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68272cf62e26277772191f0d",
+	"createdTime":1747397884675,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"awskaxr/afj05pl",
+	"httpMethod":"POST",
+	"id":"68272cfc2e26277772191f0e",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-soap_exportapi_importcallable_117473978482710",
+	"modifiedTime":1748093312569,
+	"name":"endpoint-SOAP_ExportAPI_ImportCallable_117473978482710",
+	"ownerUserId":34,
+	"path":"afj05pl",
+	"resourceIds":["68272cde18b3837099c70ef5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
