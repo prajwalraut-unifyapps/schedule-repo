@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828144a1387a5760c540347",
+	"createdTime":1747457099050,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ntikkdovsj/ZVinegBlvp/{name}",
+	"httpMethod":"GET",
+	"id":"6828144b1387a5760c540348",
+	"lastModifiedBy":34,
+	"lcName":"xskpgrgjsccshagcwokx",
+	"modifiedTime":1747457738059,
+	"name":"xSkpGrGjsCcShAGCwOkX",
+	"ownerUserId":34,
+	"path":"ZVinegBlvp/{name}",
+	"resourceIds":["6828144a36516f034a84a37d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":4
+}
