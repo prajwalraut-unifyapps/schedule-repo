@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684316edd99ab01a707e05db",
+	"createdTime":1749227251739,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"azvaisf/aema4i6",
+	"id":"684316f3d99ab01a707e05e2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_singlenoauth - 11749226902233",
+	"modifiedTime":1749227274906,
+	"name":"endpoint_singleNoAuth - 11749226902233",
+	"ownerUserId":34,
+	"path":"aema4i6",
+	"resourceIds":["684316de06e2ba58fec38d61"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
