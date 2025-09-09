@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684fa16a1f6ec5348b5ccf15",
+	"createdTime":1750049131734,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"tpcukwrytu/yRIaBkAFBz",
+	"httpMethod":"POST",
+	"id":"684fa16b1f6ec5348b5ccf16",
+	"lastModifiedBy":34,
+	"lcName":"rigardnazepestiycdmd",
+	"modifiedTime":1750049808757,
+	"name":"RiGaRdNaZepeStiyCdmD",
+	"ownerUserId":34,
+	"path":"yRIaBkAFBz",
+	"resourceIds":["684fa1690573ad4d2f08143b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
