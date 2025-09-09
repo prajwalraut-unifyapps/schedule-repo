@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748598190824,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68397d324410de0463caa15e",
+	"id":"68397dae0cc51e4e088651a4",
+	"lastModifiedBy":-1,
+	"lcName":"checkruns automation web-hook",
+	"modifiedTime":1748598190824,
+	"name":"checkruns Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68397d324410de0463caa15e",
+	"resourceIds":["68397d324410de0463caa15e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
