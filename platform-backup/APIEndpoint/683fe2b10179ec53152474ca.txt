@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1749017265039,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/683fe2a1707308733ffc84f4",
+	"id":"683fe2b10179ec53152474ca",
+	"lastModifiedBy":-1,
+	"lcName":"hbgfds automation web-hook",
+	"modifiedTime":1749018927666,
+	"name":"hbgfds Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"683fe2a1707308733ffc84f4",
+	"resourceIds":["683fe2a1707308733ffc84f4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
