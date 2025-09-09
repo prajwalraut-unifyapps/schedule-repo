@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68427daef49e8578b2e54f28",
+	"createdTime":1749188017347,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"BAITOjHnKCpvjFq/automation",
+	"httpMethod":"POST",
+	"id":"68427db1f49e8578b2e54f2c",
+	"lastModifiedBy":34,
+	"lcName":"changesetlocalebwuu",
+	"modifiedTime":1749188578266,
+	"name":"changeSetLocaleBwuu",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["68427daff49e8578b2e54f29"],
+	"resourceIds":["68427dac7288db5c02facf15"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
