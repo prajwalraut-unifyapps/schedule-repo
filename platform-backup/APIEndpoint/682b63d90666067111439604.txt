@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b63d30666067111439603",
+	"createdTime":1747674073664,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aav0war/av4fyl",
+	"id":"682b63d90666067111439604",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_- basic auth  - 11747673366154",
+	"modifiedTime":1748093081888,
+	"name":"endpoint_- Basic Auth  - 11747673366154",
+	"ownerUserId":34,
+	"path":"av4fyl",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
