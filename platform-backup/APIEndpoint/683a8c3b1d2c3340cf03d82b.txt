@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a8c391d2c3340cf03d825",
+	"createdTime":1748667451184,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"rywxvjupxa/DbPkVIXoSb/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"683a8c3b1d2c3340cf03d82b",
+	"lastModifiedBy":34,
+	"lcName":"epzemjeckqtidveljgov",
+	"modifiedTime":1748667859386,
+	"name":"epzemJECKqtiDveLjGov",
+	"ownerUserId":34,
+	"path":"DbPkVIXoSb/{name}/{age}",
+	"resourceIds":["667a3d1fd1d92d0a308dad28"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
