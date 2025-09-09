@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683e37d85708864a3bdb2798",
+	"createdTime":1748907994503,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"slavfmdptpsboro/webhook?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"683e37da5708864a3bdb279d",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqaeoigh",
+	"modifiedTime":1748935039637,
+	"name":"changeSetSECURITYQAEoiGh",
+	"ownerUserId":34,
+	"path":"webhook",
+	"policyIds":["683e37d85708864a3bdb2799"],
+	"resourceIds":["683e37d75cf0f74b104995af"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
