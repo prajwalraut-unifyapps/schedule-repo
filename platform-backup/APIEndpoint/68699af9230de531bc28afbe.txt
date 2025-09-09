@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68699af084b6767335c7f61d",
+	"createdTime":1751751417668,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aycc21/ao8voab",
+	"id":"68699af9230de531bc28afbe",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_callexternalrest117517441748060",
+	"modifiedTime":1755075702244,
+	"name":"endpoint_CallExternalRest117517441748060",
+	"ownerUserId":34,
+	"path":"ao8voab",
+	"resourceIds":["68699ad7abfc98163fe4b79f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
