@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683fcba30179ec5315246cec",
+	"createdTime":1749011370152,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a4dcxc/aifpn1v",
+	"id":"683fcbaa0179ec5315246cf0",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-filter-modified by-117490111791930",
+	"modifiedTime":1749011377709,
+	"name":"Endpoint-Filter-modified by-117490111791930",
+	"ownerUserId":34,
+	"path":"aifpn1v",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
