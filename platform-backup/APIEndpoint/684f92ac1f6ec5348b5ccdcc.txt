@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684f92a51f6ec5348b5ccdca",
+	"createdTime":1750045356680,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asutuc9/amdrvdf",
+	"id":"684f92ac1f6ec5348b5ccdcc",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint_accessprofile_traversedpath - 11750045048982",
+	"modifiedTime":1750045441241,
+	"name":"callable_endpoint_accessProfile_traversedPath - 11750045048982",
+	"ownerUserId":34,
+	"path":"amdrvdf",
+	"resourceIds":["684f928e4a8da658740f09ce"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
