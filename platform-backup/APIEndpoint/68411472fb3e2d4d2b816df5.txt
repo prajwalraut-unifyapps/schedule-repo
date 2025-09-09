@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6841146bfb3e2d4d2b816df3",
+	"createdTime":1749095538783,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aacuph/alfie4f",
+	"id":"68411472fb3e2d4d2b816df5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11749095467039",
+	"modifiedTime":1749307264973,
+	"name":"endpoint_rateLimitCheck - 11749095467039",
+	"ownerUserId":34,
+	"path":"alfie4f",
+	"resourceIds":["6841144f3dfb2e0ac2f7fa29"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
