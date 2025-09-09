@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6828ea087378937b7894868d",
+	"createdTime":1747511831046,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aso43ym/akrofhh",
+	"httpMethod":"PUT",
+	"id":"6828ea177378937b78948691",
+	"lastModifiedBy":34,
+	"lcName":"callablefilter-117475106780010",
+	"modifiedTime":1747511846198,
+	"name":"callablefilter-117475106780010",
+	"ownerUserId":34,
+	"path":"akrofhh",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
