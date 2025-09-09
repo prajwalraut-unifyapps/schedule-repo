@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684155c10ea2a07956ff9465",
+	"createdTime":1749114928722,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"Demo/triviaapi",
+	"id":"684160300ea2a07956ff9681",
+	"lastModifiedBy":34,
+	"lcName":"triviaapi",
+	"modifiedTime":1749119911350,
+	"name":"triviaapi",
+	"ownerUserId":34,
+	"path":"triviaapi",
+	"policyIds":["684156710ea2a07956ff946b"],
+	"resourceIds":["684158cdbf6a5143fb1e234b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}
