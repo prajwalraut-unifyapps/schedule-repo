@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"685239f4582252066dad06d8",
+	"createdTime":1750219261961,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aqxaa86/astdnr",
+	"id":"685239fd582252066dad06d9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soapxmltest - 117502191759140",
+	"modifiedTime":1750219310741,
+	"name":"endpoint_soapXmlTest - 117502191759140",
+	"ownerUserId":34,
+	"path":"astdnr",
+	"resourceIds":["685239d975c5bd216fefb228"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
