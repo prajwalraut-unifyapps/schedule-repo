@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683963350cc51e4e08860b62",
+	"createdTime":1748591419044,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awiq4pl/a1mgxht",
+	"id":"6839633b0cc51e4e08860b65",
+	"lastModifiedBy":34,
+	"lcName":"update- accessprofile endpoint_before-update- - 11748591261848",
+	"modifiedTime":1749027286515,
+	"name":"update- accessprofile endpoint_before-update- - 11748591261848",
+	"ownerUserId":34,
+	"path":"a1mgxht",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
