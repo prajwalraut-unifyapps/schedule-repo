@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684dd5056f27ad7f9fe6691a",
+	"createdTime":1749931278551,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"anl7765/ai5qqmr?resourceId={{RESOURCE_ID}}",
+	"id":"684dd50e6f27ad7f9fe6691e",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11749929863066",
+	"modifiedTime":1749931285641,
+	"name":"endpointwebhook - Callable - POST 11749929863066",
+	"ownerUserId":34,
+	"path":"ai5qqmr",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
