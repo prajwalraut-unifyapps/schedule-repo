@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6829416eb760d0390a820787",
+	"createdTime":1747534197524,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"arsxtce/a220gq?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"GET",
+	"id":"68294175b760d0390a820788",
+	"lastModifiedBy":121481,
+	"lcName":"rbac-ui-pldeleteendpointulvpldrlv117475323695890",
+	"modifiedTime":1747534289342,
+	"name":"rbac-ui-PLDeleteEndpointULvPLdRLv117475323695890",
+	"ownerUserId":34,
+	"path":"a220gq",
+	"projectId":13,
+	"resourceIds":["68294168b58569511a6a8c59"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
