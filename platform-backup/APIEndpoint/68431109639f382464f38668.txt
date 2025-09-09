@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68431103639f382464f3865f",
+	"createdTime":1749225737036,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avva3us/any2ro",
+	"id":"68431109639f382464f38668",
+	"lastModifiedBy":34,
+	"lcName":"sort_1174922562749801",
+	"modifiedTime":1749307172232,
+	"name":"Sort_1174922562749801",
+	"ownerUserId":34,
+	"path":"any2ro",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
