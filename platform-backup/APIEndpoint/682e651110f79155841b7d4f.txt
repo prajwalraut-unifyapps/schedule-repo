@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682e651010f79155841b7d4b",
+	"createdTime":1747870993951,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"fyjtenmhfvkdlef/automation",
+	"httpMethod":"POST",
+	"id":"682e651110f79155841b7d4f",
+	"lastModifiedBy":34,
+	"lcName":"changesetsecurityqaymvax",
+	"modifiedTime":1747956938565,
+	"name":"changeSetSECURITYQAymVAX",
+	"ownerUserId":34,
+	"path":"automation",
+	"policyIds":["682e651010f79155841b7d4c"],
+	"resourceIds":["682e650fcd4bff20147d8ffc"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
