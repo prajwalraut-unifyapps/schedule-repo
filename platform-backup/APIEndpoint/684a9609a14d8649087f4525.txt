@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684a9605a14d8649087f4523",
+	"createdTime":1749718537761,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"azrptao/a145q21?resourceId={{RESOURCE_ID}}",
+	"id":"684a9609a14d8649087f4525",
+	"lastModifiedBy":34,
+	"lcName":"webhookfilter-117497178285250",
+	"modifiedTime":1755076093702,
+	"name":"webhookfilter-117497178285250",
+	"ownerUserId":34,
+	"path":"a145q21",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
