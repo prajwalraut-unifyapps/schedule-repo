@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1750336704648,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6854049bc629c934b6671cbe",
+	"id":"685404c0876bb814a8bbfab5",
+	"lastModifiedBy":-1,
+	"lcName":"details_visibleon_runspreview_117503331477740 automation web-hook",
+	"modifiedTime":1750514289068,
+	"name":"Details_VisibleOn_RunsPreview_117503331477740 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6854049bc629c934b6671cbe",
+	"resourceIds":["6854049bc629c934b6671cbe"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
