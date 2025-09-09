@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6850c97968a307441b327c5b",
+	"createdTime":1750124938943,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"auo90tv/aglfwr?resourceId={{RESOURCE_ID}}",
+	"id":"6850c98a559c3d6a7851a17d",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvpldrlv117501242788810",
+	"modifiedTime":1755075908786,
+	"name":"rbac-ui-ULViewEndpointULvPLdRLv117501242788810",
+	"ownerUserId":34,
+	"path":"aglfwr",
+	"resourceIds":["6850c933f459f3267e983413"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
