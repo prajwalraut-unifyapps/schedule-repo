@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683bcc111d2c3340cf03e68d",
+	"createdTime":1748749337037,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"a7hb0ai/aznas2",
+	"id":"683bcc191d2c3340cf03e68e",
+	"lastModifiedBy":34,
+	"lcName":"createendpointwithcallableheaders - 117487465364160",
+	"modifiedTime":1749027245631,
+	"name":"createEndpointWithCallableHeaders - 117487465364160",
+	"ownerUserId":34,
+	"path":"aznas2",
+	"resourceIds":["683bcc03d327a47b3b2537c6"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
