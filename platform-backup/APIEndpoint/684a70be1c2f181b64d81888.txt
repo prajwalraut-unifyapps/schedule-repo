@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684a709c1c2f181b64d81884",
+	"createdTime":1749708990950,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"demo/apicust",
+	"id":"684a70be1c2f181b64d81888",
+	"lastModifiedBy":34,
+	"lcName":"apicust",
+	"modifiedTime":1749724211789,
+	"name":"apicust",
+	"ownerUserId":34,
+	"path":"apicust",
+	"resourceIds":["68467ebc61a62e73de18bb1e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
