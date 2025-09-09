@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682e311d3422ca71d0b578b4",
+	"createdTime":1747857700978,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"axgzshl/ajibaya",
+	"id":"682e31243422ca71d0b578ba",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpoint- 117478562821510",
+	"modifiedTime":1748092952170,
+	"name":"Export_APIEndpoint- 117478562821510",
+	"ownerUserId":34,
+	"path":"ajibaya",
+	"resourceIds":["682e3112cd2c940589714ee3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
