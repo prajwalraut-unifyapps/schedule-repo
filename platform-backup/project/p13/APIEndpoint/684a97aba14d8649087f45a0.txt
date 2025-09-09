@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684a9618a14d8649087f452b",
+	"createdTime":1749718955469,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aepkr0o/hvhjb",
+	"id":"684a97aba14d8649087f45a0",
+	"lastModifiedBy":34,
+	"lcName":"hvhjb",
+	"modifiedTime":1755076093241,
+	"name":"hvhjb",
+	"ownerUserId":34,
+	"path":"hvhjb",
+	"policyIds":["68464137ce89b60d0f75f1d6"],
+	"projectId":13,
+	"resourceIds":["684a77d7ca46131e01ecdd0d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
