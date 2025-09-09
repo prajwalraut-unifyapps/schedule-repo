@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6833756cb05f797517f9c94c",
+	"createdTime":1748202867554,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"at16el/ao729yd?resourceId={{RESOURCE_ID}}",
+	"id":"68337573b05f797517f9c94f",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - webhook -  117482018880770",
+	"modifiedTime":1748202873742,
+	"name":"endpoint - Webhook -  117482018880770",
+	"ownerUserId":34,
+	"path":"ao729yd",
+	"resourceIds":["683375615cac7749ad690219"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
