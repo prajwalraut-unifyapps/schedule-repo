@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682b284306ee3054502f313d",
+	"createdTime":1747658825690,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"abe5ngl/addwul",
+	"id":"682b284906ee3054502f3140",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_refreshtoken - 11747658248870",
+	"modifiedTime":1747658851765,
+	"name":"endpoint_refreshToken - 11747658248870",
+	"ownerUserId":34,
+	"path":"addwul",
+	"resourceIds":["682b283365b2a01d46f900b5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
