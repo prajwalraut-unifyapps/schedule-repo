@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6847baabb3e4851864d3b967",
+	"createdTime":1749531309022,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"Backend-Automation1749531307966/LSATTeqpwn/{name}",
+	"httpMethod":"GET",
+	"id":"6847baadb3e4851864d3b968",
+	"lastModifiedBy":34,
+	"lcName":"ncwocoqokcabedmvxiim",
+	"modifiedTime":1749531310291,
+	"name":"ncWocoQokcABedmvxiim",
+	"ownerUserId":34,
+	"path":"LSATTeqpwn/{name}",
+	"resourceIds":["6847baaceafbeb1a63702922"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
