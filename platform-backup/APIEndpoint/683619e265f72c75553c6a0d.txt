@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683619dc65f72c75553c6a0b",
+	"createdTime":1748376034392,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"arjubmp/a4rsny9?resourceId={{RESOURCE_ID}}",
+	"id":"683619e265f72c75553c6a0d",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - put 11748374695209",
+	"modifiedTime":1748376041545,
+	"name":"endpointwebhook - Callable - PUT 11748374695209",
+	"ownerUserId":34,
+	"path":"a4rsny9",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
