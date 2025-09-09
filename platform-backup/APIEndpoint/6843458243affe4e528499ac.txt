@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6843457743affe4e528499a8",
+	"createdTime":1749239170255,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"axo9pva/ahvr49",
+	"id":"6843458243affe4e528499ac",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_updateapigroup - 11749238689382",
+	"modifiedTime":1749239202252,
+	"name":"endpoint_updateApiGroup - 11749238689382",
+	"ownerUserId":34,
+	"path":"ahvr49",
+	"resourceIds":["684345640e69ae19a7b968ae"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
