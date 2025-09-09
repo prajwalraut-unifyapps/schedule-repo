@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68465efefd43c314452950f7",
+	"createdTime":1749442312050,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"apwcu5/asnwnny",
+	"id":"68465f08fd43c314452950fb",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11749441917054",
+	"modifiedTime":1749442373957,
+	"name":"endpoint1_noAuth - 11749441917054",
+	"ownerUserId":34,
+	"path":"asnwnny",
+	"resourceIds":["68465eeb130d8865dbcbcb13"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
