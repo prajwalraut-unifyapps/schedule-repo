@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6828ea257378937b78948692",
+	"createdTime":1747511851583,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aj0oawd/ahbar3s",
+	"httpMethod":"POST",
+	"id":"6828ea2b7378937b78948694",
+	"lastModifiedBy":34,
+	"lcName":"export_endpoint- 117475106780010",
+	"modifiedTime":1747511901465,
+	"name":"Export_Endpoint- 117475106780010",
+	"ownerUserId":34,
+	"path":"ahbar3s",
+	"resourceIds":["6828ea19b58569511a69f350"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
