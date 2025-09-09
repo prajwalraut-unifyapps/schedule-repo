@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830d505c9a363233bc9ed01",
+	"createdTime":1748030731985,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aii8ml/ar9jpl",
+	"id":"6830d50bc9a363233bc9ed03",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117480290677780",
+	"modifiedTime":1748092894617,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117480290677780",
+	"ownerUserId":34,
+	"path":"ar9jpl",
+	"resourceIds":["6830d4d89c74862b9f9e74a1"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
