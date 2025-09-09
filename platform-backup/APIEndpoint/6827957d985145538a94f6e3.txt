@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68279574985145538a94f6e1",
+	"createdTime":1747424637838,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acyolo/ajos8dp",
+	"httpMethod":"POST",
+	"id":"6827957d985145538a94f6e3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint1_noauth - 11747424329883",
+	"modifiedTime":1747424692456,
+	"name":"endpoint1_noAuth - 11747424329883",
+	"ownerUserId":34,
+	"path":"ajos8dp",
+	"resourceIds":["6827955f36516f034a838ece"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
