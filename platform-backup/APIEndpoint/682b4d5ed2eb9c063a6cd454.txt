@@ -1,0 +1,27 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b4d59d2eb9c063a6cd453",
+	"createdTime":1747668318559,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aisp9o/a18muvo",
+	"id":"682b4d5ed2eb9c063a6cd454",
+	"lastModifiedBy":34,
+	"lcName":"endpoint post update - 11747668310459",
+	"modifiedTime":1748093112083,
+	"name":"endpoint post update - 11747668310459",
+	"ownerUserId":34,
+	"path":"a18muvo",
+	"resourceIds":["67f7c8c6a18f5b1e50f249c5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"GET"
+	],
+	"version":2
+}
