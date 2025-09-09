@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684c8fd0c83dbe7ea3e8bc79",
+	"createdTime":1749848023943,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"adr0pf/aztz5do",
+	"id":"684c8fd7c83dbe7ea3e8bc7a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soapxmltest - 117498434941780",
+	"modifiedTime":1749848069152,
+	"name":"endpoint_soapXmlTest - 117498434941780",
+	"ownerUserId":34,
+	"path":"aztz5do",
+	"resourceIds":["684c8fb8926b5f75dea882c9"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
