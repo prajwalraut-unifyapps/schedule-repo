@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682b1ee33b1ca775f95b1797",
+	"createdTime":1747656424281,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"avd63to/acqpnry",
+	"id":"682b1ee83b1ca775f95b1798",
+	"lastModifiedBy":34,
+	"lcName":"endpoint - callable - put 11747656401868",
+	"modifiedTime":1747656430911,
+	"name":"endpoint - Callable - PUT 11747656401868",
+	"ownerUserId":34,
+	"path":"acqpnry",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
