@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1751306765463,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6862d20c77f7645432a8ea5a",
+	"id":"6862d20de63c6e30b4911339",
+	"lastModifiedBy":-1,
+	"lcName":"changesetlocalgisx2ptvdiu7 automation web-hook",
+	"modifiedTime":1751352336594,
+	"name":"changeSetLocalGISx2PTvDiU7 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6862d20c77f7645432a8ea5a",
+	"resourceIds":["6862d20c77f7645432a8ea5a"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
