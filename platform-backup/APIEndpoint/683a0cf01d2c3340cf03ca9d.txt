@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a0ce61d2c3340cf03ca98",
+	"createdTime":1748634864049,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a11lut/adtisa",
+	"id":"683a0cf01d2c3340cf03ca9d",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_post_117486338799390",
+	"modifiedTime":1749027273254,
+	"name":"Endpoint_customHTTP_POST_117486338799390",
+	"ownerUserId":34,
+	"path":"adtisa",
+	"resourceIds":["683a0cd710adae3c660b018e"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
