@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6850d201559c3d6a7851a19f",
+	"createdTime":1750127117537,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ayuybah/agfkurc",
+	"id":"6850d20d68a307441b327c84",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_modifiednoauth - 11750126976159",
+	"modifiedTime":1755075906759,
+	"name":"endpoint_modifiedNoAuth - 11750126976159",
+	"ownerUserId":34,
+	"path":"agfkurc",
+	"resourceIds":["6850d1e954d9a8146d5a4553"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
