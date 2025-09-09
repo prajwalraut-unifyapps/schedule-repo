@@ -1,0 +1,32 @@
+{
+	"active":true,
+	"cacheResponse":true,
+	"cacheSettings":{
+		"cacheKeys":["num"],
+		"ttl":{
+			"duration":120,
+			"unit":"SECONDS"
+		}
+	},
+	"collectionId":"6835436b062d0b6fbaa81a12",
+	"createdTime":1748321131825,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"tpumoljesb/VKPPPueHTN/{num}",
+	"httpMethod":"GET",
+	"id":"6835436b062d0b6fbaa81a13",
+	"lastModifiedBy":34,
+	"lcName":"dcmtrcsrtcdxwushsldi",
+	"modifiedTime":1748321265391,
+	"name":"dcmtrcSrTcDxwuShslDi",
+	"ownerUserId":34,
+	"path":"VKPPPueHTN/{num}",
+	"resourceIds":["6835436b6a048449e90181a3"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
