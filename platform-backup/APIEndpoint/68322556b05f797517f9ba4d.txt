@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6832254fb05f797517f9ba48",
+	"createdTime":1748116822652,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"atne6mk/aps66l?resourceId={{RESOURCE_ID}}",
+	"id":"68322556b05f797517f9ba4d",
+	"lastModifiedBy":34,
+	"lcName":"is-resource id-117481154929910",
+	"modifiedTime":1748116833452,
+	"name":"Is-Resource Id-117481154929910",
+	"ownerUserId":34,
+	"path":"aps66l",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
