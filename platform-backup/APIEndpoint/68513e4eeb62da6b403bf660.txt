@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68513e49eb62da6b403bf65f",
+	"createdTime":1750154830906,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"alkixt/ae607i?resourceId={{RESOURCE_ID}}",
+	"id":"68513e4eeb62da6b403bf660",
+	"lastModifiedBy":34,
+	"lcName":"endpointupdate - 11750154806357",
+	"modifiedTime":1755075850564,
+	"name":"endpointUpdate - 11750154806357",
+	"ownerUserId":34,
+	"path":"ae607i",
+	"resourceIds":["68513e3d346d072dc5b0f341"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
