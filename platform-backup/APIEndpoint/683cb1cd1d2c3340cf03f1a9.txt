@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683cb1c71d2c3340cf03f1a5",
+	"createdTime":1748808141546,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"amce156/asjatc?resourceId={{RESOURCE_ID}}",
+	"id":"683cb1cd1d2c3340cf03f1a9",
+	"lastModifiedBy":34,
+	"lcName":"is not-resource id-117488066840710",
+	"modifiedTime":1748808153079,
+	"name":"Is not-Resource Id-117488066840710",
+	"ownerUserId":34,
+	"path":"asjatc",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"PUT"
+	],
+	"version":1
+}
