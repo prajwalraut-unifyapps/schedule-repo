@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68523eda500d4c674455b75c",
+	"createdTime":1750220518351,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ajgojqve/aj2ppur",
+	"id":"68523ee6500d4c674455b760",
+	"lastModifiedBy":34,
+	"lcName":"allowedip_endpoint_ - 11750219176115",
+	"modifiedTime":1750220578349,
+	"name":"AllowedIp_endpoint_ - 11750219176115",
+	"ownerUserId":34,
+	"path":"aj2ppur",
+	"resourceIds":["68523ec81fd9af0198a9b54a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
