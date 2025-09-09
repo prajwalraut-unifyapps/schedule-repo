@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"686cee36ba1a1d250af016f2",
+	"createdTime":1751969354216,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ahemuze/a9jfuxt",
+	"id":"686cee4a33141a7f97383c44",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customauth_117519669692640",
+	"modifiedTime":1755075671464,
+	"name":"endpoint_customAuth_117519669692640",
+	"ownerUserId":34,
+	"path":"a9jfuxt",
+	"resourceIds":["686cee02daa34b63d107cd12"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
