@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"682e84ab9075894c94c2e53d",
+	"createdTime":1747879091248,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"a4nlva/axlknkm?resourceId={{RESOURCE_ID}}",
+	"id":"682e84b39075894c94c2e53e",
+	"lastModifiedBy":34,
+	"lcName":"rbac-ui-ulviewendpointulvplnrln117478778794160",
+	"modifiedTime":1747879236025,
+	"name":"rbac-ui-ULViewEndPointULvPLnRLn117478778794160",
+	"ownerUserId":34,
+	"path":"axlknkm",
+	"resourceIds":["682e848bcd4bff20147d9e83"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
