@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6838bb8f246dd56949e3d5b2",
+	"createdTime":1748548506154,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"acurvx/ag4mmbn",
+	"id":"6838bb9a246dd56949e3d5c3",
+	"lastModifiedBy":34,
+	"lcName":"customhttp_exportheaderquery_117485475220770",
+	"modifiedTime":1749027320090,
+	"name":"customHTTP_exportHeaderQuery_117485475220770",
+	"ownerUserId":34,
+	"path":"ag4mmbn",
+	"resourceIds":["6838bb7efdb35d013041db75"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
