@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748363024111,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/6835861c26639a1295bfa9bb",
+	"id":"6835e710062d0b6fbaa82519",
+	"lastModifiedBy":-1,
+	"lcName":"redwsaz automation web-hook",
+	"modifiedTime":1748363024111,
+	"name":"redwsaz Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"6835861c26639a1295bfa9bb",
+	"resourceIds":["6835861c26639a1295bfa9bb"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
