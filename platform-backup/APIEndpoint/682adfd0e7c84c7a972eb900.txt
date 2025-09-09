@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682adc1ea1b6a36d4b16d36d",
+	"createdTime":1747640272659,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"Callable-EX/Callabl-Api",
+	"id":"682adfd0e7c84c7a972eb900",
+	"lastModifiedBy":34,
+	"lcName":"callabl_api",
+	"modifiedTime":1747640290253,
+	"name":"Callabl_Api",
+	"ownerUserId":34,
+	"path":"Callabl-Api",
+	"resourceIds":["68147dc701e9503059607237"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
