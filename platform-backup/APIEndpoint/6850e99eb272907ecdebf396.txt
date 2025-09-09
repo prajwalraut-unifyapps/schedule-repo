@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6850e998b272907ecdebf392",
+	"createdTime":1750133150798,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a9blbfm/aptuphp",
+	"id":"6850e99eb272907ecdebf396",
+	"lastModifiedBy":34,
+	"lcName":"api_endpoint117501324426900",
+	"modifiedTime":1755075868975,
+	"name":"API_Endpoint117501324426900",
+	"ownerUserId":34,
+	"path":"aptuphp",
+	"resourceIds":["6850e97a3b11292df2a2a06a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
