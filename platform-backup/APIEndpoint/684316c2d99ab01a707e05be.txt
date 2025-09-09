@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684316bbd99ab01a707e05b3",
+	"createdTime":1749227202486,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ao4s25/avhhuei",
+	"id":"684316c2d99ab01a707e05be",
+	"lastModifiedBy":34,
+	"lcName":"soap_multipleserviceendpoints- 117492268991900",
+	"modifiedTime":1749227280355,
+	"name":"soap_multipleServiceEndpoints- 117492268991900",
+	"ownerUserId":34,
+	"path":"avhhuei",
+	"resourceIds":["684316a517f0805158324298"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
