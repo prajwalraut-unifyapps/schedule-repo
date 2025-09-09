@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c2009ff93de6ccbd0374f",
+	"createdTime":1747722260566,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agt6tv/abl1t2r",
+	"id":"682c2014ff93de6ccbd03750",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_get_117477221991180",
+	"modifiedTime":1748093020975,
+	"name":"Endpoint_customHTTP_GET_117477221991180",
+	"ownerUserId":34,
+	"path":"abl1t2r",
+	"resourceIds":["682c1ff51eda106d0a002a3f"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
