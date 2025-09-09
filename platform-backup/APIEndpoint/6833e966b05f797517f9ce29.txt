@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6833e961b05f797517f9ce28",
+	"createdTime":1748232550941,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aumx9l/atitf6",
+	"id":"6833e966b05f797517f9ce29",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_excludeioruns - 117482319444450",
+	"modifiedTime":1748232626930,
+	"name":"endpoint_excludeIORuns - 117482319444450",
+	"ownerUserId":34,
+	"path":"atitf6",
+	"resourceIds":["6833e9394c17434965daaaac"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
