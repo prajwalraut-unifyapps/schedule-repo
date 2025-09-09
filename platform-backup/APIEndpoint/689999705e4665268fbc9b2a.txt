@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6899996b5e4665268fbc9b27",
+	"createdTime":1754896752874,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"atih9tnx/a6sgln",
+	"id":"689999705e4665268fbc9b2a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_count_update_117548966741010",
+	"modifiedTime":1754913557271,
+	"name":"endpoint_count_update_117548966741010",
+	"ownerUserId":34,
+	"path":"a6sgln",
+	"resourceIds":["6899995ac57d49ed2c8fd6f7"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
