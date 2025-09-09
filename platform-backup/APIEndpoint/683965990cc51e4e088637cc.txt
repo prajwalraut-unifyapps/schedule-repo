@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683965930cc51e4e088637b8",
+	"createdTime":1748592025709,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"asoweps/aptt03n",
+	"id":"683965990cc51e4e088637cc",
+	"lastModifiedBy":34,
+	"lcName":"diabledsortapi-11748591980805",
+	"modifiedTime":1748592033317,
+	"name":"diabledsortapi-11748591980805",
+	"ownerUserId":34,
+	"path":"aptt03n",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
