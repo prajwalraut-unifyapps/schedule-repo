@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6838020f3013106238d22415",
+	"createdTime":1748501019047,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ahydml6/afarfm",
+	"id":"6838021b3013106238d2241c",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_validateactionaloptions - 11748499300096",
+	"modifiedTime":1748501027237,
+	"name":"endpoint_validateActionalOptions - 11748499300096",
+	"ownerUserId":34,
+	"path":"afarfm",
+	"resourceIds":["683801fdd88a8617bb5efe69"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
