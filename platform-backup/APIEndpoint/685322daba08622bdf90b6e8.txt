@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"685322c3ba08622bdf90b6e6",
+	"createdTime":1750278874646,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a265z28/axa30k",
+	"id":"685322daba08622bdf90b6e8",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_endpointdeletionlog- 117502755014790",
+	"modifiedTime":1750278883145,
+	"name":"endpoint_endpointdeletionLog- 117502755014790",
+	"ownerUserId":34,
+	"path":"axa30k",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
