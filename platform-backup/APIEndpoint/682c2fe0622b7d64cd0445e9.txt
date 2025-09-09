@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c2fda622b7d64cd0445e2",
+	"createdTime":1747726304627,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a10f8wl/affrbp",
+	"id":"682c2fe0622b7d64cd0445e9",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_customhttp_patch_117477251322600",
+	"modifiedTime":1748093006223,
+	"name":"Endpoint_customHTTP_PATCH_117477251322600",
+	"ownerUserId":34,
+	"path":"affrbp",
+	"resourceIds":["682c2fcf1eda106d0a007f03"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"PATCH"
+	],
+	"version":2
+}
