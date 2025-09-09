@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682c3115622b7d64cd044640",
+	"createdTime":1747726620093,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aq3wp8c/adp66zk",
+	"id":"682c311c622b7d64cd044641",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_auth_117477251322600",
+	"modifiedTime":1748093004793,
+	"name":"Endpoint_E2E_Workflow_Callable_Auth_117477251322600",
+	"ownerUserId":34,
+	"path":"adp66zk",
+	"resourceIds":["682c30e41eda106d0a008454"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
