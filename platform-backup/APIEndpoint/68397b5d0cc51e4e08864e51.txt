@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68397b550cc51e4e08864e44",
+	"createdTime":1748597597463,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ajk4nx/aoetzstd",
+	"id":"68397b5d0cc51e4e08864e51",
+	"lastModifiedBy":34,
+	"lcName":"export_apiendpoint- 117485974415480",
+	"modifiedTime":1748597651631,
+	"name":"Export_APIEndpoint- 117485974415480",
+	"ownerUserId":34,
+	"path":"aoetzstd",
+	"resourceIds":["68397b4743e3e5077508c963"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
