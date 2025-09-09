@@ -1,0 +1,27 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"680d46bca4e8d77724aad810",
+	"createdTime":1745700546669,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"av2yq7h/apmixti",
+	"httpMethod":"GET",
+	"id":"680d46c2a4e8d77724aad811",
+	"lastModifiedBy":34,
+	"lcName":"callable_endpoint__rest_api - 117456962917210",
+	"modifiedTime":1747408260841,
+	"name":"callable_endpoint__rest_Api - 117456962917210",
+	"ownerUserId":34,
+	"path":"apmixti",
+	"resourceIds":["680d46af3baefa6f8a6516f5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
