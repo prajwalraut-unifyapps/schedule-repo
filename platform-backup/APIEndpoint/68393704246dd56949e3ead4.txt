@@ -1,0 +1,24 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1748580100331,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68393704197fe67d28c0a023",
+	"id":"68393704246dd56949e3ead4",
+	"lastModifiedBy":-1,
+	"lcName":"backend_automationt16reygreimr automation web-hook",
+	"modifiedTime":1748580186160,
+	"name":"Backend_Automationt16ReygREimr Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68393704197fe67d28c0a023",
+	"resourceIds":["68393704197fe67d28c0a023"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
