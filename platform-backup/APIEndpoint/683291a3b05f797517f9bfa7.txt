@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6832919ab05f797517f9bfa1",
+	"createdTime":1748144547152,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ap30sv9/ayedwgr",
+	"id":"683291a3b05f797517f9bfa7",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_verifyruns - 11748143421421",
+	"modifiedTime":1749027452246,
+	"name":"endpoint_verifyRuns - 11748143421421",
+	"ownerUserId":34,
+	"path":"ayedwgr",
+	"resourceIds":["6832917e1e1b13643760e527"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
