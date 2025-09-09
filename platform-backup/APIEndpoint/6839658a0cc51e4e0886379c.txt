@@ -1,0 +1,24 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683965840cc51e4e0886378c",
+	"createdTime":1748592010636,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"apjluio/aifozem?resourceId={{RESOURCE_ID}}",
+	"id":"6839658a0cc51e4e0886379c",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - get 11748591985133",
+	"modifiedTime":1748592017969,
+	"name":"endpointwebhook - Callable - GET 11748591985133",
+	"ownerUserId":34,
+	"path":"aifozem",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":1
+}
