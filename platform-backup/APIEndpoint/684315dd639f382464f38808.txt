@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"684315d6639f382464f38801",
+	"createdTime":1749226973573,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"ag9qnzg/aurzo49",
+	"id":"684315dd639f382464f38808",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-after_modified_time-117492268897850",
+	"modifiedTime":1749226982469,
+	"name":"Endpoint-after_modified_time-117492268897850",
+	"ownerUserId":34,
+	"path":"aurzo49",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
