@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684345c343affe4e528499b0",
+	"createdTime":1749239244447,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"az43zz/aco8mp",
+	"id":"684345cc43affe4e528499b1",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apigroup_clientmod_11749238689382",
+	"modifiedTime":1749239284561,
+	"name":"endpoint_ApiGroup_ClientMod_11749238689382",
+	"ownerUserId":34,
+	"path":"aco8mp",
+	"resourceIds":["684345b13b6ae737e5d38aa8"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
