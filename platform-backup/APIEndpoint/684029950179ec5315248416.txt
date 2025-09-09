@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684029520179ec5315248414",
+	"createdTime":1749035413535,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"Api-Group/Callab-Api-G",
+	"id":"684029950179ec5315248416",
+	"lastModifiedBy":34,
+	"lcName":"callab_api_g",
+	"modifiedTime":1749035418924,
+	"name":"Callab_Api_G",
+	"ownerUserId":34,
+	"path":"Callab-Api-G",
+	"resourceIds":["6840204eceed8f736a2cc86d"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":3
+}
