@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68347e82062d0b6fbaa80e5b",
+	"createdTime":1748270723683,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"wptkncsrcy/JaAETjftYa?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68347e83062d0b6fbaa80e60",
+	"lastModifiedBy":34,
+	"lcName":"waiefdonrlhulprofstq",
+	"modifiedTime":1748271132927,
+	"name":"WAiefdoNrlHULPROfStq",
+	"ownerUserId":34,
+	"path":"JaAETjftYa",
+	"resourceIds":["66790819f870230e0b80514e"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
