@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68431704d99ab01a707e05f4",
+	"createdTime":1749227273599,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aemqgpe/a22ttf",
+	"id":"68431709d99ab01a707e05f5",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_before-update- - 11749226893721",
+	"modifiedTime":1749227340299,
+	"name":"endpoint_before-update- - 11749226893721",
+	"ownerUserId":34,
+	"path":"a22ttf",
+	"resourceIds":["6681a4b3ae8d3a4a0d3f1754"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
