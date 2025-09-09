@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830d41ac9a363233bc9eca2",
+	"createdTime":1748030497414,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"agwln50q/ai7plka",
+	"id":"6830d421c9a363233bc9eca3",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_envheaders_117480290677780",
+	"modifiedTime":1748092896546,
+	"name":"endpoint_envHeaders_117480290677780",
+	"ownerUserId":34,
+	"path":"ai7plka",
+	"resourceIds":["6830d40f9c74862b9f9e7315"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
