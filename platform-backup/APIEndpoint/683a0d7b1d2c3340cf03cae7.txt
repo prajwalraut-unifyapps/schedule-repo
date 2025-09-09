@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683a0d701d2c3340cf03cade",
+	"createdTime":1748635003266,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aataor/avtvb4a",
+	"id":"683a0d7b1d2c3340cf03cae7",
+	"lastModifiedBy":34,
+	"lcName":"arrayschemainnextnodes_117486338799390",
+	"modifiedTime":1749027272321,
+	"name":"arraySchemaInNextNodes_117486338799390",
+	"ownerUserId":34,
+	"path":"avtvb4a",
+	"resourceIds":["683a0d6210adae3c660b02bf"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
