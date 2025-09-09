@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683934ff246dd56949e3e6c5",
+	"createdTime":1748579589931,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aowy4ui/ague9io",
+	"id":"68393505246dd56949e3e6d0",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_formdata_117485783201570",
+	"modifiedTime":1748579668145,
+	"name":"endpoint_formData_117485783201570",
+	"ownerUserId":34,
+	"path":"ague9io",
+	"resourceIds":["683934f1197fe67d28c0959b"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
