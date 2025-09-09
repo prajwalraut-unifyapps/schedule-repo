@@ -1,0 +1,25 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"6827990d985145538a94f841",
+	"createdTime":1747425555065,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ap4vzagi/atz97i9?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68279913985145538a94f843",
+	"lastModifiedBy":34,
+	"lcName":"endpointwebhook - callable - post 11747424329883",
+	"modifiedTime":1747425562550,
+	"name":"endpointwebhook - Callable - POST 11747424329883",
+	"ownerUserId":34,
+	"path":"atz97i9",
+	"resourceIds":["6768eff5491b624c178afff4"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
