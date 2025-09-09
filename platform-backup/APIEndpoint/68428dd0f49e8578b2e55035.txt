@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68428dcaf49e8578b2e55033",
+	"createdTime":1749192144163,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aqkeys/abougbt",
+	"id":"68428dd0f49e8578b2e55035",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_ratelimitcheck - 11749191923023",
+	"modifiedTime":1749192196617,
+	"name":"endpoint_rateLimitCheck - 11749191923023",
+	"ownerUserId":34,
+	"path":"abougbt",
+	"resourceIds":["68428dc17288db5c02faf2a0"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
