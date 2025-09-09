@@ -1,0 +1,23 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68288a1e9ab52034dd6155d3",
+	"createdTime":1747487275156,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"akrf6wq/aaazfps",
+	"id":"68288a2b9ab52034dd6155d8",
+	"lastModifiedBy":34,
+	"lcName":"arrayschemainnextnodes_117474872517750",
+	"modifiedTime":1748093257106,
+	"name":"arraySchemaInNextNodes_117474872517750",
+	"ownerUserId":34,
+	"path":"aaazfps",
+	"resourceIds":["68288a17cd325002b2224e6a"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"version":2
+}
