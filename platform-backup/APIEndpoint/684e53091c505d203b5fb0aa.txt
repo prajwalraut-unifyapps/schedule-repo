@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"684e530873947829536b2c74",
+	"createdTime":1749963529865,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"qgdfvgjpli/wwjcVrtyrh?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"684e53091c505d203b5fb0aa",
+	"lastModifiedBy":34,
+	"lcName":"fabjtyymoxqspmalkqbx",
+	"modifiedTime":1749963591004,
+	"name":"fabJtYymoXqSPmaLkqbx",
+	"ownerUserId":34,
+	"path":"wwjcVrtyrh",
+	"resourceIds":["684e5308ff8147667e02daf2"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
