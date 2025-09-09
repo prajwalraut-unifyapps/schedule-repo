@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68347e82062d0b6fbaa80e5b",
+	"createdTime":1748270723109,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"wptkncsrcy/liudaMDvOp/{name}/{age}?resourceId={{RESOURCE_ID}}",
+	"httpMethod":"POST",
+	"id":"68347e83062d0b6fbaa80e5e",
+	"lastModifiedBy":34,
+	"lcName":"vazissfurhbudtggmpdg",
+	"modifiedTime":1748271132927,
+	"name":"vaziSsfURHBUDTGGMpDg",
+	"ownerUserId":34,
+	"path":"liudaMDvOp/{name}/{age}",
+	"resourceIds":["667a3e86d1d92d0a308dad48"],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
