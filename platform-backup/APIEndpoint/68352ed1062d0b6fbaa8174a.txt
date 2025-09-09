@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68352eca062d0b6fbaa81745",
+	"createdTime":1748315857269,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"ao66jlw/amxtvxn",
+	"id":"68352ed1062d0b6fbaa8174a",
+	"lastModifiedBy":34,
+	"lcName":"endpoint-soap_exportapi_importcallable_117483151491410",
+	"modifiedTime":1749027389927,
+	"name":"endpoint-SOAP_ExportAPI_ImportCallable_117483151491410",
+	"ownerUserId":34,
+	"path":"amxtvxn",
+	"resourceIds":["68352ebf30294a597b694868"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
