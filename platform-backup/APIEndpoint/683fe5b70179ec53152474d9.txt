@@ -1,0 +1,26 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"683fe5b10179ec53152474d8",
+	"createdTime":1749018039982,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a0j6wyf/aykv1fs",
+	"id":"683fe5b70179ec53152474d9",
+	"lastModifiedBy":34,
+	"lcName":"accessprofileendpointpolicyorder4_117490180178150",
+	"modifiedTime":1749307284928,
+	"name":"AccessProfileEndpointPolicyOrder4_117490180178150",
+	"ownerUserId":34,
+	"path":"aykv1fs",
+	"resourceIds":["683fe5a6707308733ffcae21"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
