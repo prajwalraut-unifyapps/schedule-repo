@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"682a3bf484a24115962bcba7",
+	"createdTime":1747598333441,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"SOAP",
+	"endpointUrl":"aitkey/akdvnf",
+	"id":"682a3bfd84a24115962bcbaa",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_soapexecutetoken - 11747597113079",
+	"modifiedTime":1748093194805,
+	"name":"endpoint_soapExecuteToken - 11747597113079",
+	"ownerUserId":34,
+	"path":"akdvnf",
+	"resourceIds":["682a3bdc3ce39e58e4dfa0a4"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
