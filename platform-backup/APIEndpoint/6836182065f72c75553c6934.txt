@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6836181765f72c75553c692d",
+	"createdTime":1748375584742,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"auufd8e/ar8dvue",
+	"id":"6836182065f72c75553c6934",
+	"lastModifiedBy":34,
+	"lcName":"arrayschemainnextnodes_117483746812300",
+	"modifiedTime":1749027382728,
+	"name":"arraySchemaInNextNodes_117483746812300",
+	"ownerUserId":34,
+	"path":"ar8dvue",
+	"resourceIds":["6836180b0358d66d4106adfa"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"GET"
+	],
+	"version":2
+}
