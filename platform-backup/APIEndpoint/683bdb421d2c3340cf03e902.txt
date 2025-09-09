@@ -1,0 +1,25 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"683bdb421d2c3340cf03e900",
+	"createdTime":1748753218571,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"ymvgcnbusy/HCHSDCegAi",
+	"httpMethod":"POST",
+	"id":"683bdb421d2c3340cf03e902",
+	"lastModifiedBy":34,
+	"lcName":"eyziljrvguvgzefvvrcm",
+	"modifiedTime":1748753855108,
+	"name":"EYZilJrvgUvGZEFvvrCM",
+	"ownerUserId":34,
+	"path":"HCHSDCegAi",
+	"resourceIds":["683bdb40694a2e3172e025f5"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
