@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6843e044a8e15845f36fc086",
+	"createdTime":1749278794445,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a8ph8n/abhalit",
+	"id":"6843e04aa8e15845f36fc088",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_callexternalrest117492775459180",
+	"modifiedTime":1749278874614,
+	"name":"endpoint_CallExternalRest117492775459180",
+	"ownerUserId":34,
+	"path":"abhalit",
+	"resourceIds":["6843e0391418b600c344c603"],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[1],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
