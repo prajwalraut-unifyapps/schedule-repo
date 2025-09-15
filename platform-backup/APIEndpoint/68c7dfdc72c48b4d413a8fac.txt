@@ -4,13 +4,13 @@
 	"collectionId":"6830803f5eee0718fb61a5cf",
 	"createdTime":1757929436345,
 	"customizeTimeout":false,
-	"deleted":false,
+	"deleted":true,
 	"enableCanaryDeployment":false,
 	"endpointUrl":"trigger-workflow/68c7dfd2fb1b4909a95dc4d7",
 	"id":"68c7dfdc72c48b4d413a8fac",
 	"lastModifiedBy":-1,
 	"lcName":"comparedeployedversions_closebuttonvalidation_validatetheviewchangesbuttonformodifiednodes_117579292093360 automation web-hook",
-	"modifiedTime":1757929436345,
+	"modifiedTime":1757929455581,
 	"name":"compareDeployedVersions_closeButtonValidation_validateTheViewChangesButtonForModifiedNodes_117579292093360 Automation Web-hook",
 	"ownerUserId":-1,
 	"path":"68c7dfd2fb1b4909a95dc4d7",
@@ -22,5 +22,5 @@
 	"supportedHttpMethods":[
 		"ANY"
 	],
-	"version":0
+	"version":1
 }
