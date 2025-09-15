@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1757929284757,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68c7df37da82335f511fcf49",
+	"id":"68c7df4472c48b4d413a8f9b",
+	"lastModifiedBy":-1,
+	"lcName":"zoominandzoomoutbuttons_117579292093360 automation web-hook",
+	"modifiedTime":1757929338520,
+	"name":"zoomInAndZoomOutButtons_117579292093360 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68c7df37da82335f511fcf49",
+	"resourceIds":[
+		"68c7df37da82335f511fcf49"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
