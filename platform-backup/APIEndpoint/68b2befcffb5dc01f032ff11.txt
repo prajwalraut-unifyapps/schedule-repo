@@ -1,0 +1,26 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1756544764885,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointUrl":"trigger-workflow/68b2bec0e482c576c90b4cb9",
+	"id":"68b2befcffb5dc01f032ff11",
+	"lastModifiedBy":-1,
+	"lcName":"mapschemawebhookworkflow_117565416230620 automation web-hook",
+	"modifiedTime":1758199722312,
+	"name":"MapSchemaWebhookWorkflow_117565416230620 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68b2bec0e482c576c90b4cb9",
+	"resourceIds":[
+		"68b2bec0e482c576c90b4cb9"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":1
+}
