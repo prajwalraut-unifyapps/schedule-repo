@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ad2f80d81e60325ee5b270",
+	"createdTime":1756180359110,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"aicgpup/arlo4p",
+	"id":"68ad2f87d81e60325ee5b274",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_object_basic_117561791373240",
+	"modifiedTime":1758200262039,
+	"name":"Endpoint_E2E_Workflow_Callable_Object_Basic_117561791373240",
+	"ownerUserId":34,
+	"path":"arlo4p",
+	"resourceIds":[
+		"68ad2f08fc16116cc3e3667f"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
