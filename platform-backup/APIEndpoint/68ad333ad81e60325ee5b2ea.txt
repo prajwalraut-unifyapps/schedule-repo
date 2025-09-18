@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ad3335d81e60325ee5b2e8",
+	"createdTime":1756181306376,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"an6du5c/ax6hslg",
+	"id":"68ad333ad81e60325ee5b2ea",
+	"lastModifiedBy":34,
+	"lcName":"mapdatamaskcallableendpoint_117561791373240",
+	"modifiedTime":1758200260101,
+	"name":"MapdataMaskCallableEndpoint_117561791373240",
+	"ownerUserId":34,
+	"path":"ax6hslg",
+	"resourceIds":[
+		"68ad32fafc16116cc3e36f65"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
