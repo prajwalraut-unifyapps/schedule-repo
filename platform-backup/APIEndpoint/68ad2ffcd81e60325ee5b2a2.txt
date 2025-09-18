@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ad2ff5d81e60325ee5b29f",
+	"createdTime":1756180476007,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"au223m9/adaucpr",
+	"id":"68ad2ffcd81e60325ee5b2a2",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_e2e_workflow_callable_loop_and_branch_basic_117561791373240",
+	"modifiedTime":1758200260583,
+	"name":"Endpoint_E2E_Workflow_Callable_Loop_And_Branch_Basic_117561791373240",
+	"ownerUserId":34,
+	"path":"adaucpr",
+	"resourceIds":[
+		"68ad2f72fc16116cc3e366fe"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
