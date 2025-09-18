@@ -1,0 +1,31 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68b8302b8564835cf92bfc58",
+	"createdTime":1756901424496,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"afxgat/ahegyat",
+	"id":"68b830308564835cf92bfc5b",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_apply_filter_117569012098890",
+	"modifiedTime":1758200235801,
+	"name":"endpoint_apply_filter_117569012098890",
+	"ownerUserId":34,
+	"path":"ahegyat",
+	"resourceIds":[
+		"68b8301217a0ef12f8ff3b6e"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST",
+		"PUT"
+	],
+	"version":2
+}
