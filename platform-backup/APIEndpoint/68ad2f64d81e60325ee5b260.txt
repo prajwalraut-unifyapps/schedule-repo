@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ad2f5fd81e60325ee5b25d",
+	"createdTime":1756180324968,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"a0nwsu/ael9ti26",
+	"id":"68ad2f64d81e60325ee5b260",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_hidden_columns_117561791371070",
+	"modifiedTime":1758200263007,
+	"name":"endpoint_hidden_columns_117561791371070",
+	"ownerUserId":34,
+	"path":"ael9ti26",
+	"resourceIds":[
+		"68ad2f3ffc16116cc3e366ce"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
