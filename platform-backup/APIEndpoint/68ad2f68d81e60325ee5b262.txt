@@ -1,0 +1,30 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"68ad2f62d81e60325ee5b25e",
+	"createdTime":1756180328246,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"arsldr5/ac2pjs",
+	"id":"68ad2f68d81e60325ee5b262",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_filter_117561791371070",
+	"modifiedTime":1758200262766,
+	"name":"endpoint_filter_117561791371070",
+	"ownerUserId":34,
+	"path":"ac2pjs",
+	"resourceIds":[
+		"68ad2f4cfc16116cc3e366d4"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":2
+}
