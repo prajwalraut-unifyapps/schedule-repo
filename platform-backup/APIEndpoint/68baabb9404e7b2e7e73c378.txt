@@ -1,0 +1,30 @@
+{
+	"active":false,
+	"cacheResponse":false,
+	"collectionId":"68baabb3404e7b2e7e73c377",
+	"createdTime":1757064121440,
+	"customizeTimeout":false,
+	"deleted":true,
+	"enableCanaryDeployment":false,
+	"endpointType":"REST",
+	"endpointUrl":"awi315p/anf9vs",
+	"id":"68baabb9404e7b2e7e73c378",
+	"lastModifiedBy":34,
+	"lcName":"endpoint_filter_117570638773030",
+	"modifiedTime":1758200220607,
+	"name":"endpoint_filter_117570638773030",
+	"ownerUserId":34,
+	"path":"anf9vs",
+	"resourceIds":[
+		"68baab895af1c43b0b011de9"
+	],
+	"resourceType":"CALLABLE_WORKFLOW",
+	"resourceVersions":[
+		1
+	],
+	"standard":false,
+	"supportedHttpMethods":[
+		"POST"
+	],
+	"version":1
+}
