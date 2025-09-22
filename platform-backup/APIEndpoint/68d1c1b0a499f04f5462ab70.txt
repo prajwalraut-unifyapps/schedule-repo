@@ -1,0 +1,29 @@
+{
+	"active":true,
+	"cacheResponse":false,
+	"collectionId":"6830803f5eee0718fb61a5cf",
+	"createdTime":1758577072696,
+	"customizeTimeout":false,
+	"deleted":false,
+	"enableCanaryDeployment":false,
+	"enableNodeLevelLogging":true,
+	"enableRunLogging":true,
+	"enableVariableLogging":true,
+	"endpointUrl":"trigger-workflow/68d1c1af43fc0c2e4bf28621",
+	"id":"68d1c1b0a499f04f5462ab70",
+	"lastModifiedBy":-1,
+	"lcName":"eventstreamssecurityqa1758577071559 automation web-hook",
+	"modifiedTime":1758577072696,
+	"name":"EventStreamsSECURITYQA1758577071559 Automation Web-hook",
+	"ownerUserId":-1,
+	"path":"68d1c1af43fc0c2e4bf28621",
+	"resourceIds":[
+		"68d1c1af43fc0c2e4bf28621"
+	],
+	"resourceType":"WEBHOOK_WORKFLOW",
+	"standard":false,
+	"supportedHttpMethods":[
+		"ANY"
+	],
+	"version":0
+}
